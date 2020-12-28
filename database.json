@@ -3,23 +3,23 @@
     "driver": "mysql",
     "user": "root",
     "password": "",
-    "database": "wordsoup",
+    "database": "mergeheroes",
     "multipleStatements": true
   },
 
   "staging": {
     "driver": "mysql",
-    "user": "wordsoup_user",
-    "password": "123wordsoup",
-    "database": "wordsoup",
+    "user": "mergeheroes_user",
+    "password": "123mergeheroes",
+    "database": "mergeheroes",
     "multipleStatements": true
   },
 
   "release": {
     "driver": "mysql",
-    "user": "wordsoup_user",
-    "password": "ojhczz7632s",
-    "database": "wordsoup",
+    "user": "mergeheroes_user",
+    "password": "fgr82cj3f2s",
+    "database": "mergeheroes",
     "multipleStatements": true
   },
 

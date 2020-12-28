@@ -2,17 +2,17 @@
   "apps" : [
 
     {
-      "name"      : "wordsoup",
+      "name"      : "mergehereoes",
       "script"    : "cleverapps/levels/rest/bin/www",
       "exec_mode" : "cluster",
       "merge_logs": true,
       "time": true,
-      "instances" : 4,
+      "instances" : 2,
 
       "env": {
-        "PORT": 3000,
-        "database": "wordsoup",
-        "appName"   : "Word Sauce",
+        "PORT": 3016,
+        "database": "mergeheroes",
+        "appName"   : "Merge Heroes",
         "botVerifyToken": "e17892ffef50e148783825d33bea5251",
         "botPageAccessToken": "EAAChIqM7ZBdYBAFjPi19rmU8DGOFDgSsgC315ZCAHZCMFaVPk90Ty689577iIVXunOnkB7Kz24EHIQto8MJZBgxZChE0Ynh6XVNTfkIinSuuy54Q1kTX3ewMQrvlFSvmgUq7GXVVWLcdAM7ZCF2nhYWsCD9taZB3gTHZCgR9uaQblQZDZD",
         "localhost": 0,
@@ -25,8 +25,8 @@
       "env_staging": {
         "appSecret": "bdfe33efd01c3fa886c64c382a30388d",
         "appId" : "1847284985531262",
-        "dbuser": "wordsoup_user",
-        "dbpassword": "123wordsoup",
+        "dbuser": "mergeheroes_user",
+        "dbpassword": "123mergeheroes",
         "restSecret": "9c13cadbe41e08004a37f74cc0192d48",
 
         "okAppSecret": "E638405DDD3D6A95113A3F86",
@@ -41,8 +41,8 @@
       "env_release": {
         "appSecret": "a17ec9fe87a05a7a003817bf45bfa731",
         "appId" : "1839614776298283",
-        "dbuser": "wordsoup_user",
-        "dbpassword": "ojhczz7632s",
+        "dbuser": "mergeheroes_user",
+        "dbpassword": "fgr82cj3f2s",
         "restSecret": "b8f16359bea17357bb2a777b7a9ea13c",
 
         "okAppSecret": "D5C4CA20FD6F8710027B89F8",
@@ -71,7 +71,7 @@
         "localhost": 1
       }
     }, {
-      "name"      : "wordsoup-push",
+      "name"      : "mergeheroes-push",
       "script"    : "cleverapps/notifications/pushes/sender.js",
 
       "env_localhost": {
