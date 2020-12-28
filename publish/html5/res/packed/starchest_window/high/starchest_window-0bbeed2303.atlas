@@ -1,0 +1,48 @@
+
+starchest_window-0bbeed2303.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bagclose
+  rotate: false
+  xy: 244, 1
+  size: 240, 239
+  orig: 240, 239
+  offset: 0, 0
+  index: -1
+bagopen1
+  rotate: false
+  xy: 1, 1
+  size: 241, 233
+  orig: 241, 233
+  offset: 0, 0
+  index: -1
+bagopen2
+  rotate: false
+  xy: 1, 242
+  size: 147, 180
+  orig: 147, 180
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 150, 236
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 150, 312
+  size: 147, 157
+  orig: 147, 157
+  offset: 0, 0
+  index: -1
+starlight
+  rotate: false
+  xy: 1, 424
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1

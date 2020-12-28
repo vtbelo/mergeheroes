@@ -1,0 +1,349 @@
+
+colorcookieman-7504692471.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clown_blue
+  rotate: false
+  xy: 1, 123
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+clown_box_blue
+  rotate: false
+  xy: 310, 72
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_box_green
+  rotate: false
+  xy: 377, 72
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_box_purple
+  rotate: false
+  xy: 444, 83
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_box_red
+  rotate: false
+  xy: 175, 191
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_box_white
+  rotate: false
+  xy: 175, 250
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_box_yellow
+  rotate: false
+  xy: 176, 345
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+clown_cap2_blue
+  rotate: false
+  xy: 272, 431
+  size: 63, 25
+  orig: 63, 25
+  offset: 0, 0
+  index: -1
+clown_cap2_green
+  rotate: false
+  xy: 69, 480
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+clown_cap2_purple
+  rotate: false
+  xy: 176, 404
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+clown_cap2_red
+  rotate: false
+  xy: 242, 404
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+clown_cap2_white
+  rotate: false
+  xy: 243, 345
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+clown_cap2_yellow
+  rotate: false
+  xy: 243, 372
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+clown_cap_blue
+  rotate: false
+  xy: 225, 309
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+clown_cap_green
+  rotate: false
+  xy: 210, 72
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+clown_cap_purple
+  rotate: false
+  xy: 223, 431
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+clown_cap_red
+  rotate: false
+  xy: 260, 72
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+clown_cap_white
+  rotate: false
+  xy: 175, 309
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+clown_cap_yellow
+  rotate: false
+  xy: 223, 467
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+clown_green
+  rotate: false
+  xy: 1, 242
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+clown_handle_blue
+  rotate: false
+  xy: 88, 459
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_handle_green
+  rotate: false
+  xy: 110, 459
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_handle_purple
+  rotate: false
+  xy: 112, 432
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_handle_red
+  rotate: false
+  xy: 474, 1
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_handle_white
+  rotate: false
+  xy: 474, 22
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_handle_yellow
+  rotate: false
+  xy: 474, 43
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+clown_head_blue
+  rotate: false
+  xy: 88, 361
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_head_green
+  rotate: false
+  xy: 135, 432
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_head_purple
+  rotate: false
+  xy: 175, 120
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_head_red
+  rotate: false
+  xy: 210, 1
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_head_white
+  rotate: false
+  xy: 298, 1
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_head_yellow
+  rotate: false
+  xy: 386, 1
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+clown_pupil_1
+  rotate: false
+  xy: 135, 503
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+clown_pupil_2
+  rotate: false
+  xy: 142, 503
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+clown_purple
+  rotate: false
+  xy: 1, 361
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+clown_red
+  rotate: false
+  xy: 88, 123
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+clown_shadow
+  rotate: false
+  xy: 1, 480
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+clown_spring_1
+  rotate: false
+  xy: 88, 432
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+clown_spring_2
+  rotate: false
+  xy: 474, 64
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+clown_target
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+clown_white
+  rotate: false
+  xy: 123, 1
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+clown_yellow
+  rotate: false
+  xy: 88, 242
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_blue
+  rotate: false
+  xy: 1, 123
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_green
+  rotate: false
+  xy: 1, 242
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_purple
+  rotate: false
+  xy: 1, 361
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_red
+  rotate: false
+  xy: 88, 123
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_target
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_white
+  rotate: false
+  xy: 123, 1
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1
+colorcookieman-images-clown_yellow
+  rotate: false
+  xy: 88, 242
+  size: 85, 117
+  orig: 85, 117
+  offset: 0, 0
+  index: -1

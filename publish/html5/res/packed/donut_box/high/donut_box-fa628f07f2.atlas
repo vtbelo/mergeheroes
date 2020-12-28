@@ -1,0 +1,139 @@
+
+donut_box-fa628f07f2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_fridge
+  rotate: false
+  xy: 151, 151
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+cap1_fridge
+  rotate: false
+  xy: 1, 451
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+cap2_fridge
+  rotate: false
+  xy: 151, 240
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+donut_box-images-fridge0_stable
+  rotate: false
+  xy: 1, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+donut_box-images-fridge1_stable
+  rotate: false
+  xy: 1, 151
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+donut_box-images-fridge2_stable
+  rotate: false
+  xy: 1, 301
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+donut_box-images-fridge3_stable
+  rotate: false
+  xy: 158, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+donut_box-images-fridge4_stable
+  rotate: false
+  xy: 308, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+fridge0_stable
+  rotate: false
+  xy: 1, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+fridge1_stable
+  rotate: false
+  xy: 1, 151
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+fridge2_stable
+  rotate: false
+  xy: 1, 301
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+fridge3_stable
+  rotate: false
+  xy: 158, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+fridge4_stable
+  rotate: false
+  xy: 308, 1
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+key1_1_fridge
+  rotate: false
+  xy: 485, 68
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+key1_fridge
+  rotate: false
+  xy: 485, 40
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+up1_1_fridge
+  rotate: false
+  xy: 458, 40
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+up1_fridge
+  rotate: false
+  xy: 151, 329
+  size: 102, 84
+  orig: 102, 84
+  offset: 0, 0
+  index: -1
+up2_1_fridge
+  rotate: false
+  xy: 114, 451
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+up2_fridge
+  rotate: false
+  xy: 458, 1
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1

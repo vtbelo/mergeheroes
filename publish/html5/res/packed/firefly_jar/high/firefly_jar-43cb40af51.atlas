@@ -1,0 +1,55 @@
+
+firefly_jar-43cb40af51.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firefly_jar-images-nuclear_kernel_cell
+  rotate: false
+  xy: 119, 362
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+nuclear_barrel
+  rotate: false
+  xy: 1, 258
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+nuclear_barrel_up
+  rotate: false
+  xy: 119, 258
+  size: 108, 102
+  orig: 108, 102
+  offset: 0, 0
+  index: -1
+nuclear_kernel
+  rotate: false
+  xy: 1, 374
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+nuclear_kernel_cell
+  rotate: false
+  xy: 119, 362
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+nuclear_kernel_vert
+  rotate: false
+  xy: 1, 452
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+nuclear_light
+  rotate: false
+  xy: 1, 1
+  size: 248, 255
+  orig: 248, 255
+  offset: 0, 0
+  index: -1

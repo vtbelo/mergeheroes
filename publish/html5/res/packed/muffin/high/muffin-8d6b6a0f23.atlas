@@ -1,0 +1,83 @@
+
+muffin-8d6b6a0f23.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down_muf
+  rotate: false
+  xy: 1, 121
+  size: 139, 91
+  orig: 139, 91
+  offset: 0, 0
+  index: -1
+duck_muf
+  rotate: false
+  xy: 147, 1
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+muf_toy_blue
+  rotate: false
+  xy: 213, 66
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+muf_toy_green
+  rotate: false
+  xy: 213, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+muf_toy_orange
+  rotate: false
+  xy: 147, 75
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+muf_toy_red
+  rotate: false
+  xy: 213, 35
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+muffin-images-muffin_cherry
+  rotate: false
+  xy: 147, 1
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+muffin_cherry
+  rotate: false
+  xy: 147, 1
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+muffin_goal
+  rotate: false
+  xy: 142, 121
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+puz_muf
+  rotate: false
+  xy: 1, 214
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+up_muf
+  rotate: false
+  xy: 1, 1
+  size: 144, 118
+  orig: 144, 118
+  offset: 0, 0
+  index: -1

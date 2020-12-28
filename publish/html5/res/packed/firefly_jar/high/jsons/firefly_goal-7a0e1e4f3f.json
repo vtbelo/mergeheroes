@@ -1,0 +1,157 @@
+{
+"skeleton": { "hash": "Fw9WGna6bkL8W0c9dNhwfha/FDo", "spine": "3.7.68-beta", "width": 62.19, "height": 72.21, "images": "./images/", "audio": "C:/Users/Eugene/Desktop/nuclear barrel" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "nuclear_kernel3", "parent": "root", "length": 40.72, "rotation": 92.23, "x": -1.61, "y": 52.69 }
+],
+"slots": [
+	{ "name": "nuclear_kernel3", "bone": "nuclear_kernel3", "attachment": "nuclear_kernel" }
+],
+"skins": {
+	"default": {
+		"nuclear_kernel3": {
+			"nuclear_kernel": { "x": 21.51, "y": -2.95, "rotation": -73.52, "width": 45, "height": 61 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -1.99 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.92, "y": 0.66 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle2": {
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -1.99 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.92, "y": 0.66 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle3": {
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -1.99 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.92, "y": 0.66 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle4": {
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -1.99 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.92, "y": 0.66 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"idle5": {
+		"slots": {
+			"nuclear_kernel3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.4, "angle": -1.99 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -1.92, "y": 0.66 },
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"open1": {
+		"bones": {
+			"root": {
+				"rotate": [{ "time": 0, "angle": 0 }]
+			}
+		}
+	},
+	"open2": {
+		"bones": {
+			"root": {
+				"rotate": [{ "time": 0, "angle": 0 }]
+			}
+		}
+	},
+	"open3": {
+		"bones": {
+			"root": {
+				"rotate": [{ "time": 0, "angle": 0 }]
+			}
+		}
+	},
+	"open4": {
+		"slots": {
+			"nuclear_kernel3": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "13ff00ff" },
+					{ "time": 0.6667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"nuclear_kernel3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"open5": {
+		"slots": {
+			"nuclear_kernel3": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		}
+	}
+}
+}

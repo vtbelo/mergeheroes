@@ -1,0 +1,202 @@
+
+rose_tournament-f755859853.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+green_honey
+  rotate: false
+  xy: 456, 427
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+green_light
+  rotate: false
+  xy: 366, 300
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+greentour_arbuzz
+  rotate: false
+  xy: 189, 394
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+scientist_3
+  rotate: false
+  xy: 366, 201
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+tour_green_arm1
+  rotate: false
+  xy: 1, 319
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
+tour_green_arm2
+  rotate: false
+  xy: 72, 404
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+tour_green_body
+  rotate: false
+  xy: 1, 1
+  size: 182, 206
+  orig: 182, 206
+  offset: 0, 0
+  index: -1
+tour_green_cap
+  rotate: false
+  xy: 185, 1
+  size: 298, 135
+  orig: 298, 135
+  offset: 0, 0
+  index: -1
+tour_green_cap_back
+  rotate: false
+  xy: 185, 138
+  size: 297, 61
+  orig: 297, 61
+  offset: 0, 0
+  index: -1
+tour_green_crown
+  rotate: false
+  xy: 1, 404
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+tour_green_eye1
+  rotate: false
+  xy: 210, 319
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+tour_green_eye2
+  rotate: false
+  xy: 114, 380
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+tour_green_hand1_1
+  rotate: false
+  xy: 287, 319
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+tour_green_hand1_2
+  rotate: false
+  xy: 373, 392
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+tour_green_hand2_1
+  rotate: false
+  xy: 458, 300
+  size: 31, 73
+  orig: 31, 73
+  offset: 0, 0
+  index: -1
+tour_green_hand2_2
+  rotate: false
+  xy: 465, 201
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+tour_green_mouth
+  rotate: false
+  xy: 114, 476
+  size: 97, 13
+  orig: 97, 13
+  offset: 0, 0
+  index: -1
+tour_green_mouth2
+  rotate: false
+  xy: 264, 450
+  size: 96, 26
+  orig: 96, 26
+  offset: 0, 0
+  index: -1
+tour_green_mouth3
+  rotate: false
+  xy: 465, 270
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+tour_green_mouth4
+  rotate: false
+  xy: 287, 377
+  size: 71, 11
+  orig: 71, 11
+  offset: 0, 0
+  index: -1
+tour_green_pupel1
+  rotate: false
+  xy: 72, 446
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+tour_green_pupel2
+  rotate: false
+  xy: 239, 394
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+tour_green_purple
+  rotate: false
+  xy: 458, 375
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+tour_green_shadow
+  rotate: false
+  xy: 1, 209
+  size: 363, 108
+  orig: 363, 108
+  offset: 0, 0
+  index: -1
+tour_green_veko1
+  rotate: false
+  xy: 189, 443
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+tour_green_veko2
+  rotate: false
+  xy: 373, 427
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+tour_green_veko3
+  rotate: false
+  xy: 287, 392
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+tour_green_veko4
+  rotate: false
+  xy: 114, 319
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1

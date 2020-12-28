@@ -1,0 +1,279 @@
+
+easter-d83f3af54b.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+easter-toolbar_left
+  rotate: false
+  xy: 1, 384
+  size: 225, 112
+  orig: 225, 112
+  offset: 0, 0
+  index: -1
+easter-toolbar_right
+  rotate: false
+  xy: 406, 512
+  size: 194, 88
+  orig: 194, 88
+  offset: 0, 0
+  index: -1
+easter-tournament_egg
+  rotate: false
+  xy: 602, 512
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+scccien_arm
+  rotate: false
+  xy: 379, 412
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+scccien_body
+  rotate: false
+  xy: 197, 586
+  size: 126, 124
+  orig: 126, 124
+  offset: 0, 0
+  index: -1
+scccien_hand1
+  rotate: false
+  xy: 379, 396
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+scccien_hand2
+  rotate: false
+  xy: 379, 384
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+scccien_hand11
+  rotate: false
+  xy: 1009, 349
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+scccien_hand22
+  rotate: false
+  xy: 379, 448
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+scccien_mouth
+  rotate: false
+  xy: 379, 435
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+scccienist_arm1
+  rotate: false
+  xy: 749, 540
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+sccien_egg
+  rotate: false
+  xy: 325, 623
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+scienist_arm1
+  rotate: false
+  xy: 102, 693
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+scienist_egg1
+  rotate: false
+  xy: 1, 693
+  size: 99, 119
+  orig: 99, 119
+  offset: 0, 0
+  index: -1
+sciensman_arm2
+  rotate: false
+  xy: 684, 452
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+sciensman_body
+  rotate: false
+  xy: 1, 1
+  size: 412, 381
+  orig: 412, 381
+  offset: 0, 0
+  index: -1
+sciensman_eye1
+  rotate: false
+  xy: 228, 384
+  size: 149, 98
+  orig: 149, 98
+  offset: 0, 0
+  index: -1
+sciensman_eye2
+  rotate: false
+  xy: 228, 484
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+sciensman_glasses
+  rotate: false
+  xy: 415, 1
+  size: 391, 152
+  orig: 391, 152
+  offset: 0, 0
+  index: -1
+sciensman_haer1
+  rotate: false
+  xy: 415, 377
+  size: 267, 133
+  orig: 267, 133
+  offset: 0, 0
+  index: -1
+sciensman_haer2
+  rotate: false
+  xy: 415, 155
+  size: 378, 143
+  orig: 378, 143
+  offset: 0, 0
+  index: -1
+sciensman_haer3
+  rotate: false
+  xy: 808, 1
+  size: 201, 143
+  orig: 201, 143
+  offset: 0, 0
+  index: -1
+sciensman_haer4
+  rotate: false
+  xy: 415, 300
+  size: 344, 75
+  orig: 344, 75
+  offset: 0, 0
+  index: -1
+sciensman_hand1
+  rotate: false
+  xy: 488, 602
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+sciensman_hand1_2
+  rotate: false
+  xy: 325, 586
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+sciensman_hand2
+  rotate: false
+  xy: 759, 403
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+sciensman_hand2_2
+  rotate: false
+  xy: 405, 602
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+sciensman_mouth
+  rotate: false
+  xy: 684, 517
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sciensman_mouth2
+  rotate: false
+  xy: 369, 484
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+sciensman_mouth4
+  rotate: false
+  xy: 684, 543
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+sciensman_mouth_3
+  rotate: false
+  xy: 369, 506
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+sciensman_ppupel2
+  rotate: false
+  xy: 749, 484
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+sciensman_pupel1
+  rotate: false
+  xy: 684, 377
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+scientist_3
+  rotate: false
+  xy: 1, 498
+  size: 194, 193
+  orig: 194, 193
+  offset: 0, 0
+  index: -1
+scientist_honey
+  rotate: false
+  xy: 761, 300
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+scientist_light
+  rotate: false
+  xy: 808, 146
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+scientist_light1
+  rotate: false
+  xy: 807, 349
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+tour_red_purple
+  rotate: false
+  xy: 761, 351
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+yellowtour_arbuzz
+  rotate: false
+  xy: 540, 602
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1

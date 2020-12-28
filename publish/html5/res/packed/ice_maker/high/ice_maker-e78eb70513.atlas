@@ -1,0 +1,174 @@
+
+ice_maker-e78eb70513.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ice_maker-white_digits-0
+  rotate: false
+  xy: 117, 156
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-1
+  rotate: false
+  xy: 234, 1
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-2
+  rotate: false
+  xy: 98, 214
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-3
+  rotate: false
+  xy: 63, 161
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-4
+  rotate: false
+  xy: 84, 96
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-5
+  rotate: false
+  xy: 70, 215
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-6
+  rotate: false
+  xy: 125, 214
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-7
+  rotate: false
+  xy: 84, 59
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-8
+  rotate: false
+  xy: 114, 100
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+ice_maker-white_digits-9
+  rotate: false
+  xy: 92, 156
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+leaves_bable
+  rotate: false
+  xy: 1, 161
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+leaves_bageye
+  rotate: false
+  xy: 68, 145
+  size: 55, 9
+  orig: 55, 9
+  offset: 0, 0
+  index: -1
+leaves_body
+  rotate: false
+  xy: 123, 1
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+leaves_eye1
+  rotate: false
+  xy: 1, 222
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+leaves_eye2
+  rotate: false
+  xy: 1, 222
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+leaves_eyelids
+  rotate: false
+  xy: 88, 198
+  size: 59, 14
+  orig: 59, 14
+  offset: 0, 0
+  index: -1
+leaves_hair1
+  rotate: false
+  xy: 1, 112
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+leaves_hair2
+  rotate: false
+  xy: 1, 59
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+leaves_hair3
+  rotate: false
+  xy: 1, 1
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+leaves_mouth
+  rotate: false
+  xy: 68, 133
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+leaves_one
+  rotate: false
+  xy: 29, 222
+  size: 39, 25
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+leaves_pupil1
+  rotate: false
+  xy: 234, 36
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+leaves_pupil2
+  rotate: false
+  xy: 234, 36
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+leaves_smile
+  rotate: false
+  xy: 63, 198
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1

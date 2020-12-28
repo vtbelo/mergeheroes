@@ -1,0 +1,105 @@
+{
+"skeleton": { "hash": "x8+kuma5pGzdL+OSXwy4v1NkWH0", "spine": "3.7.91", "width": 140.84, "height": 137.52, "images": "D:/work_ls/Sugar heroes/piggybank/images", "audio": "C:/Work/Heroes/Interface/icons/spine" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "seif_blik2", "parent": "root", "x": -14.43, "y": 3.36, "scaleX": 1.113, "scaleY": 1.113 },
+	{
+		"name": "seif_blik1",
+		"parent": "root",
+		"length": 6.35,
+		"rotation": -105.52,
+		"x": -27.62,
+		"y": 57.56,
+		"scaleX": 1.111,
+		"scaleY": 1.111
+	}
+],
+"slots": [
+	{ "name": "seif_seif", "bone": "root", "attachment": "seif_seif" },
+	{ "name": "seif_blik1", "bone": "seif_blik1", "attachment": "seif_blik1" },
+	{ "name": "seif_blik2", "bone": "seif_blik2", "attachment": "blik2" }
+],
+"skins": {
+	"default": {
+		"seif_blik1": {
+			"seif_blik1": { "x": 1.3, "y": -2.11, "rotation": 105.52, "width": 16, "height": 15 }
+		},
+		"seif_blik2": {
+			"blik2": { "x": -0.07, "y": 0.14, "width": 69, "height": 69 }
+		},
+		"seif_seif": {
+			"seif_seif": { "x": -0.68, "y": -0.73, "scaleX": 1.109, "scaleY": 1.109, "width": 127, "height": 124 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"seif_blik1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"seif_blik2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3667, "color": "ffffff00" },
+					{ "time": 0.5333, "color": "ffffffff" },
+					{ "time": 0.7, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffff00" },
+					{ "time": 0.9, "color": "ffffffff" },
+					{ "time": 1.0667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.3667, "name": "blik2" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.7333, "name": "blik2" }
+				]
+			}
+		},
+		"bones": {
+			"seif_blik1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 28.66, "y": 0.41 },
+					{ "time": 0.3333, "x": 57.11, "y": 2.33 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 47.06, "y": 0 }
+				]
+			},
+			"seif_blik2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": -179.6 },
+					{ "time": 0.3667, "angle": 0 },
+					{ "time": 0.7, "angle": -179.6 },
+					{ "time": 0.7333, "angle": 0 },
+					{ "time": 1.0667, "angle": -179.6 }
+				],
+				"translate": [
+					{ "time": 0, "x": -43.31, "y": -17.24, "curve": "stepped" },
+					{ "time": 0.3333, "x": -43.31, "y": -17.24 },
+					{ "time": 0.3667, "x": 50.22, "y": 43.38, "curve": "stepped" },
+					{ "time": 0.7, "x": 50.22, "y": 43.38 },
+					{ "time": 0.7333, "x": 68.42, "y": 4.98 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.155, "y": 0.155 },
+					{ "time": 0.3333, "x": 0.713, "y": 0.713 },
+					{ "time": 0.3667, "x": 0.155, "y": 0.155 },
+					{ "time": 0.7, "x": 0.713, "y": 0.713 },
+					{ "time": 0.7333, "x": 0.155, "y": 0.155 },
+					{ "time": 1.0667, "x": 0.713, "y": 0.713 }
+				]
+			}
+		}
+	}
+}
+}

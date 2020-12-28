@@ -1,0 +1,222 @@
+{
+  "skeleton": {
+    "hash": "/6WfG0tATcBN9PydAis01yBnRoE",
+    "spine": "3.7.91",
+    "width": 120,
+    "height": 136.19,
+    "images": "./images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root",
+      "x": -20
+    },
+    {
+      "name": "sparks",
+      "parent": "root",
+      "x": 15.67,
+      "y": 54.58,
+      "scaleX": 0.669,
+      "scaleY": 0.669
+    },
+    {
+      "name": "sparks2",
+      "parent": "root",
+      "x": 15.67,
+      "y": 54.58,
+      "scaleX": 0.669,
+      "scaleY": 0.669
+    }
+  ],
+  "slots": [
+    {
+      "name": "petard",
+      "bone": "root",
+      "attachment": "petard"
+    },
+    {
+      "name": "sparks",
+      "bone": "sparks",
+      "attachment": "petard_sparks"
+    },
+    {
+      "name": "sparks2",
+      "bone": "sparks2",
+      "attachment": "petard_sparks"
+    }
+  ],
+  "skins": {
+    "default": {
+      "sparks": {
+        "petard_sparks": {
+          "x": 0.49,
+          "y": 1.31,
+          "width": 63,
+          "height": 62
+        }
+      },
+      "sparks2": {
+        "petard_sparks": {
+          "x": 0.49,
+          "y": 1.31,
+          "width": 63,
+          "height": 62
+        }
+      }
+    },
+    "blue": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_blue",
+          "width": 120,
+          "height": 120
+        }
+      }
+    },
+    "green": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_green",
+          "width": 120,
+          "height": 120
+        }
+      }
+    },
+    "purple": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_purple",
+          "width": 120,
+          "height": 120
+        }
+      }
+    },
+    "red": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_red",
+          "width": 120,
+          "height": 120
+        }
+      }
+    },
+    "white": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_white",
+          "width": 120,
+          "height": 120
+        }
+      }
+    },
+    "yellow": {
+      "petard": {
+        "petard": {
+          "name": "mclrbmb_yellow",
+          "width": 120,
+          "height": 120
+        }
+      }
+    }
+  },
+  "animations": {
+    "off": {
+      "slots": {
+        "sparks": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        },
+        "sparks2": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        }
+      }
+    },
+    "on": {
+      "slots": {
+        "sparks": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            },
+            {
+              "time": 0.1667,
+              "name": "petard_sparks"
+            },
+            {
+              "time": 0.3333,
+              "name": null
+            }
+          ]
+        },
+        "sparks2": {
+          "attachment": [
+            {
+              "time": 0.1667,
+              "name": null
+            },
+            {
+              "time": 0.3333,
+              "name": "petard_sparks"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "sparks": {
+          "rotate": [
+            {
+              "time": 0.0667,
+              "angle": 20.37
+            },
+            {
+              "time": 0.1667,
+              "angle": 60.32
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 0.672,
+              "y": 0.672
+            },
+            {
+              "time": 0.1667,
+              "x": -0.868,
+              "y": 0.871
+            },
+            {
+              "time": 0.3333,
+              "x": -0.814,
+              "y": 0.816
+            }
+          ]
+        },
+        "sparks2": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 0.672,
+              "y": 0.672
+            },
+            {
+              "time": 0.1667,
+              "x": 0.761,
+              "y": 0.761
+            }
+          ]
+        }
+      }
+    }
+  }
+}

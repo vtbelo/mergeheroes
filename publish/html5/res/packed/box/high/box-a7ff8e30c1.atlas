@@ -1,0 +1,97 @@
+
+box-a7ff8e30c1.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bag1_box
+  rotate: false
+  xy: 131, 1
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+bag2_box
+  rotate: false
+  xy: 1, 39
+  size: 122, 91
+  orig: 122, 91
+  offset: 0, 0
+  index: -1
+bucket_back_box
+  rotate: false
+  xy: 1, 132
+  size: 121, 26
+  orig: 121, 26
+  offset: 0, 0
+  index: -1
+bucket_body_box
+  rotate: false
+  xy: 1, 160
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+bucket_shadow_box
+  rotate: false
+  xy: 1, 1
+  size: 128, 36
+  orig: 128, 36
+  offset: 0, 0
+  index: -1
+bucket_up_box
+  rotate: false
+  xy: 125, 128
+  size: 122, 44
+  orig: 122, 44
+  offset: 0, 0
+  index: -1
+chain1_1_box
+  rotate: false
+  xy: 77, 255
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+chain1_2_box
+  rotate: false
+  xy: 1, 255
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+chain2_1_box
+  rotate: false
+  xy: 201, 205
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+chain2_2_box
+  rotate: false
+  xy: 123, 205
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+chain3_box
+  rotate: false
+  xy: 123, 174
+  size: 119, 29
+  orig: 119, 29
+  offset: 0, 0
+  index: -1
+lock_down_box
+  rotate: false
+  xy: 121, 260
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+lock_up_box
+  rotate: false
+  xy: 1, 318
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1

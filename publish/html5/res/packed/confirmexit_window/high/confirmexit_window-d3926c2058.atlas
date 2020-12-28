@@ -1,0 +1,111 @@
+
+confirmexit_window-d3926c2058.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+moves_blue_body
+  rotate: false
+  xy: 1, 1
+  size: 222, 180
+  orig: 222, 180
+  offset: 0, 0
+  index: -1
+moves_blue_brow1
+  rotate: false
+  xy: 225, 46
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+moves_blue_brow2
+  rotate: false
+  xy: 225, 1
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+moves_blue_l_eye
+  rotate: false
+  xy: 1, 242
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+moves_blue_l_light1_1
+  rotate: false
+  xy: 242, 81
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+moves_blue_l_light1_3
+  rotate: false
+  xy: 225, 81
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+moves_blue_l_light2_1
+  rotate: false
+  xy: 242, 81
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+moves_blue_l_light2_2
+  rotate: false
+  xy: 225, 60
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+moves_blue_l_light2_3
+  rotate: false
+  xy: 225, 81
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+moves_blue_l_pupil
+  rotate: false
+  xy: 65, 242
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+moves_blue_mouth1
+  rotate: false
+  xy: 225, 27
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+moves_blue_r_eye
+  rotate: false
+  xy: 1, 242
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+moves_blue_r_light1_2
+  rotate: false
+  xy: 225, 60
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+moves_blue_r_pupil
+  rotate: false
+  xy: 109, 242
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+moves_shadow
+  rotate: false
+  xy: 1, 183
+  size: 214, 57
+  orig: 214, 57
+  offset: 0, 0
+  index: -1

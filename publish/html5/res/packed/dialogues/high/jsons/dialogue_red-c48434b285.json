@@ -1,0 +1,492 @@
+{
+"skeleton": { "hash": "41N+fSmGjw2TQPOobT4NxU5gs2s", "spine": "3.7.94", "width": 220.93, "height": 299, "images": "./spine/images/", "audio": "C:/Work/Heroes/Interface/Forses/dialogue_red" },
+"bones": [
+	{ "name": "root", "x": 1.04, "scaleX": -1 },
+	{ "name": "dialogue_red_body", "parent": "root", "length": 277.78, "rotation": 91.18, "x": -0.04, "y": -130.14 },
+	{
+		"name": "dialogue_red_eye",
+		"parent": "dialogue_red_body",
+		"length": 34.42,
+		"rotation": 88.02,
+		"x": 155.76,
+		"y": -4.65,
+		"scaleX": 1.088,
+		"scaleY": 1.088
+	},
+	{ "name": "dialogue_red_pupil", "parent": "dialogue_red_eye", "x": 16.64, "y": -1.12 },
+	{ "name": "dialogue_red_eyebrow", "parent": "dialogue_red_body", "length": 41.76, "rotation": -87.04, "x": 204.95, "y": 18.07 },
+	{ "name": "dialogue_red_hand1", "parent": "dialogue_red_body", "length": 47.55, "rotation": 124.69, "x": 102.47, "y": -68.12 },
+	{ "name": "dialogue_red_hand2", "parent": "dialogue_red_hand1", "length": 34.68, "rotation": -25.01, "x": 47.55 },
+	{
+		"name": "dialogue_red_hand3",
+		"parent": "dialogue_red_body",
+		"length": 51.95,
+		"rotation": 78.41,
+		"x": 69.58,
+		"y": 5.16,
+		"color": "ff3f00ff"
+	},
+	{ "name": "dialogue_hand2", "parent": "dialogue_red_body", "length": 32.51, "rotation": 128.23, "x": 122.87, "y": 70.12 },
+	{ "name": "dialogue_hand3", "parent": "dialogue_hand2", "length": 13.1, "rotation": -62.62, "x": 32.51 },
+	{
+		"name": "dialogue_arm",
+		"parent": "dialogue_red_body",
+		"length": 28.15,
+		"rotation": 63.88,
+		"x": 91.15,
+		"y": 92.29,
+		"color": "ff3f00ff"
+	},
+	{ "name": "dialogue_red_mouth", "parent": "dialogue_red_body", "length": 32.71, "rotation": 86.41, "x": 108.93, "y": 31.46 },
+	{
+		"name": "dialogue_red_eye2",
+		"parent": "dialogue_red_body",
+		"length": 34.42,
+		"rotation": 88.02,
+		"x": 160.21,
+		"y": 70.62,
+		"scaleX": 0.975,
+		"scaleY": 0.975
+	},
+	{ "name": "dialogue_red_pupil2", "parent": "dialogue_red_eye2", "x": 16.64, "y": -1.12 },
+	{
+		"name": "dialogue_red_eyebrow2",
+		"parent": "dialogue_red_body",
+		"length": 41.76,
+		"rotation": -102.59,
+		"x": 206.2,
+		"y": 46.5,
+		"scaleX": -0.98,
+		"scaleY": 0.98
+	}
+],
+"slots": [
+	{ "name": "dialogue_hand2", "bone": "dialogue_hand2", "attachment": "dialogue_hand2" },
+	{ "name": "dialogue_arm", "bone": "dialogue_arm", "attachment": "dialogue_arm" },
+	{ "name": "dialogue_red_body", "bone": "dialogue_red_body", "attachment": "dialogue_red_body" },
+	{ "name": "dialogue_red_eye", "bone": "dialogue_red_eye", "attachment": "dialogue_red_eye" },
+	{ "name": "dialogue_red_eye2", "bone": "dialogue_red_eye2", "attachment": "dialogue_red_eye" },
+	{ "name": "dialogue_red_pupil", "bone": "dialogue_red_pupil", "attachment": "dialogue_red_pupil" },
+	{ "name": "dialogue_red_pupil2", "bone": "dialogue_red_pupil2", "attachment": "dialogue_red_pupil" },
+	{ "name": "dialogue_red_eyebrow", "bone": "dialogue_red_eyebrow", "attachment": "dialogue_red_eyebrow" },
+	{ "name": "dialogue_red_eyebrow2", "bone": "dialogue_red_eyebrow2", "attachment": "dialogue_red_eyebrow" },
+	{ "name": "dialogue_red_mouth", "bone": "dialogue_red_mouth", "attachment": "dialogue_red_mouth" },
+	{ "name": "dialogue_red_hand1", "bone": "dialogue_red_hand1", "attachment": "dialogue_red_hand1" }
+],
+"ik": [
+	{
+		"name": "dialogue_arm",
+		"order": 1,
+		"bones": [ "dialogue_hand2", "dialogue_hand3" ],
+		"target": "dialogue_arm",
+		"bendPositive": false
+	},
+	{
+		"name": "dialogue_red_hand3",
+		"order": 0,
+		"bones": [ "dialogue_red_hand1", "dialogue_red_hand2" ],
+		"target": "dialogue_red_hand3",
+		"bendPositive": false
+	}
+],
+"skins": {
+	"default": {
+		"dialogue_arm": {
+			"dialogue_arm": { "x": 19.92, "y": -7.15, "rotation": -153.12, "width": 41, "height": 59 }
+		},
+		"dialogue_hand2": {
+			"dialogue_hand2": {
+				"type": "mesh",
+				"uvs": [ 1, 0.52169, 0.47176, 1, 0.37828, 1, 0.29602, 1, 0, 0.79402, 0, 0.23502, 0.29602, 0.48824, 0.37454, 0.48346, 0.69984, 0, 1, 0, 0.41941, 0.76057, 0.32593, 0.76057 ],
+				"triangles": [ 11, 6, 7, 4, 5, 6, 4, 6, 11, 3, 4, 11, 2, 11, 10, 3, 11, 2, 8, 9, 0, 7, 8, 0, 10, 7, 0, 11, 7, 10, 1, 10, 0, 2, 10, 1 ],
+				"vertices": [ 1, 8, 5.24, 10.91, 1, 2, 8, 34.95, 8.78, 0.558, 9, -6.01, 6.85, 0.442, 2, 8, 38.27, 6.05, 0.2361, 9, -1.91, 8.14, 0.7639, 2, 8, 41.19, 3.65, 0.04374, 9, 1.71, 9.27, 0.95626, 1, 9, 16.91, 6.25, 1, 1, 9, 22.92, -12.96, 1, 2, 8, 29.49, -10.58, 0.26111, 9, 7.2, -8.32, 0.73889, 2, 8, 26.59, -8.42, 0.66246, 9, 3.8, -9.56, 0.33754, 1, 8, 3.98, -12.37, 1, 1, 8, -6.69, -3.6, 1, 1, 8, 31.33, 0.6, 1, 1, 9, 2.96, 0.63, 1 ],
+				"hull": 10,
+				"edges": [ 16, 18, 16, 14, 14, 12, 12, 10, 8, 10, 8, 6, 4, 6, 2, 4, 0, 18, 2, 0 ],
+				"width": 46,
+				"height": 36
+			}
+		},
+		"dialogue_red_body": {
+			"dialogue_red_body": { "x": 148.01, "y": 2.7, "rotation": -91.18, "width": 192, "height": 299 }
+		},
+		"dialogue_red_eye": {
+			"dialogue_red_eye": { "x": 0.72, "y": -1.59, "rotation": -179.2, "width": 71, "height": 72 }
+		},
+		"dialogue_red_eye2": {
+			"dialogue_red_eye": { "x": 0.72, "y": -1.59, "rotation": -179.2, "width": 71, "height": 72 }
+		},
+		"dialogue_red_eyebrow": {
+			"dialogue_red_eyebrow": { "x": 20.85, "y": -0.33, "rotation": 11.4, "width": 47, "height": 23 }
+		},
+		"dialogue_red_eyebrow2": {
+			"dialogue_red_eyebrow": { "x": 20.85, "y": -0.33, "rotation": 11.4, "width": 47, "height": 23 }
+		},
+		"dialogue_red_hand1": {
+			"dialogue_red_hand1": {
+				"type": "mesh",
+				"uvs": [ 1, 0.1987, 0.75295, 0.58908, 0.71405, 0.64183, 0.66959, 0.65238, 0.44452, 0.71569, 0.4084, 1, 0, 1, 0, 0, 0.30281, 0, 0.41396, 0.43082, 0.61124, 0.36751, 0.65292, 0.33586, 0.89743, 0, 1, 0, 0.70293, 0.46775, 0.65014, 0.4994 ],
+				"triangles": [ 5, 6, 4, 6, 9, 4, 9, 7, 8, 9, 6, 7, 4, 15, 3, 4, 9, 15, 3, 15, 2, 2, 15, 1, 9, 10, 15, 15, 10, 14, 15, 14, 1, 1, 14, 0, 10, 11, 14, 14, 11, 0, 11, 12, 0, 12, 13, 0 ],
+				"vertices": [ 1, 5, 2.73, 9.31, 1, 2, 5, 44.73, 12.17, 0.71175, 6, -7.7, 9.84, 0.28825, 2, 5, 51, 12.13, 0.37383, 6, -2, 12.45, 0.62617, 2, 5, 56.14, 9.31, 0.12282, 6, 3.85, 12.07, 0.87718, 2, 6, 33.63, 10.8, 0.58112, 7, -2.93, 10.45, 0.41888, 2, 6, 41.98, 29.18, 0.03298, 7, 2.07, 30.01, 0.96702, 1, 7, 55.56, 29.3, 1, 1, 7, 54.65, -39.7, 1, 1, 7, 14.98, -39.17, 1, 2, 6, 33.86, -9.25, 0.45879, 7, 0.82, -9.25, 0.54121, 2, 5, 50.82, -11.1, 0.14198, 6, 7.65, -8.67, 0.85802, 2, 5, 45.11, -9.67, 0.54339, 6, 1.88, -9.79, 0.45661, 1, 5, 5.58, -9.67, 1, 1, 5, -5.31, -1.8, 1, 2, 5, 45.14, 1.55, 0.98944, 6, -2.84, 0.38, 0.01056, 1, 6, 4.36, 1.22, 1 ],
+				"hull": 14,
+				"edges": [ 12, 14, 0, 26, 0, 2, 2, 4, 4, 6, 6, 8, 10, 12, 8, 10, 14, 16, 16, 18, 18, 20, 20, 22, 24, 26, 22, 24 ],
+				"width": 131,
+				"height": 69
+			}
+		},
+		"dialogue_red_mouth": {
+			"dialogue_red_mouth": { "x": -1.49, "y": 1.62, "rotation": -177.59, "width": 80, "height": 37 }
+		},
+		"dialogue_red_pupil": {
+			"dialogue_red_pupil": { "x": 0.06, "y": 0.25, "rotation": -179.2, "width": 27, "height": 27 }
+		},
+		"dialogue_red_pupil2": {
+			"dialogue_red_pupil": { "x": 0.06, "y": 0.25, "rotation": -179.2, "width": 27, "height": 27 }
+		}
+	}
+},
+"animations": {
+	"normal": {
+		"bones": {
+			"dialogue_red_body": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.013,
+						"y": 0.991,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1.054,
+						"y": 0.953,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8667,
+						"x": 0.968,
+						"y": 1.023,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1,
+						"x": 1.009,
+						"y": 0.994,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"x": 1.048,
+						"y": 0.951,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"x": 0.976,
+						"y": 1.012,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.8667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5, "x": 1.02, "y": 0.987 },
+					{ "time": 3, "x": 1, "y": 1 },
+					{ "time": 3.5, "x": 1.02, "y": 0.987 },
+					{ "time": 4, "x": 1, "y": 1 },
+					{ "time": 4.5, "x": 1.02, "y": 0.987 },
+					{ "time": 5, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": -2.3,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8667,
+						"x": 3.38,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"x": -2.46,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"x": 1.74,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.8667, "x": 0, "y": 0 }
+				]
+			},
+			"dialogue_red_hand3": {
+				"rotate": [
+					{ "time": 0, "angle": 42.59 },
+					{
+						"time": 0.3333,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"angle": -44.42,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.9,
+						"angle": 6.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.0667, "angle": -43.38, "curve": "stepped" },
+					{
+						"time": 1.1667,
+						"angle": -43.38,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "angle": 42.59 }
+				],
+				"translate": [
+					{ "time": 0, "x": -33.29, "y": -45.52 },
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 11.3,
+						"y": -13.19,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": 20,
+						"y": 5.13,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 22.63, "y": -8.54, "curve": "stepped" },
+					{
+						"time": 1.0667,
+						"x": 22.63,
+						"y": -8.54,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": -33.29, "y": -45.52 }
+				]
+			},
+			"dialogue_arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{
+						"time": 0.9333,
+						"angle": 48.18,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"angle": -24.96,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"angle": 32.82,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.8667, "angle": -3.64, "curve": "stepped" },
+					{ "time": 2.5, "angle": -3.64 },
+					{ "time": 2.6, "angle": 3.72 },
+					{ "time": 2.7333, "angle": -7.51 },
+					{ "time": 2.9, "angle": 6.96 },
+					{ "time": 3.0667, "angle": -7.51 },
+					{ "time": 3.5, "angle": 42.19 },
+					{ "time": 4, "angle": 90.49 }
+				],
+				"translate": [
+					{ "time": 0, "x": -17.51, "y": -67.69, "curve": "stepped" },
+					{
+						"time": 0.9333,
+						"x": -17.51,
+						"y": -67.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.4333,
+						"x": 35.63,
+						"y": 19.92,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6,
+						"x": 9,
+						"y": 14.78,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.7667, "x": 28.05, "y": 21.86, "curve": "stepped" },
+					{
+						"time": 1.8667,
+						"x": 28.05,
+						"y": 21.86,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2.5, "x": 16.74, "y": 19.2 },
+					{ "time": 2.6667, "x": 34.92, "y": 21.71 },
+					{ "time": 2.8333, "x": 18.4, "y": 18.98 },
+					{ "time": 3, "x": 34.92, "y": 21.71 },
+					{ "time": 3.5, "x": 1.64, "y": 11.95 },
+					{ "time": 4, "x": -11.29, "y": -54.61 }
+				]
+			},
+			"dialogue_red_eyebrow2": {
+				"translate": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 12.69,
+						"y": -0.34,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": -7.64,
+						"y": -0.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"dialogue_red_eyebrow": {
+				"translate": [
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 12.83,
+						"y": -1.83,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"x": -7.57,
+						"y": 1.99,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"dialogue_red_mouth": {
+				"translate": [
+					{ "time": 0, "x": 4.07, "y": -0.08, "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"x": 4.07,
+						"y": -0.08,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 4.07, "y": -0.08 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.864, "y": 0.644, "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"x": 0.864,
+						"y": 0.644,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 0.864, "y": 0.644 }
+				]
+			},
+			"dialogue_red_pupil2": {
+				"translate": [
+					{ "time": 0, "x": -1.54, "y": 5.67 },
+					{ "time": 0.1333, "x": 0.36, "y": -0.67, "curve": "stepped" },
+					{ "time": 1.5, "x": 0.36, "y": -0.67 },
+					{ "time": 1.6333, "x": 4.71, "y": -1.1, "curve": "stepped" },
+					{ "time": 3.6, "x": 4.71, "y": -1.1 },
+					{ "time": 3.7333, "x": -1.54, "y": 5.67 }
+				],
+				"scale": [
+					{ "time": 1.5, "x": 1, "y": 1 },
+					{ "time": 1.6333, "x": 0.806, "y": 1, "curve": "stepped" },
+					{ "time": 3.6, "x": 0.806, "y": 1 },
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				]
+			},
+			"dialogue_red_pupil": {
+				"translate": [
+					{ "time": 0, "x": -1.54, "y": 5.67 },
+					{ "time": 0.1333, "x": 0.36, "y": -0.67, "curve": "stepped" },
+					{ "time": 1.5, "x": 0.36, "y": -0.67 },
+					{ "time": 1.6333, "x": 4.71, "y": -1.1, "curve": "stepped" },
+					{ "time": 3.6, "x": 4.71, "y": -1.1 },
+					{ "time": 3.7333, "x": -1.54, "y": 5.67 }
+				],
+				"scale": [
+					{ "time": 1.5, "x": 1, "y": 1 },
+					{ "time": 1.6333, "x": 0.841, "y": 1, "curve": "stepped" },
+					{ "time": 3.6, "x": 0.841, "y": 1 },
+					{ "time": 3.7333, "x": 1, "y": 1 }
+				]
+			},
+			"dialogue_hand2": {
+				"translate": [
+					{ "time": 3, "x": 0, "y": 0 },
+					{ "time": 3.4966, "x": -12.42, "y": -7.34 }
+				]
+			}
+		}
+	}
+}
+}

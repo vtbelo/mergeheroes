@@ -1,0 +1,27 @@
+
+rug-b7b5445ad4.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rock
+  rotate: false
+  xy: 1, 123
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+rug-images-rug_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rug_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

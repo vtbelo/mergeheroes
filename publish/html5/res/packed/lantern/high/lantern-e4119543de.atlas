@@ -1,0 +1,146 @@
+
+lantern-e4119543de.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+generator_body_gray
+  rotate: false
+  xy: 1, 224
+  size: 193, 261
+  orig: 193, 261
+  offset: 0, 0
+  index: -1
+generator_color_light_down
+  rotate: false
+  xy: 196, 276
+  size: 191, 61
+  orig: 191, 61
+  offset: 0, 0
+  index: -1
+generator_color_light_up
+  rotate: false
+  xy: 208, 1
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1
+generator_door_1
+  rotate: false
+  xy: 1, 682
+  size: 113, 192
+  orig: 113, 192
+  offset: 0, 0
+  index: -1
+generator_door_1_2
+  rotate: false
+  xy: 116, 735
+  size: 109, 189
+  orig: 109, 189
+  offset: 0, 0
+  index: -1
+generator_door_2
+  rotate: false
+  xy: 412, 150
+  size: 70, 193
+  orig: 70, 193
+  offset: 0, 0
+  index: -1
+generator_door_2_2
+  rotate: false
+  xy: 116, 487
+  size: 67, 189
+  orig: 67, 189
+  offset: 0, 0
+  index: -1
+generator_green_door_1
+  rotate: false
+  xy: 1, 487
+  size: 113, 193
+  orig: 113, 193
+  offset: 0, 0
+  index: -1
+generator_green_door_2
+  rotate: false
+  xy: 333, 339
+  size: 70, 193
+  orig: 70, 193
+  offset: 0, 0
+  index: -1
+generator_green_down
+  rotate: false
+  xy: 1, 1
+  size: 205, 108
+  orig: 205, 108
+  offset: 0, 0
+  index: -1
+generator_green_up
+  rotate: false
+  xy: 1, 111
+  size: 197, 111
+  orig: 197, 111
+  offset: 0, 0
+  index: -1
+generator_inside
+  rotate: false
+  xy: 196, 339
+  size: 135, 190
+  orig: 135, 190
+  offset: 0, 0
+  index: -1
+generator_yellow_door_1
+  rotate: false
+  xy: 185, 531
+  size: 113, 193
+  orig: 113, 193
+  offset: 0, 0
+  index: -1
+generator_yellow_door_2
+  rotate: false
+  xy: 405, 345
+  size: 70, 192
+  orig: 70, 192
+  offset: 0, 0
+  index: -1
+generator_yellow_down
+  rotate: false
+  xy: 208, 80
+  size: 202, 101
+  orig: 202, 101
+  offset: 0, 0
+  index: -1
+generator_yellow_up
+  rotate: false
+  xy: 200, 183
+  size: 196, 91
+  orig: 196, 91
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 412, 89
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+smoke3
+  rotate: false
+  xy: 116, 678
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+smoke4
+  rotate: false
+  xy: 413, 43
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+smoke6
+  rotate: false
+  xy: 413, 1
+  size: 94, 40
+  orig: 94, 40
+  offset: 0, 0
+  index: -1

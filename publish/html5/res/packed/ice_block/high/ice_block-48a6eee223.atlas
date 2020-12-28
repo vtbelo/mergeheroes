@@ -1,0 +1,69 @@
+
+ice_block-48a6eee223.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cell3
+  rotate: false
+  xy: 1, 1
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+cell_effect_1
+  rotate: false
+  xy: 133, 94
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+cell_effect_2
+  rotate: false
+  xy: 133, 1
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+cell_effect_3
+  rotate: false
+  xy: 131, 187
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+cell_lock
+  rotate: false
+  xy: 187, 187
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+cell_lock2
+  rotate: false
+  xy: 187, 230
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+cell_rod
+  rotate: false
+  xy: 236, 1
+  size: 14, 57
+  orig: 14, 57
+  offset: 0, 0
+  index: -1
+ice_block1_stable
+  rotate: false
+  xy: 1, 134
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+ice_block2_stable
+  rotate: false
+  xy: 1, 263
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+color_bomb-ab85fb14d0.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_arrow1
+  rotate: false
+  xy: 320, 265
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+bomb_arrow2
+  rotate: false
+  xy: 461, 207
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+bomb_arrow3
+  rotate: false
+  xy: 382, 274
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+bomb_blue
+  rotate: false
+  xy: 247, 1
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+bomb_clock
+  rotate: false
+  xy: 320, 207
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+bomb_explosion1
+  rotate: false
+  xy: 242, 207
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+bomb_explosion2
+  rotate: false
+  xy: 394, 207
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+bomb_green
+  rotate: false
+  xy: 366, 1
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+bomb_iskra
+  rotate: false
+  xy: 485, 27
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+bomb_iskra2
+  rotate: false
+  xy: 485, 1
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+bomb_purple
+  rotate: false
+  xy: 247, 104
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+bomb_red
+  rotate: false
+  xy: 123, 123
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+bomb_white
+  rotate: false
+  xy: 1, 1
+  size: 122, 101
+  orig: 122, 101
+  offset: 0, 0
+  index: -1
+bomb_wire
+  rotate: false
+  xy: 461, 250
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+bomb_yellow
+  rotate: false
+  xy: 366, 104
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+color_bomb-mark-mark_orange
+  rotate: false
+  xy: 125, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+color_bomb-mark-mark_purple
+  rotate: false
+  xy: 1, 104
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

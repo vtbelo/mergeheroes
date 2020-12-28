@@ -1,0 +1,118 @@
+
+dog-769c373cca.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bear_bank
+  rotate: false
+  xy: 155, 231
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+bear_body
+  rotate: false
+  xy: 1, 145
+  size: 152, 141
+  orig: 152, 141
+  offset: 0, 0
+  index: -1
+bear_brow
+  rotate: false
+  xy: 226, 357
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+bear_eye
+  rotate: false
+  xy: 111, 288
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+bear_eyelid
+  rotate: false
+  xy: 152, 328
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+bear_hand
+  rotate: false
+  xy: 174, 62
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+bear_hand_2
+  rotate: false
+  xy: 174, 1
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+bear_head
+  rotate: false
+  xy: 1, 1
+  size: 171, 142
+  orig: 171, 142
+  offset: 0, 0
+  index: -1
+bear_honey
+  rotate: false
+  xy: 67, 288
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+bear_kruassan
+  rotate: false
+  xy: 171, 157
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+bear_legs
+  rotate: false
+  xy: 1, 288
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+bear_mouth
+  rotate: false
+  xy: 192, 328
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+bear_nose
+  rotate: false
+  xy: 67, 347
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+bear_pupil
+  rotate: false
+  xy: 155, 145
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+bear_smile
+  rotate: false
+  xy: 111, 330
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+bear_tongue
+  rotate: false
+  xy: 226, 328
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

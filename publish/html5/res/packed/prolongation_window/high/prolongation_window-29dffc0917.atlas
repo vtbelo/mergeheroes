@@ -1,0 +1,139 @@
+
+prolongation_window-29dffc0917.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+white_body_hi
+  rotate: false
+  xy: 1, 1
+  size: 243, 262
+  orig: 243, 262
+  offset: 0, 0
+  index: -1
+white_eye1_hi
+  rotate: false
+  xy: 322, 280
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+white_eye2_hi
+  rotate: false
+  xy: 361, 210
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+white_eyebrow1_hi
+  rotate: false
+  xy: 392, 95
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+white_eyebrow2_hi
+  rotate: false
+  xy: 246, 111
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+white_hand1_hi
+  rotate: false
+  xy: 469, 130
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+white_hand1_money
+  rotate: false
+  xy: 469, 184
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+white_hand2_hi
+  rotate: false
+  xy: 392, 1
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+white_hand3_hi
+  rotate: false
+  xy: 246, 208
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+white_hand3_money
+  rotate: false
+  xy: 323, 206
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+white_hand_open
+  rotate: false
+  xy: 246, 150
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+white_handwithpaper_money
+  rotate: false
+  xy: 246, 1
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+white_handwithpencil
+  rotate: false
+  xy: 388, 130
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+white_lose_heart1
+  rotate: false
+  xy: 329, 132
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+white_lose_heart2
+  rotate: false
+  xy: 432, 274
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+white_mouth1_hi
+  rotate: false
+  xy: 432, 238
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+white_mouth2_hi
+  rotate: false
+  xy: 329, 111
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+white_pupil1_hi
+  rotate: false
+  xy: 477, 1
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+white_pupil2_hi
+  rotate: false
+  xy: 477, 33
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

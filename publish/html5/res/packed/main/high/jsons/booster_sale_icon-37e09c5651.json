@@ -1,0 +1,417 @@
+{
+	"skeleton": {
+		"hash": "BNa2i9HEBJ+but8BgiWNuVTD1kM",
+		"spine": "3.7.94",
+		"width": 194,
+		"height": 194,
+		"images": "./images/",
+		"audio": "C:/Users/labcomp i5/YandexDisk/SUGAR_heroes/booster_sale_heroes"
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "bsh_sale",
+			"parent": "root",
+			"x": -1.46,
+			"y": -65.37
+		},
+		{
+			"name": "bsh_row",
+			"parent": "root",
+			"length": 20.66,
+			"rotation": 94.9,
+			"x": 0.52,
+			"y": -33.42
+		},
+		{
+			"name": "bsh_color",
+			"parent": "root",
+			"length": 22.64,
+			"rotation": 53.71,
+			"x": 16.43,
+			"y": -32.94
+		},
+		{
+			"name": "bsh_rocket",
+			"parent": "root",
+			"length": 26.66,
+			"rotation": 127.65,
+			"x": -21,
+			"y": -34.52
+		}
+	],
+	"slots": [
+		{
+			"name": "bsh_rocket",
+			"bone": "bsh_rocket",
+			"attachment": "bsh_rocket"
+		},
+		{
+			"name": "bsh_rocket_glow",
+			"bone": "bsh_rocket",
+			"attachment": "bsh_rocket_glow"
+		},
+		{
+			"name": "bsh_color",
+			"bone": "bsh_color",
+			"attachment": "bsh_color"
+		},
+		{
+			"name": "bsh_color_glow",
+			"bone": "bsh_color",
+			"attachment": "bsh_color_glow"
+		},
+		{
+			"name": "bsh_row",
+			"bone": "bsh_row",
+			"attachment": "bsh_row"
+		},
+		{
+			"name": "bsh_row_glow",
+			"bone": "bsh_row",
+			"attachment": "bsh_row_glow"
+		},
+		{
+			"name": "bsh_sale",
+			"bone": "bsh_sale",
+			"attachment": "bsh_sale"
+		}
+	],
+	"skins": {
+		"default": {
+			"bsh_color": {
+				"bsh_color": {
+					"x": 42.87,
+					"y": -2.73,
+					"rotation": -53.71,
+					"width": 94,
+					"height": 108
+				}
+			},
+			"bsh_color_glow": {
+				"bsh_color_glow": {
+					"x": 41.98,
+					"y": -1.52,
+					"rotation": -53.71,
+					"width": 109,
+					"height": 126
+				}
+			},
+			"bsh_rocket": {
+				"bsh_rocket": {
+					"x": 25.5,
+					"y": -1.36,
+					"rotation": -127.65,
+					"width": 99,
+					"height": 113
+				}
+			},
+			"bsh_rocket_glow": {
+				"bsh_rocket_glow": {
+					"x": 25.5,
+					"y": -1.36,
+					"rotation": -127.65,
+					"width": 117,
+					"height": 131
+				}
+			},
+			"bsh_row": {
+				"bsh_row": {
+					"x": 51.9,
+					"y": -2.42,
+					"rotation": -94.9,
+					"width": 83,
+					"height": 121
+				}
+			},
+			"bsh_row_glow": {
+				"bsh_row_glow": {
+					"x": 51.9,
+					"y": -2.42,
+					"rotation": -94.9,
+					"width": 101,
+					"height": 137
+				}
+			},
+			"bsh_sale": {
+				"bsh_sale": {
+					"x": 1.46,
+					"y": 20.87,
+					"width": 134,
+					"height": 65
+				}
+			}
+		}
+	},
+	"animations": {
+		"animation": {
+			"slots": {
+				"bsh_color_glow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.2,
+							"name": "bsh_color_glow"
+						},
+						{
+							"time": 0.5333,
+							"name": null
+						},
+						{
+							"time": 1.3333,
+							"name": null
+						},
+						{
+							"time": 4,
+							"name": null
+						}
+					]
+				},
+				"bsh_rocket_glow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.0667,
+							"name": "bsh_rocket_glow"
+						},
+						{
+							"time": 0.4,
+							"name": null
+						}
+					]
+				},
+				"bsh_row_glow": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.1333,
+							"name": "bsh_row_glow"
+						},
+						{
+							"time": 0.5,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"root": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"bsh_sale": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"bsh_row": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.3667,
+							"x": 0,
+							"y": 6.56
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.9,
+							"x": 0,
+							"y": -2.99
+						},
+						{
+							"time": 1.1333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"bsh_color": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.4667,
+							"angle": -6.69
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 4,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.3333,
+							"x": 8.34,
+							"y": 11.03
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 4,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 4,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"bsh_rocket": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.6,
+							"angle": 6.66
+						},
+						{
+							"time": 1.2333,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2667,
+							"x": -6.85,
+							"y": 8.34
+						},
+						{
+							"time": 0.6,
+							"x": 4.19,
+							"y": -1.79
+						},
+						{
+							"time": 0.9333,
+							"x": 4.78,
+							"y": -4.19
+						},
+						{
+							"time": 1.2333,
+							"x": 4.19,
+							"y": -1.79
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					]
+				}
+			}
+		}
+	}
+}

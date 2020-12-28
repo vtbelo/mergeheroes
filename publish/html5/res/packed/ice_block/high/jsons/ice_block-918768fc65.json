@@ -1,0 +1,691 @@
+{
+  "skeleton": {
+    "hash": "zTAF2sQtvOlw/fs6fc00pr1ecK8",
+    "spine": "3.7.68-beta",
+    "width": 0,
+    "height": 0,
+    "images": "./images/",
+    "audio": "C:/Users/Eugene/Desktop/hero_cell"
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "cell",
+      "parent": "root"
+    },
+    {
+      "name": "cell3",
+      "parent": "cell",
+      "y": -10.12
+    },
+    {
+      "name": "ice_block2_stable",
+      "parent": "cell",
+      "x": -1.15,
+      "y": -4.81
+    },
+    {
+      "name": "cell_effect_3",
+      "parent": "cell"
+    },
+    {
+      "name": "cell_lock",
+      "parent": "cell",
+      "length": 33.3,
+      "rotation": -52.84,
+      "x": 27.34,
+      "y": -26.23
+    },
+    {
+      "name": "cell_lock2",
+      "parent": "cell",
+      "length": 27.72,
+      "rotation": 46.94,
+      "x": 19.24,
+      "y": -34.5
+    },
+    {
+      "name": "ice_block1_stable",
+      "parent": "cell",
+      "y": -5.95
+    },
+    {
+      "name": "cell_rod",
+      "parent": "cell",
+      "length": 54.75,
+      "rotation": -89.76,
+      "x": -30.86,
+      "y": 39.68,
+      "scaleX": 0.666
+    },
+    {
+      "name": "cell_rod2",
+      "parent": "cell",
+      "length": 54.75,
+      "rotation": 90.58,
+      "x": -29.99,
+      "y": -51.88,
+      "scaleX": 1.039
+    },
+    {
+      "name": "cell_rod3",
+      "parent": "cell",
+      "length": 54.75,
+      "rotation": 90.58,
+      "x": 30.18,
+      "y": -51.88,
+      "scaleX": 0.613
+    },
+    {
+      "name": "cell_rod4",
+      "parent": "cell",
+      "length": 54.75,
+      "rotation": -88.99,
+      "x": 28.65,
+      "y": 40.98,
+      "scaleX": 1.113
+    },
+    {
+      "name": "cell_rod5",
+      "parent": "cell",
+      "length": 54.75,
+      "rotation": -89.05,
+      "x": -3.39,
+      "y": 33.79,
+      "scaleX": 1.462
+    }
+  ],
+  "slots": [
+    {
+      "name": "cell3",
+      "bone": "cell3"
+    },
+    {
+      "name": "ice_block2_stable",
+      "bone": "ice_block2_stable"
+    },
+    {
+      "name": "ice_block1_stable",
+      "bone": "ice_block1_stable"
+    },
+    {
+      "name": "cell_rod4",
+      "bone": "cell_rod4"
+    },
+    {
+      "name": "cell_rod5",
+      "bone": "cell_rod5"
+    },
+    {
+      "name": "cell_rod2",
+      "bone": "cell_rod2"
+    },
+    {
+      "name": "cell_rod3",
+      "bone": "cell_rod3"
+    },
+    {
+      "name": "cell_rod",
+      "bone": "cell_rod"
+    },
+    {
+      "name": "cell_lock2",
+      "bone": "cell_lock2"
+    },
+    {
+      "name": "cell_lock",
+      "bone": "cell_lock"
+    },
+    {
+      "name": "cell_effect_3",
+      "bone": "cell_effect_3"
+    }
+  ],
+  "skins": {
+    "default": {
+      "cell3": {
+        "cell3": {
+          "x": -0.46,
+          "y": 10.01,
+          "width": 130,
+          "height": 131
+        }
+      },
+      "ice_block2_stable": {
+        "ice_block2_stable": {
+          "x": 1.05,
+          "y": 2.61,
+          "width": 128,
+          "height": 127
+        }
+      },
+      "cell_effect_3": {
+        "cell_effect_1": {
+          "scaleX": 0.697,
+          "scaleY": 0.697,
+          "width": 96,
+          "height": 91
+        },
+        "cell_effect_2": {
+          "scaleX": 0.612,
+          "scaleY": 0.612,
+          "width": 101,
+          "height": 91
+        },
+        "cell_effect_3": {
+          "x": 1.58,
+          "y": 1.8,
+          "scaleX": 0.708,
+          "scaleY": 0.708,
+          "width": 54,
+          "height": 55
+        }
+      },
+      "cell_lock": {
+        "cell_lock": {
+          "x": 14.98,
+          "y": 1.42,
+          "rotation": 52.84,
+          "width": 43,
+          "height": 41
+        }
+      },
+      "cell_lock2": {
+        "cell_lock2": {
+          "x": 12.9,
+          "y": 2.78,
+          "rotation": -91.2,
+          "width": 26,
+          "height": 35
+        }
+      },
+      "ice_block1_stable": {
+        "ice_block1_stable": {
+          "x": -0.14,
+          "y": 4.09,
+          "width": 128,
+          "height": 127
+        }
+      },
+      "cell_rod": {
+        "cell_rod": {
+          "x": 27.08,
+          "y": 1.37,
+          "rotation": 88.6,
+          "width": 14,
+          "height": 57
+        }
+      },
+      "cell_rod2": {
+        "cell_rod": {
+          "x": 27.08,
+          "y": 1.37,
+          "rotation": 88.6,
+          "width": 14,
+          "height": 57
+        }
+      },
+      "cell_rod3": {
+        "cell_rod": {
+          "x": 27.08,
+          "y": 1.37,
+          "rotation": 88.6,
+          "width": 14,
+          "height": 57
+        }
+      },
+      "cell_rod4": {
+        "cell_rod": {
+          "x": 27.08,
+          "y": 1.37,
+          "rotation": 88.6,
+          "width": 14,
+          "height": 57
+        }
+      },
+      "cell_rod5": {
+        "cell_rod": {
+          "x": 27.08,
+          "y": 1.37,
+          "rotation": 88.6,
+          "width": 14,
+          "height": 57
+        }
+      }
+    }
+  },
+  "animations": {
+    "0": {
+      "slots": {
+        "cell_effect_3": {
+          "color": [
+            {
+              "time": 0,
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.1333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.6,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_effect_3"
+            },
+            {
+              "time": 0.3333,
+              "name": "cell_effect_1"
+            },
+            {
+              "time": 0.4333,
+              "name": "cell_effect_2"
+            }
+          ]
+        },
+        "ice_block1_stable": {
+          "color": [
+            {
+              "time": 0.1333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.2,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "ice_block1_stable"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "ice_block1_stable": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2,
+              "x": 1.344,
+              "y": 1.344
+            }
+          ]
+        },
+        "cell_effect_3": {
+          "scale": [
+            {
+              "time": 0.0667,
+              "x": 1,
+              "y": 1,
+              "curve": [
+                0.414,
+                0.36,
+                0.749,
+                0.63
+              ]
+            },
+            {
+              "time": 0.6,
+              "x": 6.481,
+              "y": 6.481
+            }
+          ]
+        }
+      }
+    },
+    "1": {
+      "slots": {
+        "cell3": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell3"
+            }
+          ]
+        },
+        "cell_lock": {
+          "color": [
+            {
+              "time": 0.3,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_lock"
+            }
+          ]
+        },
+        "cell_lock2": {
+          "color": [
+            {
+              "time": 0.3,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_lock2"
+            }
+          ]
+        },
+        "cell_rod": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_rod"
+            }
+          ]
+        },
+        "cell_rod2": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_rod"
+            }
+          ]
+        },
+        "cell_rod3": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_rod"
+            }
+          ]
+        },
+        "cell_rod4": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_rod"
+            }
+          ]
+        },
+        "cell_rod5": {
+          "color": [
+            {
+              "time": 0.2333,
+              "color": "ffffffff"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffff00"
+            }
+          ],
+          "attachment": [
+            {
+              "time": 0,
+              "name": "cell_rod"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "cell_rod5": {
+          "rotate": [
+            {
+              "time": 0.1,
+              "angle": 0
+            },
+            {
+              "time": 0.1333,
+              "angle": -10.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "angle": -10.1
+            },
+            {
+              "time": 0.4333,
+              "angle": -5.78
+            }
+          ],
+          "translate": [
+            {
+              "time": 0.1,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.1333,
+              "x": 5.28,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.2333,
+              "x": 5.28,
+              "y": 0
+            },
+            {
+              "time": 0.4333,
+              "x": 16.62,
+              "y": 11.8
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.2333,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.4333,
+              "x": 1.247,
+              "y": 1.392
+            }
+          ]
+        },
+        "cell_rod4": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1333,
+              "angle": 10.12
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.1333,
+              "x": 1.081,
+              "y": 1
+            }
+          ]
+        },
+        "cell_rod3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.1333,
+              "angle": -18.77
+            }
+          ]
+        },
+        "cell_rod2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.2,
+              "angle": 12.27
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2,
+              "x": 1.06,
+              "y": 1
+            }
+          ]
+        },
+        "cell_rod": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.2,
+              "angle": -18.57
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.2,
+              "x": 0,
+              "y": 0.92
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.2,
+              "x": 1.032,
+              "y": 1
+            }
+          ]
+        },
+        "cell_lock2": {
+          "rotate": [
+            {
+              "time": 0.2,
+              "angle": 0
+            },
+            {
+              "time": 0.2333,
+              "angle": 73.28
+            }
+          ],
+          "translate": [
+            {
+              "time": 0.3,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5,
+              "x": -12.72,
+              "y": 7.48
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.3,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.5,
+              "x": 1.476,
+              "y": 1.476
+            }
+          ]
+        },
+        "cell_lock": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0
+            },
+            {
+              "time": 0.0333,
+              "angle": 5.86
+            },
+            {
+              "time": 0.1333,
+              "angle": -4.48
+            },
+            {
+              "time": 0.2,
+              "angle": 5.86
+            }
+          ],
+          "translate": [
+            {
+              "time": 0.3,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5,
+              "x": 10.85,
+              "y": -14.59
+            }
+          ],
+          "scale": [
+            {
+              "time": 0.3,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 0.5,
+              "x": 1.212,
+              "y": 1.212
+            }
+          ]
+        }
+      }
+    }
+  }
+}

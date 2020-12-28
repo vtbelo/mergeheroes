@@ -1,0 +1,160 @@
+
+burst-44a196f2d8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_kakt
+  rotate: false
+  xy: 379, 1
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+body_kakt
+  rotate: false
+  xy: 231, 149
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+brow_kakt
+  rotate: false
+  xy: 59, 491
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_0
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_1
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_2
+  rotate: false
+  xy: 1, 297
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+burst-images-gummachine_3
+  rotate: false
+  xy: 231, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+burst-images-ship_kakt
+  rotate: false
+  xy: 137, 469
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+crown_kakt
+  rotate: false
+  xy: 172, 469
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+eye_kakt
+  rotate: false
+  xy: 137, 445
+  size: 66, 22
+  orig: 66, 22
+  offset: 0, 0
+  index: -1
+eyes_kakt
+  rotate: false
+  xy: 71, 445
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+gorsh_kakt
+  rotate: false
+  xy: 1, 445
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+gummachine_0
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+gummachine_1
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+gummachine_2
+  rotate: false
+  xy: 1, 297
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+gummachine_3
+  rotate: false
+  xy: 231, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+rot_kakt
+  rotate: false
+  xy: 197, 469
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+shadow_kakt
+  rotate: false
+  xy: 1, 491
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+ship_kakt
+  rotate: false
+  xy: 137, 469
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+ship_kakt_2
+  rotate: false
+  xy: 379, 125
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+smile_kakt
+  rotate: false
+  xy: 71, 476
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+zrach_kakt
+  rotate: false
+  xy: 124, 491
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1

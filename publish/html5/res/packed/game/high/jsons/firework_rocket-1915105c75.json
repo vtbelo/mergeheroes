@@ -1,0 +1,86 @@
+{
+"skeleton": { "hash": "QopkfLOz4NvNPGObulRrOa0p0OQ", "spine": "3.5.35", "width": 160, "height": 202.16 },
+"bones": [
+	{ "name": "root", "scaleX": 0.85, "scaleY": 0.85 },
+	{ "name": "b_r2_fireworkrocket", "parent": "root", "length": 85.68, "rotation": 89.86, "x": -0.24, "y": -45.82 },
+	{
+		"name": "rocket_fire_fireworkrocket",
+		"parent": "b_r2_fireworkrocket",
+		"length": 9.79,
+		"rotation": -179.86,
+		"x": -1.83,
+		"y": -0.62
+	}
+],
+"slots": [
+	{ "name": "rocket_fire_fireworkrocket", "bone": "rocket_fire_fireworkrocket", "attachment": "rocket_fire_fireworkrocket" },
+	{ "name": "b_r2_fireworkrocket", "bone": "b_r2_fireworkrocket", "attachment": "base" }
+],
+"skins": {
+	"default": {
+		"rocket_fire_fireworkrocket": {
+			"rocket_fire_fireworkrocket": { "x": 28, "y": 0.38, "scaleX": 0.676, "rotation": 90, "width": 73, "height": 93 }
+		}
+	},
+	"bombcup_blue": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "b_r2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	},
+	"bombcup_purple": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "p_r2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	},
+	"bombcup_green": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "g_r2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	},
+	"bombcup_red": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "r_rt2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	},
+	"bombcup_white": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "w_r2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	},
+	"bombcup_yellow": {
+		"b_r2_fireworkrocket": {
+			"base": { "name": "y_r2_fireworkrocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"rocket_fire_fireworkrocket": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.714,
+						"y": 1.573,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1.66,
+						"y": 1.905,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "x": 0.714, "y": 1.573 }
+				]
+			},
+			"b_r2_fireworkrocket": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1, "y": 1.136 },
+					{ "time": 0.1667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,244 @@
+
+hero_window-704bae9a4c.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heroes_candy_heroes_donut_body
+  rotate: false
+  xy: 1, 369
+  size: 112, 114
+  orig: 112, 114
+  offset: 0, 0
+  index: -1
+heroes_candy_heroes_donut_eye2
+  rotate: false
+  xy: 390, 175
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+heroes_candy_heroes_donut_hand2
+  rotate: false
+  xy: 255, 175
+  size: 133, 105
+  orig: 133, 105
+  offset: 0, 0
+  index: -1
+heroes_candy_heroes_ice_body
+  rotate: false
+  xy: 122, 257
+  size: 114, 115
+  orig: 114, 115
+  offset: 0, 0
+  index: -1
+heroes_candy_heroes_ice_eye
+  rotate: false
+  xy: 390, 199
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+heroes_candy_heroes_ice_mouth
+  rotate: false
+  xy: 350, 330
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+heroes_green_hero_
+  rotate: false
+  xy: 369, 353
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1
+heroes_green_hero_skalka
+  rotate: false
+  xy: 429, 133
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+heroes_green_hero_yell
+  rotate: false
+  xy: 350, 313
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+heroes_greenhero_pupil1_light
+  rotate: false
+  xy: 272, 528
+  size: 49, 15
+  orig: 49, 15
+  offset: 0, 0
+  index: -1
+heroes_igmyel_body
+  rotate: false
+  xy: 1, 257
+  size: 119, 110
+  orig: 119, 110
+  offset: 0, 0
+  index: -1
+heroes_igmyel_eyess
+  rotate: false
+  xy: 324, 470
+  size: 93, 25
+  orig: 93, 25
+  offset: 0, 0
+  index: -1
+heroes_igmyel_hand1
+  rotate: false
+  xy: 350, 282
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+heroes_igmyel_hand2
+  rotate: false
+  xy: 225, 388
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+heroes_igmyel_hat
+  rotate: false
+  xy: 318, 586
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+heroes_igmyel_smile
+  rotate: false
+  xy: 390, 213
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+heroes_moves_icon
+  rotate: false
+  xy: 272, 545
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+heroes_purphero_body1
+  rotate: false
+  xy: 390, 225
+  size: 121, 126
+  orig: 121, 126
+  offset: 0, 0
+  index: -1
+heroes_purplehero_pupils
+  rotate: false
+  xy: 350, 345
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+heroes_redhero_bodya1
+  rotate: false
+  xy: 115, 374
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+heroes_redhero_eye1
+  rotate: false
+  xy: 212, 554
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+heroes_redhero_pupil1
+  rotate: false
+  xy: 324, 446
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_cow_hand1
+  rotate: false
+  xy: 324, 497
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_cow_hand2
+  rotate: false
+  xy: 416, 569
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_cow_light
+  rotate: false
+  xy: 255, 1
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog
+  rotate: false
+  xy: 429, 1
+  size: 79, 93
+  orig: 79, 93
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog_box
+  rotate: false
+  xy: 1, 1
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog_gree2n
+  rotate: false
+  xy: 115, 482
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog_green
+  rotate: false
+  xy: 1, 485
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog_ice
+  rotate: false
+  xy: 225, 446
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_dog_star
+  rotate: false
+  xy: 238, 282
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+heroes_story_trmnt_jelly
+  rotate: false
+  xy: 419, 470
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+heroes_yellow_eye1
+  rotate: false
+  xy: 429, 96
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+heroes_yellow_pupil1
+  rotate: false
+  xy: 212, 528
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+valentines-ab92dbf2d5.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mission_icon
+  rotate: false
+  xy: 344, 837
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+scien_finger1
+  rotate: false
+  xy: 490, 367
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+scien_finger2
+  rotate: false
+  xy: 490, 379
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+sciensman_arm1
+  rotate: false
+  xy: 71, 955
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+sciensman_body
+  rotate: false
+  xy: 1, 105
+  size: 330, 305
+  orig: 330, 305
+  offset: 0, 0
+  index: -1
+sciensman_eye1
+  rotate: false
+  xy: 289, 954
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+sciensman_eye2
+  rotate: false
+  xy: 279, 732
+  size: 97, 70
+  orig: 97, 70
+  offset: 0, 0
+  index: -1
+sciensman_fl
+  rotate: false
+  xy: 379, 54
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+sciensman_glasses
+  rotate: false
+  xy: 1, 412
+  size: 279, 70
+  orig: 279, 70
+  offset: 0, 0
+  index: -1
+sciensman_haer1
+  rotate: false
+  xy: 282, 523
+  size: 227, 113
+  orig: 227, 113
+  offset: 0, 0
+  index: -1
+sciensman_haer2
+  rotate: false
+  xy: 379, 1
+  size: 132, 51
+  orig: 132, 51
+  offset: 0, 0
+  index: -1
+sciensman_haer2_1
+  rotate: false
+  xy: 333, 202
+  size: 166, 59
+  orig: 166, 59
+  offset: 0, 0
+  index: -1
+sciensman_haer3
+  rotate: false
+  xy: 395, 732
+  size: 101, 46
+  orig: 101, 46
+  offset: 0, 0
+  index: -1
+sciensman_haer3_1
+  rotate: false
+  xy: 395, 780
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1
+sciensman_haer4
+  rotate: false
+  xy: 238, 902
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+sciensman_haer4_1
+  rotate: false
+  xy: 377, 145
+  size: 134, 51
+  orig: 134, 51
+  offset: 0, 0
+  index: -1
+sciensman_hand1
+  rotate: false
+  xy: 256, 484
+  size: 24, 78
+  orig: 24, 78
+  offset: 0, 0
+  index: -1
+sciensman_hand1_2
+  rotate: false
+  xy: 420, 837
+  size: 72, 23
+  orig: 72, 23
+  offset: 0, 0
+  index: -1
+sciensman_hand2
+  rotate: false
+  xy: 252, 732
+  size: 25, 77
+  orig: 25, 77
+  offset: 0, 0
+  index: -1
+sciensman_hand2_2
+  rotate: false
+  xy: 395, 815
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+sciensman_hat
+  rotate: false
+  xy: 333, 263
+  size: 163, 102
+  orig: 163, 102
+  offset: 0, 0
+  index: -1
+sciensman_mouth
+  rotate: false
+  xy: 420, 862
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+sciensman_mouth2
+  rotate: false
+  xy: 282, 469
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+sciensman_mouth4
+  rotate: false
+  xy: 420, 888
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+sciensman_mouth5
+  rotate: false
+  xy: 282, 412
+  size: 47, 8
+  orig: 47, 8
+  offset: 0, 0
+  index: -1
+sciensman_mouth_3
+  rotate: false
+  xy: 282, 491
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+sciensman_pupel1
+  rotate: false
+  xy: 185, 902
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+scientist_3
+  rotate: false
+  xy: 333, 367
+  size: 155, 154
+  orig: 155, 154
+  offset: 0, 0
+  index: -1
+scientist_honey
+  rotate: false
+  xy: 333, 105
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+scientist_light
+  rotate: false
+  xy: 252, 815
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+scientist_light1
+  rotate: false
+  xy: 1, 955
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+tour_red_purple
+  rotate: false
+  xy: 333, 152
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+valentines-cloud_heart
+  rotate: false
+  xy: 136, 955
+  size: 151, 55
+  orig: 151, 55
+  offset: 0, 0
+  index: -1
+valentines-icon_bg
+  rotate: false
+  xy: 1, 484
+  size: 253, 219
+  orig: 253, 219
+  offset: 0, 0
+  index: -1
+valentines-mission_icon
+  rotate: false
+  xy: 344, 837
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+valentines-toolbar_cloud_right
+  rotate: false
+  xy: 256, 638
+  size: 247, 92
+  orig: 247, 92
+  offset: 0, 0
+  index: -1
+valentines-valentines_window_title
+  rotate: false
+  xy: 1, 1
+  size: 376, 102
+  orig: 376, 102
+  offset: 0, 0
+  index: -1
+valentines-window_decor_cloud_1
+  rotate: false
+  xy: 1, 705
+  size: 232, 90
+  orig: 232, 90
+  offset: 0, 0
+  index: -1
+valentines-window_decor_cloud_2
+  rotate: false
+  xy: 185, 797
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+valentines-window_decor_hearts
+  rotate: false
+  xy: 1, 797
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+yellowtour_arbuzz
+  rotate: false
+  xy: 282, 422
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

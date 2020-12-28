@@ -1,0 +1,963 @@
+{
+	"skeleton": {
+		"hash": "ocQAYfDLhm/HmiWF/NWX+x97jQU",
+		"spine": "3.7.91",
+		"width": 147.58,
+		"height": 141.98,
+		"images": "./images/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root",
+			"scaleX": 1.004,
+			"scaleY": 1.004
+		},
+		{
+			"name": "scien_body",
+			"parent": "root",
+			"length": 86.1,
+			"rotation": 88.65,
+			"x": -4.48,
+			"y": -57.52,
+			"scaleX": 1.108,
+			"scaleY": 1.108
+		},
+		{
+			"name": "scien_hand1",
+			"parent": "scien_body",
+			"length": 19.35,
+			"rotation": -109.45,
+			"x": 25.08,
+			"y": -47.56
+		},
+		{
+			"name": "scien_hand3",
+			"parent": "scien_hand1",
+			"length": 18.16,
+			"rotation": -145.34,
+			"x": 22.98,
+			"y": 0.37
+		},
+		{
+			"name": "scien_colb",
+			"parent": "scien_body",
+			"length": 15.82,
+			"rotation": 93.84,
+			"x": 15.49,
+			"y": -51.13,
+			"color": "ff3f00ff"
+		},
+		{
+			"name": "scien_hand11",
+			"parent": "scien_body",
+			"length": 17.75,
+			"rotation": 164.08,
+			"x": 22.56,
+			"y": 43.04
+		},
+		{
+			"name": "scien_hand22",
+			"parent": "scien_hand11",
+			"length": 14.06,
+			"rotation": 95.04,
+			"x": 19.85,
+			"y": 0.17
+		},
+		{
+			"name": "scien_arm",
+			"parent": "scien_body",
+			"length": 18.15,
+			"rotation": -93,
+			"x": 3.49,
+			"y": 27.06,
+			"color": "ff3f00ff"
+		},
+		{
+			"name": "scien_finger1",
+			"parent": "scien_arm",
+			"length": 9.39,
+			"rotation": 4.34,
+			"x": 17.31,
+			"y": 5.57
+		},
+		{
+			"name": "scien_mouth",
+			"parent": "scien_body",
+			"length": 8.72,
+			"rotation": 84.56,
+			"x": 37.15,
+			"y": 2.65
+		},
+		{
+			"name": "sciensman_body2",
+			"parent": "root",
+			"length": 262.81,
+			"rotation": 86.75,
+			"x": -8.28,
+			"y": -59.03,
+			"scaleX": 0.343,
+			"scaleY": 0.343
+		},
+		{
+			"name": "sciensman_haer1",
+			"parent": "sciensman_body2",
+			"rotation": -86.75,
+			"x": 255.78,
+			"y": -2.07
+		},
+		{
+			"name": "sciensman_eye1",
+			"parent": "sciensman_body2",
+			"x": 162.48,
+			"y": -131.88
+		},
+		{
+			"name": "sciensman_eye2",
+			"parent": "sciensman_body2",
+			"x": 208.21,
+			"y": 86.83
+		},
+		{
+			"name": "sciensman_ppupel2",
+			"parent": "sciensman_body2",
+			"x": 171.83,
+			"y": 71.35
+		},
+		{
+			"name": "sciensman_pupel1",
+			"parent": "sciensman_body2",
+			"x": 166.31,
+			"y": -85.46
+		},
+		{
+			"name": "sciensman_haer3",
+			"parent": "sciensman_body2",
+			"x": 303.96,
+			"y": -7.11
+		},
+		{
+			"name": "sciensman_haer4",
+			"parent": "sciensman_body2",
+			"x": 298.18,
+			"y": -133.13
+		},
+		{
+			"name": "sciensman_haer2",
+			"parent": "sciensman_body2",
+			"x": 238.59,
+			"y": -133.53
+		},
+		{
+			"name": "sciensman_glasses",
+			"parent": "sciensman_body2",
+			"x": 210.31,
+			"y": 5.97
+		},
+		{
+			"name": "sciensman_hat",
+			"parent": "sciensman_body2",
+			"x": 348.44,
+			"y": -3.09
+		},
+		{
+			"name": "sciensman_arm2",
+			"parent": "scien_colb",
+			"length": 56.71,
+			"rotation": -0.42,
+			"x": 0.9,
+			"y": -0.21,
+			"scaleX": 0.3,
+			"scaleY": 0.3,
+			"color": "ff3f00ff"
+		}
+	],
+	"slots": [
+		{
+			"name": "sciensman_body",
+			"bone": "sciensman_body2",
+			"attachment": "sciensman_body"
+		},
+		{
+			"name": "sciensman_eye1",
+			"bone": "sciensman_eye1",
+			"attachment": "sciensman_eye1"
+		},
+		{
+			"name": "sciensman_eye2",
+			"bone": "sciensman_eye2",
+			"attachment": "sciensman_eye2"
+		},
+		{
+			"name": "sciensman_ppupel2",
+			"bone": "sciensman_ppupel2",
+			"attachment": "sciensman_pupel2"
+		},
+		{
+			"name": "sciensman_pupel1",
+			"bone": "sciensman_pupel1",
+			"attachment": "sciensman_pupel1"
+		},
+		{
+			"name": "sciensman_glasses",
+			"bone": "sciensman_glasses",
+			"attachment": "sciensman_glasses"
+		},
+		{
+			"name": "sciensman_hat",
+			"bone": "sciensman_hat",
+			"attachment": "sciensman_hat"
+		},
+		{
+			"name": "sciensman_haer4_1",
+			"bone": "sciensman_haer4",
+			"attachment": "sciensman_haer4_1"
+		},
+		{
+			"name": "sciensman_haer4",
+			"bone": "sciensman_haer4",
+			"attachment": "sciensman_haer4"
+		},
+		{
+			"name": "sciensman_haer3_1",
+			"bone": "sciensman_haer3",
+			"attachment": "sciensman_haer3_1"
+		},
+		{
+			"name": "sciensman_haer3",
+			"bone": "sciensman_haer3",
+			"attachment": "sciensman_haer3"
+		},
+		{
+			"name": "sciensman_haer2_1",
+			"bone": "sciensman_haer2",
+			"attachment": "sciensman_haer2_1"
+		},
+		{
+			"name": "sciensman_haer2",
+			"bone": "sciensman_haer2",
+			"attachment": "sciensman_haer2"
+		},
+		{
+			"name": "sciensman_haer1",
+			"bone": "sciensman_haer1",
+			"attachment": "sciensman_haer1"
+		},
+		{
+			"name": "scien_mouth",
+			"bone": "scien_mouth",
+			"attachment": "sciensman_mouth"
+		},
+		{
+			"name": "scien_hand1",
+			"bone": "scien_hand1",
+			"attachment": "sciensman_hand1"
+		},
+		{
+			"name": "scien_hand11",
+			"bone": "scien_hand11",
+			"attachment": "sciensman_hand2"
+		},
+		{
+			"name": "scien_hand2",
+			"bone": "scien_hand3",
+			"attachment": "sciensman_hand1_2"
+		},
+		{
+			"name": "scien_hand22",
+			"bone": "scien_hand22",
+			"attachment": "sciensman_hand2_2"
+		},
+		{
+			"name": "scien_colb",
+			"bone": "scien_colb",
+			"attachment": "mission_icon"
+		},
+		{
+			"name": "scien_arm",
+			"bone": "scien_arm",
+			"attachment": "sciensman_arm1"
+		},
+		{
+			"name": "scien_finger1",
+			"bone": "scien_finger1",
+			"attachment": "scien_finger1"
+		},
+		{
+			"name": "scien_finger2",
+			"bone": "scien_finger1",
+			"attachment": "scien_finger2"
+		},
+		{
+			"name": "sciensman_arm2",
+			"bone": "sciensman_arm2",
+			"attachment": "sciensman_arm1"
+		}
+	],
+	"ik": [
+		{
+			"name": "scien_arm",
+			"order": 1,
+			"bones": [
+				"scien_hand11",
+				"scien_hand22"
+			],
+			"target": "scien_arm"
+		},
+		{
+			"name": "scien_colb",
+			"order": 0,
+			"bones": [
+				"scien_hand1",
+				"scien_hand3"
+			],
+			"target": "scien_colb",
+			"bendPositive": false
+		}
+	],
+	"skins": {
+		"default": {
+			"scien_arm": {
+				"sciensman_arm1": {
+					"x": 11.74,
+					"y": 0.5,
+					"scaleX": -0.3,
+					"scaleY": 0.3,
+					"rotation": -2.2,
+					"width": 63,
+					"height": 63
+				}
+			},
+			"scien_colb": {
+				"mission_icon": {
+					"x": 8.68,
+					"y": 5.1,
+					"scaleX": 0.4,
+					"scaleY": 0.4,
+					"rotation": 173.86,
+					"width": 74,
+					"height": 95
+				}
+			},
+			"scien_finger1": {
+				"scien_finger1": {
+					"x": 2.8,
+					"y": 0.35,
+					"width": 19,
+					"height": 10
+				}
+			},
+			"scien_finger2": {
+				"scien_finger2": {
+					"x": 1.8,
+					"y": 0.35,
+					"width": 15,
+					"height": 10
+				}
+			},
+			"scien_hand1": {
+				"sciensman_hand1": {
+					"x": 12.34,
+					"y": 1.68,
+					"scaleX": 0.3,
+					"scaleY": 0.3,
+					"rotation": 87.41,
+					"width": 24,
+					"height": 78
+				}
+			},
+			"scien_hand11": {
+				"sciensman_hand2": {
+					"x": 9.15,
+					"y": -0.58,
+					"scaleX": 0.3,
+					"scaleY": 0.3,
+					"rotation": 92.42,
+					"width": 25,
+					"height": 77
+				}
+			},
+			"scien_hand2": {
+				"sciensman_hand1_2": {
+					"x": 10.32,
+					"y": 0.15,
+					"scaleX": 0.3,
+					"scaleY": 0.3,
+					"rotation": 173.37,
+					"width": 72,
+					"height": 23
+				}
+			},
+			"scien_hand22": {
+				"sciensman_hand2_2": {
+					"x": 10.08,
+					"y": 0.25,
+					"scaleX": 0.3,
+					"scaleY": 0.3,
+					"rotation": -2.5,
+					"width": 77,
+					"height": 20
+				}
+			},
+			"scien_mouth": {
+				"sciensman_mouth": {
+					"x": -0.14,
+					"y": -1.6,
+					"scaleX": 0.34,
+					"scaleY": 0.34,
+					"rotation": -173.21,
+					"width": 63,
+					"height": 24
+				}
+			},
+			"sciensman_arm2": {
+				"sciensman_arm1": {
+					"x": 24.36,
+					"y": -2.31,
+					"rotation": -179.58,
+					"width": 63,
+					"height": 63
+				}
+			},
+			"sciensman_body": {
+				"sciensman_body": {
+					"x": 178.87,
+					"y": -22.07,
+					"scaleX": 1.229,
+					"scaleY": 1.229,
+					"rotation": -86.75,
+					"width": 330,
+					"height": 305
+				}
+			},
+			"sciensman_eye1": {
+				"sciensman_eye1": {
+					"x": 2.87,
+					"y": 41.76,
+					"scaleX": 1.391,
+					"scaleY": 1.391,
+					"rotation": -86.75,
+					"width": 104,
+					"height": 69
+				}
+			},
+			"sciensman_eye2": {
+				"sciensman_eye2": {
+					"x": -18.14,
+					"y": -5.07,
+					"scaleX": 1.423,
+					"scaleY": 1.423,
+					"rotation": -86.75,
+					"width": 97,
+					"height": 70
+				}
+			},
+			"sciensman_glasses": {
+				"sciensman_glasses": {
+					"x": -32.15,
+					"y": -19.31,
+					"scaleX": 1.442,
+					"scaleY": 1.442,
+					"rotation": -97.02,
+					"width": 279,
+					"height": 70
+				}
+			},
+			"sciensman_haer1": {
+				"sciensman_haer1": {
+					"x": -6.22,
+					"y": 9.13,
+					"scaleX": 1.167,
+					"scaleY": 1.167,
+					"width": 227,
+					"height": 113
+				}
+			},
+			"sciensman_haer2": {
+				"sciensman_haer2": {
+					"x": 6.71,
+					"y": 220.43,
+					"scaleX": 1.206,
+					"scaleY": 1.206,
+					"rotation": -71.37,
+					"width": 132,
+					"height": 51
+				}
+			},
+			"sciensman_haer2_1": {
+				"sciensman_haer2_1": {
+					"x": 3.66,
+					"y": 15.36,
+					"rotation": -115.05,
+					"width": 166,
+					"height": 59
+				}
+			},
+			"sciensman_haer3": {
+				"sciensman_haer3": {
+					"x": 10.48,
+					"y": 22.48,
+					"scaleX": 1.19,
+					"scaleY": 1.19,
+					"rotation": -145.74,
+					"width": 101,
+					"height": 46
+				}
+			},
+			"sciensman_haer3_1": {
+				"sciensman_haer3_1": {
+					"x": 31.95,
+					"y": -24.81,
+					"scaleX": 0.852,
+					"scaleY": 0.852,
+					"rotation": -45.07,
+					"width": 99,
+					"height": 33
+				}
+			},
+			"sciensman_haer4": {
+				"sciensman_haer4": {
+					"x": -7.13,
+					"y": 236.58,
+					"rotation": -86.75,
+					"width": 104,
+					"height": 50
+				}
+			},
+			"sciensman_haer4_1": {
+				"sciensman_haer4_1": {
+					"x": -4.3,
+					"y": 35.27,
+					"rotation": -80.88,
+					"width": 134,
+					"height": 51
+				}
+			},
+			"sciensman_hat": {
+				"sciensman_hat": {
+					"x": -39.71,
+					"y": -0.4,
+					"scaleX": 1.174,
+					"scaleY": 1.174,
+					"rotation": -90.65,
+					"width": 163,
+					"height": 102
+				}
+			},
+			"sciensman_ppupel2": {
+				"sciensman_pupel2": {
+					"path": "sciensman_pupel1",
+					"x": 1.32,
+					"y": 5.26,
+					"scaleX": 0.817,
+					"scaleY": 0.817,
+					"rotation": -86.75,
+					"width": 51,
+					"height": 51
+				}
+			},
+			"sciensman_pupel1": {
+				"sciensman_pupel1": {
+					"x": 0.27,
+					"y": 3.26,
+					"scaleX": 1.337,
+					"scaleY": 1.337,
+					"rotation": -86.75,
+					"width": 51,
+					"height": 51
+				}
+			}
+		}
+	},
+	"animations": {
+		"animation": {
+			"slots": {
+				"scien_finger1": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.0667,
+							"name": "scien_finger1"
+						},
+						{
+							"time": 0.2667,
+							"name": null
+						},
+						{
+							"time": 0.6,
+							"name": "scien_finger1"
+						},
+						{
+							"time": 0.7667,
+							"name": null
+						}
+					]
+				},
+				"scien_finger2": {
+					"attachment": [
+						{
+							"time": 0.0667,
+							"name": null
+						},
+						{
+							"time": 0.2667,
+							"name": "scien_finger2"
+						},
+						{
+							"time": 0.6,
+							"name": null
+						},
+						{
+							"time": 0.7667,
+							"name": "scien_finger2"
+						}
+					]
+				}
+			},
+			"bones": {
+				"scien_arm": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -0.73,
+							"y": 2.64,
+							"curve": [
+								0.523,
+								0,
+								0.534,
+								0.98
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -1.46,
+							"y": -8.68,
+							"curve": [
+								0.523,
+								0,
+								0.534,
+								0.98
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -0.73,
+							"y": 2.64,
+							"curve": [
+								0.523,
+								0,
+								0.534,
+								0.98
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": -1.46,
+							"y": -8.68
+						},
+						{
+							"time": 0.8667,
+							"x": -0.73,
+							"y": 2.64
+						}
+					]
+				},
+				"scien_hand11": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -2.57,
+							"y": -3.72,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": -2.57,
+							"y": -3.72,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"scien_colb": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.426,
+								0,
+								0.528,
+								1
+							]
+						},
+						{
+							"time": 0.0667,
+							"angle": 18.97,
+							"curve": [
+								0.48,
+								0.03,
+								0.529,
+								0.98
+							]
+						},
+						{
+							"time": 0.3,
+							"angle": -27.33,
+							"curve": [
+								0.533,
+								0.04,
+								0.536,
+								0.98
+							]
+						},
+						{
+							"time": 0.5,
+							"angle": 10.55,
+							"curve": [
+								0.499,
+								0.01,
+								0.533,
+								0.98
+							]
+						},
+						{
+							"time": 0.7,
+							"angle": -31.39,
+							"curve": [
+								0.483,
+								0.05,
+								0.531,
+								0.98
+							]
+						},
+						{
+							"time": 0.8667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.475,
+								0,
+								0.556,
+								0.98
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -1.53,
+							"y": 8.28,
+							"curve": [
+								0.475,
+								0,
+								0.556,
+								0.98
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -3.35,
+							"y": 0.92,
+							"curve": [
+								0.475,
+								0,
+								0.556,
+								0.98
+							]
+						},
+						{
+							"time": 0.6,
+							"x": -1.53,
+							"y": 8.28,
+							"curve": [
+								0.475,
+								0,
+								0.556,
+								0.98
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"scien_hand1": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -1.7,
+							"y": 1.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -0.66,
+							"y": -0.35,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6,
+							"x": -1.33,
+							"y": -0.03,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"scien_body": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2,
+							"x": -0.97,
+							"y": 0
+						},
+						{
+							"time": 0.4333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": -0.97,
+							"y": 0
+						},
+						{
+							"time": 0.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"scien_mouth": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.1667,
+							"x": 1,
+							"y": 0.644
+						},
+						{
+							"time": 0.8667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"sciensman_body2": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.2,
+							"x": -0.97,
+							"y": 0
+						},
+						{
+							"time": 0.4333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.6667,
+							"x": -0.97,
+							"y": 0
+						},
+						{
+							"time": 0.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		}
+	}
+}

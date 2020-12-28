@@ -1,0 +1,48 @@
+
+syrup-98b8344f29.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dirt_cell
+  rotate: false
+  xy: 1, 1
+  size: 89, 122
+  orig: 89, 122
+  offset: 0, 0
+  index: -1
+dirt_cell_buble
+  rotate: false
+  xy: 92, 19
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dirt_list
+  rotate: false
+  xy: 92, 33
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+dirt_sirop
+  rotate: false
+  xy: 1, 125
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dirt_sirop_buble
+  rotate: false
+  xy: 92, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dirt_sirop_wave
+  rotate: false
+  xy: 123, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1

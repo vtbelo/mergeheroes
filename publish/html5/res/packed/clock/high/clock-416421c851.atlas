@@ -1,0 +1,90 @@
+
+clock-416421c851.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+clock-images-clock_goal
+  rotate: false
+  xy: 130, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+clock_bg
+  rotate: false
+  xy: 130, 123
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+clock_eye
+  rotate: false
+  xy: 206, 247
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+clock_eyelid_down
+  rotate: false
+  xy: 173, 233
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+clock_eyelid_part
+  rotate: false
+  xy: 240, 123
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+clock_eyelid_up
+  rotate: false
+  xy: 130, 233
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+clock_goal
+  rotate: false
+  xy: 130, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+clock_pupil
+  rotate: false
+  xy: 238, 233
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+clock_smile
+  rotate: false
+  xy: 206, 233
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+flower_finish
+  rotate: false
+  xy: 1, 1
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+flower_list
+  rotate: false
+  xy: 1, 113
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1
+flower_list_light
+  rotate: false
+  xy: 1, 225
+  size: 127, 110
+  orig: 127, 110
+  offset: 0, 0
+  index: -1

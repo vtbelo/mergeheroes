@@ -1,0 +1,1972 @@
+{
+  "skeleton": {
+    "hash": "ygfRdKg8+ThN62XQZQC4rRgLYDA",
+    "spine": "3.7.94",
+    "width": 364.34,
+    "height": 427.06,
+    "images": "./fail/images/",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.705,
+      "scaleY": 0.705
+    },
+    {
+      "name": "bone2",
+      "parent": "root",
+      "x": 120.84,
+      "y": 15.85
+    },
+    {
+      "name": "redtour_body",
+      "parent": "bone2",
+      "length": 396.21,
+      "rotation": 90.14,
+      "x": -82.91,
+      "y": -164.64
+    },
+    {
+      "name": "redtour_hand2_2",
+      "parent": "redtour_body",
+      "length": 65.4,
+      "rotation": 130.82,
+      "x": 114.84,
+      "y": 143.36
+    },
+    {
+      "name": "redtour_hand2_1",
+      "parent": "redtour_hand2_2",
+      "length": 64.16,
+      "rotation": -26.46,
+      "x": 65.92,
+      "y": 0.2
+    },
+    {
+      "name": "redtour_hand1_2",
+      "parent": "redtour_body",
+      "length": 70.05,
+      "rotation": -149.48,
+      "x": 143.96,
+      "y": -64.57
+    },
+    {
+      "name": "redtour_hand1_1",
+      "parent": "redtour_hand1_2",
+      "length": 46.18,
+      "rotation": 41.56,
+      "x": 68.52,
+      "y": 0.43
+    },
+    {
+      "name": "redtour_arm1",
+      "parent": "redtour_body",
+      "length": 32.8,
+      "rotation": -80.4,
+      "x": 117.03,
+      "y": -142.69,
+      "scaleX": 0.763,
+      "scaleY": 0.763,
+      "color": "ff3f00ff"
+    },
+    {
+      "name": "redtour_eye1",
+      "parent": "redtour_body",
+      "x": 195.99,
+      "y": -45.95
+    },
+    {
+      "name": "redtour_pupel1",
+      "parent": "redtour_eye1",
+      "x": -2.82,
+      "y": -14.59
+    },
+    {
+      "name": "redtour_eye2",
+      "parent": "redtour_body",
+      "x": 194.14,
+      "y": 48.57
+    },
+    {
+      "name": "redtour_pupel2",
+      "parent": "redtour_eye2",
+      "x": -0.04,
+      "y": -15.98
+    },
+    {
+      "name": "redtour_veko",
+      "parent": "redtour_eye2",
+      "length": 45.89,
+      "rotation": -1.88,
+      "x": -54.21,
+      "y": 1.53
+    },
+    {
+      "name": "redtour_brow1",
+      "parent": "redtour_body",
+      "length": 36.9,
+      "rotation": 102.85,
+      "x": 274.41,
+      "y": 47.95
+    },
+    {
+      "name": "redtour_brow2",
+      "parent": "redtour_body",
+      "length": 33.56,
+      "rotation": -111.07,
+      "x": 276.92,
+      "y": -54.4
+    },
+    {
+      "name": "redtour_light",
+      "parent": "redtour_body",
+      "length": 126.5,
+      "rotation": -36.85,
+      "x": 425.43,
+      "y": -27.11
+    },
+    {
+      "name": "redtour_body2",
+      "parent": "redtour_body",
+      "x": -0.01,
+      "y": 0.01
+    },
+    {
+      "name": "redtour_mouth3",
+      "parent": "redtour_body2",
+      "length": 25.65,
+      "rotation": 87.65,
+      "x": 147.81,
+      "y": -4.66
+    },
+    {
+      "name": "redtour_arm2",
+      "parent": "redtour_body",
+      "length": 32.8,
+      "rotation": -88.02,
+      "x": 91.26,
+      "y": 238.85,
+      "scaleX": -0.76,
+      "scaleY": 0.763,
+      "color": "ff3f00ff"
+    }
+  ],
+  "slots": [
+    {
+      "name": "redtour_hand1_2",
+      "bone": "redtour_hand1_2",
+      "attachment": "redtour_hand1_2"
+    },
+    {
+      "name": "redtour_hand1_1",
+      "bone": "redtour_hand1_1",
+      "attachment": "redtour_hand1_1"
+    },
+    {
+      "name": "redtour_body",
+      "bone": "redtour_body",
+      "attachment": "redtour_body"
+    },
+    {
+      "name": "redtour_arm1",
+      "bone": "redtour_arm1",
+      "attachment": "redtour_arm1"
+    },
+    {
+      "name": "redtour_brow1",
+      "bone": "redtour_brow1",
+      "attachment": "redtour_brow1"
+    },
+    {
+      "name": "redtour_brow2",
+      "bone": "redtour_brow2",
+      "attachment": "redtour_brow2"
+    },
+    {
+      "name": "redtour_eye1",
+      "bone": "redtour_eye1",
+      "attachment": "redtour_eye1"
+    },
+    {
+      "name": "redtour_pupel1",
+      "bone": "redtour_pupel1",
+      "attachment": "redtour_pupel1"
+    },
+    {
+      "name": "redtour_eye2",
+      "bone": "redtour_eye2",
+      "attachment": "redtour_eye2"
+    },
+    {
+      "name": "redtour_pupel2",
+      "bone": "redtour_pupel2",
+      "attachment": "redtour_pupel2"
+    },
+    {
+      "name": "redtour_veko",
+      "bone": "redtour_veko",
+      "attachment": "redtour_veko"
+    },
+    {
+      "name": "redtour_mouth3",
+      "bone": "redtour_mouth3",
+      "attachment": "redtour_mouth3"
+    },
+    {
+      "name": "redtour_light",
+      "bone": "redtour_light",
+      "attachment": "redtour_light"
+    },
+    {
+      "name": "redtour_hand2_2",
+      "bone": "redtour_hand2_2",
+      "attachment": "redtour_hand2_2"
+    },
+    {
+      "name": "redtour_hand2_1",
+      "bone": "redtour_hand2_1",
+      "attachment": "redtour_hand2_1"
+    },
+    {
+      "name": "redtour_arm2",
+      "bone": "redtour_arm2",
+      "attachment": "redtour_arm1"
+    }
+  ],
+  "ik": [
+    {
+      "name": "redtour_arm1",
+      "order": 1,
+      "bones": [
+        "redtour_hand1_2",
+        "redtour_hand1_1"
+      ],
+      "target": "redtour_arm1"
+    },
+    {
+      "name": "redtour_arm2",
+      "order": 0,
+      "bones": [
+        "redtour_hand2_2",
+        "redtour_hand2_1"
+      ],
+      "target": "redtour_arm2",
+      "bendPositive": false
+    }
+  ],
+  "skins": {
+    "default": {
+      "redtour_arm1": {
+        "redtour_arm1": {
+          "x": 22.93,
+          "y": -0.41,
+          "rotation": 31.95,
+          "width": 103,
+          "height": 88
+        }
+      },
+      "redtour_arm2": {
+        "redtour_arm1": {
+          "x": 21.04,
+          "y": 0.77,
+          "rotation": 31.95,
+          "width": 103,
+          "height": 88
+        }
+      },
+      "redtour_body": {
+        "redtour_body": {
+          "type": "mesh",
+          "uvs": [
+            1,
+            1,
+            0.8413,
+            0.99999,
+            0.40195,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0.38256,
+            0,
+            0.87037,
+            0,
+            1,
+            0
+          ],
+          "triangles": [
+            1,
+            5,
+            6,
+            3,
+            4,
+            5,
+            2,
+            3,
+            5,
+            1,
+            2,
+            5,
+            6,
+            7,
+            0,
+            1,
+            6,
+            0
+          ],
+          "vertices": [
+            -1.33,
+            -111.9,
+            -1.2,
+            -63.02,
+            -0.86,
+            72.3,
+            -0.55,
+            196.09,
+            466.44,
+            194.92,
+            466.15,
+            77.09,
+            465.77,
+            -73.15,
+            465.67,
+            -113.07
+          ],
+          "hull": 8,
+          "edges": [
+            6,
+            8,
+            0,
+            14,
+            4,
+            6,
+            8,
+            10,
+            0,
+            2,
+            2,
+            4,
+            10,
+            12,
+            12,
+            14
+          ],
+          "width": 308,
+          "height": 467
+        }
+      },
+      "redtour_brow1": {
+        "redtour_brow1": {
+          "x": -0.12,
+          "y": 1.91,
+          "rotation": 167.01,
+          "width": 80,
+          "height": 29
+        }
+      },
+      "redtour_brow2": {
+        "redtour_brow2": {
+          "x": -4.84,
+          "y": -3.56,
+          "rotation": 20.92,
+          "width": 72,
+          "height": 31
+        }
+      },
+      "redtour_eye1": {
+        "redtour_eye1": {
+          "x": 0.94,
+          "y": 1.04,
+          "rotation": -90.14,
+          "width": 97,
+          "height": 98
+        }
+      },
+      "redtour_eye2": {
+        "redtour_eye2": {
+          "x": 1.44,
+          "y": 0.53,
+          "rotation": -90.14,
+          "width": 105,
+          "height": 103
+        }
+      },
+      "redtour_hand1_1": {
+        "redtour_hand1_1": {
+          "x": 28.65,
+          "y": -1.45,
+          "rotation": -64.28,
+          "width": 43,
+          "height": 77
+        }
+      },
+      "redtour_hand1_2": {
+        "redtour_hand1_2": {
+          "x": 34.92,
+          "y": 0.3,
+          "rotation": 52.07,
+          "width": 67,
+          "height": 79
+        }
+      },
+      "redtour_hand2_1": {
+        "redtour_hand2_1": {
+          "x": 34.07,
+          "y": 1.8,
+          "scaleX": -1,
+          "rotation": -134.42,
+          "width": 55,
+          "height": 64
+        }
+      },
+      "redtour_hand2_2": {
+        "redtour_hand2_2": {
+          "x": 33.84,
+          "y": -2.13,
+          "scaleX": -1,
+          "rotation": 117.63,
+          "width": 61,
+          "height": 83
+        }
+      },
+      "redtour_light": {
+        "redtour_light": {
+          "x": 77.67,
+          "y": -5.54,
+          "rotation": -53.3,
+          "width": 256,
+          "height": 241
+        }
+      },
+      "redtour_mouth3": {
+        "redtour_mouth3": {
+          "x": 0.15,
+          "y": -7.14,
+          "rotation": -177.8,
+          "width": 53,
+          "height": 22
+        }
+      },
+      "redtour_pupel1": {
+        "redtour_pupel1": {
+          "x": 0.63,
+          "y": -0.85,
+          "rotation": -90.14,
+          "width": 26,
+          "height": 26
+        }
+      },
+      "redtour_pupel2": {
+        "redtour_pupel2": {
+          "x": 0.93,
+          "y": -1.98,
+          "rotation": -90.14,
+          "width": 20,
+          "height": 20
+        }
+      },
+      "redtour_veko": {
+        "redtour_veko": {
+          "x": 25.65,
+          "y": 0.42,
+          "rotation": -88.26,
+          "width": 130,
+          "height": 67
+        }
+      }
+    }
+  },
+  "animations": {
+    "finish": {
+      "slots": {
+        "redtour_light": {
+          "color": [
+            {
+              "time": 3.9667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 4,
+              "color": "ffffff33"
+            },
+            {
+              "time": 4.0667,
+              "color": "ffffffff"
+            },
+            {
+              "time": 4.1333,
+              "color": "ffffff33"
+            },
+            {
+              "time": 4.1667,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "redtour_hand1_2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": -7.83
+            },
+            {
+              "time": 0.5,
+              "angle": 3.79
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 0.5,
+              "x": 6.69,
+              "y": 3.53,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 6.69,
+              "y": 3.53,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -4.64,
+              "y": 5.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -4.64,
+              "y": 5.43,
+              "curve": [
+                0.361,
+                0.44,
+                0.755,
+                1
+              ]
+            },
+            {
+              "time": 3.1333,
+              "x": -0.77,
+              "y": 1.54,
+              "curve": [
+                0.25,
+                0,
+                0.398,
+                0.97
+              ]
+            },
+            {
+              "time": 3.7,
+              "x": 15.32,
+              "y": 1.54,
+              "curve": [
+                0.544,
+                0.03,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.2333,
+              "x": -0.77,
+              "y": 1.54
+            }
+          ]
+        },
+        "redtour_pupel1": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 3.47,
+              "y": 12.03,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -6.79,
+              "y": -6.14,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": -6.79,
+              "y": -6.14,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 3.47,
+              "y": 12.03,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 3.47,
+              "y": 12.03,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -2.69,
+              "y": 30.54,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -2.69,
+              "y": 30.54,
+              "curve": [
+                0.305,
+                0.23,
+                0.756,
+                1
+              ]
+            },
+            {
+              "time": 2.7667,
+              "x": 3.47,
+              "y": 12.03
+            }
+          ]
+        },
+        "redtour_pupel2": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 1.76,
+              "y": 16.34,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -6.81,
+              "y": -10.38,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": -6.81,
+              "y": -10.38,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 1.76,
+              "y": 16.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 1.76,
+              "y": 16.34,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -4.25,
+              "y": 38.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -4.25,
+              "y": 38.72,
+              "curve": [
+                0.305,
+                0.23,
+                0.756,
+                1
+              ]
+            },
+            {
+              "time": 2.7667,
+              "x": 1.76,
+              "y": 16.34
+            }
+          ]
+        },
+        "redtour_veko": {
+          "scale": [
+            {
+              "time": 0.8333,
+              "x": 1,
+              "y": 1,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 3.1333,
+              "x": 0.969,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.3333,
+              "x": 0.969,
+              "y": 1
+            },
+            {
+              "time": 3.4,
+              "x": 1.084,
+              "y": 1
+            },
+            {
+              "time": 3.4333,
+              "x": 0.969,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.6,
+              "x": 0.969,
+              "y": 1
+            },
+            {
+              "time": 4.2333,
+              "x": 1,
+              "y": 1
+            },
+            {
+              "time": 4.6,
+              "x": 0.969,
+              "y": 1
+            },
+            {
+              "time": 4.6667,
+              "x": 1.084,
+              "y": 1
+            },
+            {
+              "time": 4.7,
+              "x": 0.969,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 4.8333,
+              "x": 0.969,
+              "y": 1
+            },
+            {
+              "time": 4.9,
+              "x": 1.084,
+              "y": 1
+            },
+            {
+              "time": 4.9333,
+              "x": 0.969,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 5.3,
+              "x": 0.969,
+              "y": 1
+            },
+            {
+              "time": 5.3667,
+              "x": 1.084,
+              "y": 1
+            },
+            {
+              "time": 5.4,
+              "x": 0.969,
+              "y": 1
+            }
+          ]
+        },
+        "redtour_mouth3": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 9.57
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": 0.53,
+              "y": 0.91,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 0.53,
+              "y": 0.91,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": 0.58,
+              "y": 21.24,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": 0.58,
+              "y": 21.24
+            },
+            {
+              "time": 2.7667,
+              "x": 0.53,
+              "y": 0.91
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": -1
+            }
+          ]
+        },
+        "redtour_body": {
+          "scale": [
+            {
+              "time": 0,
+              "x": 1.015,
+              "y": 1.015,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 1.059,
+              "y": 1.007,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 1.059,
+              "y": 1.007,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 1.015,
+              "y": 1.015,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 1.015,
+              "y": 1.015
+            },
+            {
+              "time": 1.9333,
+              "x": 1.075,
+              "y": 0.995,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": 1.075,
+              "y": 0.995
+            },
+            {
+              "time": 2.7667,
+              "x": 1.015,
+              "y": 1.015,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "x": 1.015,
+              "y": 1.015,
+              "curve": [
+                0.25,
+                0,
+                0.398,
+                0.97
+              ]
+            },
+            {
+              "time": 3.7,
+              "x": 1.055,
+              "y": 0.975,
+              "curve": [
+                0.544,
+                0.03,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.2667,
+              "x": 1.015,
+              "y": 1.015,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.9,
+              "x": 1.038,
+              "y": 1.015
+            },
+            {
+              "time": 5.6,
+              "x": 1.015,
+              "y": 1.015
+            }
+          ],
+          "shear": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -1.97,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": -1.97,
+              "y": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 1.9333,
+              "x": 1.9,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": 1.9,
+              "y": 0
+            },
+            {
+              "time": 2.7667,
+              "x": 0,
+              "y": 0
+            }
+          ]
+        },
+        "redtour_eye1": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0.04,
+              "y": 17.1,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0,
+              "y": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 0.04,
+              "y": 17.1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 0.04,
+              "y": 17.1,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -0.76,
+              "y": 35.73,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -0.76,
+              "y": 35.73
+            },
+            {
+              "time": 2.7667,
+              "x": 0.04,
+              "y": 17.1
+            }
+          ]
+        },
+        "redtour_eye2": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 0.04,
+              "y": 20.63,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": -3.86,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0,
+              "y": -3.86,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": 0.04,
+              "y": 20.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": 0.04,
+              "y": 20.63,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -0.76,
+              "y": 39.26,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -0.76,
+              "y": 39.26
+            },
+            {
+              "time": 2.7667,
+              "x": 0.04,
+              "y": 20.63
+            }
+          ]
+        },
+        "redtour_brow1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "angle": 7.52,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "angle": 7.52,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "angle": 0
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": -9.81,
+              "y": 24.25,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -0.02,
+              "y": -6.86,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": -0.02,
+              "y": -6.86,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -9.81,
+              "y": 24.25,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": -9.81,
+              "y": 24.25,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -11.46,
+              "y": 41.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -11.46,
+              "y": 41.2
+            },
+            {
+              "time": 2.7667,
+              "x": -9.81,
+              "y": 24.25
+            }
+          ]
+        },
+        "redtour_brow2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "angle": -7.72,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "angle": -7.72,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "angle": 0
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": -9.79,
+              "y": 15.62,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -2.96,
+              "y": -6.85,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": -2.96,
+              "y": -6.85,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -9.79,
+              "y": 15.62,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": -9.79,
+              "y": 15.62,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -14.83,
+              "y": 33.42,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -14.83,
+              "y": 33.42
+            },
+            {
+              "time": 2.7667,
+              "x": -9.79,
+              "y": 15.62
+            }
+          ]
+        },
+        "redtour_hand2_2": {
+          "translate": [
+            {
+              "time": 0,
+              "x": -2.67,
+              "y": 8.63,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0,
+              "y": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -2.67,
+              "y": 8.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": -2.67,
+              "y": 8.63,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": 12.87,
+              "y": 17.32,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": 12.87,
+              "y": 17.32,
+              "curve": [
+                0.321,
+                0.29,
+                0.757,
+                1
+              ]
+            },
+            {
+              "time": 2.7667,
+              "x": -2.67,
+              "y": 8.63,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "x": -2.67,
+              "y": 8.63,
+              "curve": [
+                0.25,
+                0,
+                0.398,
+                0.97
+              ]
+            },
+            {
+              "time": 3.7,
+              "x": 13.41,
+              "y": 8.63,
+              "curve": [
+                0.544,
+                0.03,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.2333,
+              "x": -2.67,
+              "y": 8.63
+            }
+          ]
+        },
+        "redtour_body2": {
+          "translate": [
+            {
+              "time": 0,
+              "x": -1.86,
+              "y": 18.82,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0,
+              "y": 0,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -1.86,
+              "y": 18.82
+            }
+          ]
+        },
+        "redtour_light": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 2.41,
+              "y": 14.21
+            },
+            {
+              "time": 0.5,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "time": 1.2333,
+              "x": -1.14,
+              "y": 16.59,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5667,
+              "x": -1.14,
+              "y": 16.59
+            },
+            {
+              "time": 1.9333,
+              "x": -1.12,
+              "y": 28.68,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -1.12,
+              "y": 28.68
+            },
+            {
+              "time": 2.7667,
+              "x": -2.33,
+              "y": 15.65
+            }
+          ]
+        },
+        "bone2": {
+          "translate": [
+            {
+              "time": 0,
+              "x": 8.93,
+              "y": -55.18
+            }
+          ]
+        },
+        "redtour_arm1": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": -33.11,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "angle": -3.9,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "angle": -3.9,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "angle": -33.11,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "angle": -33.11
+            },
+            {
+              "time": 3.7,
+              "angle": -9.9
+            },
+            {
+              "time": 4.2333,
+              "angle": -33.11
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": -32.67,
+              "y": 5.24,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": 12.82,
+              "y": -3.2,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8333,
+              "x": 12.82,
+              "y": -3.2,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -32.67,
+              "y": 5.24,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": -32.67,
+              "y": 5.24,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": -25.79,
+              "y": -5,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": -25.79,
+              "y": -5,
+              "curve": [
+                0.321,
+                0.29,
+                0.757,
+                1
+              ]
+            },
+            {
+              "time": 2.7667,
+              "x": -32.67,
+              "y": 5.24,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "x": -32.67,
+              "y": 5.24,
+              "curve": [
+                0.25,
+                0,
+                0.398,
+                0.97
+              ]
+            },
+            {
+              "time": 3.7,
+              "x": 22.91,
+              "y": 21.86,
+              "curve": [
+                0.544,
+                0.03,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.2333,
+              "x": -32.67,
+              "y": 5.24
+            }
+          ]
+        },
+        "redtour_arm2": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 11.73,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "angle": 11.73,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "angle": -17.34,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "angle": -17.34
+            },
+            {
+              "time": 2.7667,
+              "angle": 11.73
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": -42.16,
+              "y": -8.49,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 0.5,
+              "x": -29.05,
+              "y": -4.43,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.8,
+              "x": -29.05,
+              "y": -4.43,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.2333,
+              "x": -42.16,
+              "y": -8.49,
+              "curve": "stepped"
+            },
+            {
+              "time": 1.5333,
+              "x": -42.16,
+              "y": -8.49,
+              "curve": [
+                0.25,
+                0,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 1.9333,
+              "x": 29.46,
+              "y": 8.96,
+              "curve": "stepped"
+            },
+            {
+              "time": 2.3,
+              "x": 29.46,
+              "y": 8.96,
+              "curve": [
+                0.321,
+                0.29,
+                0.757,
+                1
+              ]
+            },
+            {
+              "time": 2.7667,
+              "x": -42.16,
+              "y": -8.49,
+              "curve": "stepped"
+            },
+            {
+              "time": 3.1333,
+              "x": -42.16,
+              "y": -8.49,
+              "curve": [
+                0.25,
+                0,
+                0.398,
+                0.97
+              ]
+            },
+            {
+              "time": 3.7,
+              "x": 16.98,
+              "y": -23.26,
+              "curve": [
+                0.544,
+                0.03,
+                0.75,
+                1
+              ]
+            },
+            {
+              "time": 4.2333,
+              "x": -42.16,
+              "y": -8.49
+            }
+          ]
+        }
+      },
+      "deform": {
+        "default": {
+          "redtour_body": {
+            "redtour_body": [
+              {
+                "time": 0,
+                "offset": 2,
+                "vertices": [
+                  -4.79047,
+                  10.62176,
+                  0.04854,
+                  19.29031,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.04854,
+                  19.29031,
+                  0.02669,
+                  10.60966
+                ],
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.2333,
+                "offset": 2,
+                "vertices": [
+                  -4.79047,
+                  10.62176,
+                  0.04854,
+                  19.29031,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.04854,
+                  19.29031,
+                  0.02669,
+                  10.60966
+                ],
+                "curve": "stepped"
+              },
+              {
+                "time": 1.5333,
+                "offset": 2,
+                "vertices": [
+                  -4.79047,
+                  10.62176,
+                  0.04854,
+                  19.29031,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.04854,
+                  19.29031,
+                  0.02669,
+                  10.60966
+                ],
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1.9333,
+                "offset": 2,
+                "vertices": [
+                  -6.42494,
+                  34.34031,
+                  0.94435,
+                  38.76768,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.76659,
+                  31.99654,
+                  0.0649,
+                  25.85459,
+                  -0.80872,
+                  15.24702
+                ],
+                "curve": "stepped"
+              },
+              {
+                "time": 2.3,
+                "offset": 2,
+                "vertices": [
+                  -6.42494,
+                  34.34031,
+                  0.94435,
+                  38.76768,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.76659,
+                  31.99654,
+                  0.0649,
+                  25.85459,
+                  -0.80872,
+                  15.24702
+                ]
+              },
+              {
+                "time": 2.7667,
+                "offset": 2,
+                "vertices": [
+                  -4.79047,
+                  10.62176,
+                  0.04854,
+                  19.29031,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.04854,
+                  19.29031,
+                  0.02669,
+                  10.60966
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

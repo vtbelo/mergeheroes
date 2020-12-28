@@ -1,0 +1,160 @@
+
+piggybank_window-78fc2c53ff.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_coins_l_1
+  rotate: false
+  xy: 420, 1
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+back_coins_r_1
+  rotate: false
+  xy: 260, 76
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+back_shadow
+  rotate: false
+  xy: 260, 1
+  size: 158, 73
+  orig: 158, 73
+  offset: 0, 0
+  index: -1
+help_s_arrow
+  rotate: false
+  xy: 387, 139
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+help_s_c1
+  rotate: false
+  xy: 260, 336
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+help_s_lvl
+  rotate: false
+  xy: 248, 194
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+help_s_plus
+  rotate: false
+  xy: 360, 280
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+help_s_star
+  rotate: false
+  xy: 321, 336
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+safe_body
+  rotate: false
+  xy: 1, 1
+  size: 245, 286
+  orig: 245, 286
+  offset: 0, 0
+  index: -1
+safe_coin
+  rotate: false
+  xy: 431, 300
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+safe_door2
+  rotate: false
+  xy: 59, 289
+  size: 199, 198
+  orig: 199, 198
+  offset: 0, 0
+  index: -1
+safe_goldduck
+  rotate: false
+  xy: 387, 214
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+safe_green
+  rotate: false
+  xy: 467, 258
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+safe_hinges1_0
+  rotate: false
+  xy: 1, 289
+  size: 26, 215
+  orig: 26, 215
+  offset: 0, 0
+  index: -1
+safe_hinges1_1
+  rotate: false
+  xy: 29, 289
+  size: 28, 210
+  orig: 28, 210
+  offset: 0, 0
+  index: -1
+safe_light
+  rotate: false
+  xy: 360, 355
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+safe_lock_handle1
+  rotate: false
+  xy: 387, 76
+  size: 25, 61
+  orig: 25, 61
+  offset: 0, 0
+  index: -1
+safe_lock_handle2
+  rotate: false
+  xy: 260, 287
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+safe_lock_handle3
+  rotate: false
+  xy: 420, 70
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+safe_lock_up
+  rotate: false
+  xy: 467, 214
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+safe_red
+  rotate: false
+  xy: 417, 372
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+safe_shine
+  rotate: false
+  xy: 360, 194
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1

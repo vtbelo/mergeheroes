@@ -1,0 +1,279 @@
+
+shop_user_gold_view-bc7605d801.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shop_user_gold_view-gold_view-speak_bg
+  rotate: false
+  xy: 246, 1
+  size: 177, 105
+  orig: 177, 105
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-menubar-exp
+  rotate: false
+  xy: 133, 402
+  size: 69, 108
+  orig: 69, 108
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-cell
+  rotate: false
+  xy: 246, 218
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-cell_small
+  rotate: false
+  xy: 468, 621
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-color
+  rotate: false
+  xy: 378, 249
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-color_small
+  rotate: false
+  xy: 1, 727
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-exp
+  rotate: false
+  xy: 1, 265
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-gold
+  rotate: false
+  xy: 1, 397
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-gold_small
+  rotate: false
+  xy: 43, 738
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-heroes
+  rotate: false
+  xy: 209, 350
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-heroes_small
+  rotate: false
+  xy: 1, 769
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-life_unlim
+  rotate: false
+  xy: 341, 381
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-life_unlim_small
+  rotate: false
+  xy: 85, 738
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-line
+  rotate: false
+  xy: 204, 482
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-line_small
+  rotate: false
+  xy: 336, 645
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-moves
+  rotate: false
+  xy: 1, 529
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-moves_small
+  rotate: false
+  xy: 378, 645
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-multicolor
+  rotate: false
+  xy: 336, 513
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-multicolor_small
+  rotate: false
+  xy: 68, 682
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+shop_user_gold_view-reward_icons-stars
+  rotate: false
+  xy: 204, 614
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+white_body_hi
+  rotate: false
+  xy: 1, 1
+  size: 243, 262
+  orig: 243, 262
+  offset: 0, 0
+  index: -1
+white_eye1_hi
+  rotate: false
+  xy: 1, 661
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+white_eye2_hi
+  rotate: false
+  xy: 133, 512
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+white_eyebrow1_hi
+  rotate: false
+  xy: 425, 95
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+white_eyebrow2_hi
+  rotate: false
+  xy: 425, 130
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+white_hand1_hi
+  rotate: false
+  xy: 468, 513
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+white_hand1_money
+  rotate: false
+  xy: 468, 567
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+white_hand2_hi
+  rotate: false
+  xy: 425, 1
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+white_hand3_hi
+  rotate: false
+  xy: 133, 323
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+white_hand3_money
+  rotate: false
+  xy: 473, 169
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+white_hand_open
+  rotate: false
+  xy: 133, 265
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+white_handwithpaper_money
+  rotate: false
+  xy: 246, 108
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+white_handwithpencil
+  rotate: false
+  xy: 392, 169
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+white_lose_heart1
+  rotate: false
+  xy: 127, 680
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+white_lose_heart2
+  rotate: false
+  xy: 133, 618
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+white_mouth1_hi
+  rotate: false
+  xy: 133, 582
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+white_mouth2_hi
+  rotate: false
+  xy: 68, 661
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+white_pupil1_hi
+  rotate: false
+  xy: 473, 195
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+white_pupil2_hi
+  rotate: false
+  xy: 392, 108
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1

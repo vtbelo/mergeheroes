@@ -1,0 +1,446 @@
+{
+"skeleton": { "hash": "m1bv54ORh7ezN2h225DWya0BIew", "spine": "3.7.94", "width": 31.72, "height": 42.54, "images": "C:/Users/Наиль/Documents/GitHub/match3/res/skins/heroes/high/game_spines/firework/images", "audio": "C:\\Users\\Наиль\\Documents\\GitHub\\match3\\res\\skins\\heroes\\high\\game_spines\\firework" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "y_r2_firework", "parent": "root", "length": 39.27, "rotation": 114.9, "x": -6.59, "y": 5.76 },
+	{ "name": "rocket_fire_gun", "parent": "y_r2_firework", "length": 10.33, "rotation": -179.34, "x": -3.6, "y": 0.23 },
+	{ "name": "y_r1_firework", "parent": "root", "length": 47, "rotation": 64.13, "x": 4.7, "y": -4.41 },
+	{ "name": "rocket_fire_gun2", "parent": "y_r1_firework", "length": 10.33, "rotation": 177.3, "x": -6.21, "y": 1.18 },
+	{ "name": "y_1_firework", "parent": "root", "length": 43.74, "rotation": 91.46, "x": -0.07, "y": -44.32 }
+],
+"slots": [
+	{ "name": "y_2_firework", "bone": "y_1_firework", "attachment": "base_down" },
+	{ "name": "rocket_fire_gun", "bone": "rocket_fire_gun", "attachment": "rocket_fire_gun" },
+	{ "name": "rocket_fire_gun2", "bone": "rocket_fire_gun2", "attachment": "rocket_fire_gun" },
+	{ "name": "y_r2_firework", "bone": "y_r2_firework", "attachment": "r2" },
+	{ "name": "y_r1_firework", "bone": "y_r1_firework", "attachment": "r1" },
+	{ "name": "y_1_firework", "bone": "y_1_firework", "attachment": "base_up" }
+],
+"skins": {
+	"default": {
+		"rocket_fire_gun": {
+			"rocket_fire_gun": { "x": 7.93, "y": 0.23, "scaleX": 0.328, "rotation": 88.58, "width": 67, "height": 22 }
+		},
+		"rocket_fire_gun2": {
+			"rocket_fire_gun": { "x": 9.83, "y": -0.51, "scaleX": 0.314, "rotation": 88.39, "width": 67, "height": 22 }
+		}
+	},
+	"bombcup_blue": {
+		"y_1_firework": {
+			"base_up": { "name": "b_1_firework", "x": 32.79, "y": -1.89, "rotation": -91.46, "width": 90, "height": 85 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "b_2_firework", "x": 31.79, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "b_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "b_r2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	},
+	"bombcup_green": {
+		"y_1_firework": {
+			"base_up": { "name": "g_1_firework", "x": 32.78, "y": -1.89, "rotation": -91.46, "width": 90, "height": 85 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "g_2_firework", "x": 31.8, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "g_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "g_r2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	},
+	"bombcup_purple": {
+		"y_1_firework": {
+			"base_up": { "name": "p_1_firework", "x": 32.79, "y": -1.89, "rotation": -91.46, "width": 90, "height": 85 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "p_2_firework", "x": 31.8, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "p_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "p_r2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	},
+	"bombcup_red": {
+		"y_1_firework": {
+			"base_up": { "name": "r_1_firework", "x": 33.29, "y": -1.9, "rotation": -91.46, "width": 90, "height": 84 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "r_2_firework", "x": 31.8, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "r_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "r_rt2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	},
+	"bombcup_white": {
+		"y_1_firework": {
+			"base_up": { "name": "w_1_firework", "x": 33.78, "y": -1.92, "rotation": -91.46, "width": 90, "height": 83 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "w_2_firework", "x": 31.8, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "w_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "w_r2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	},
+	"bombcup_yellow": {
+		"y_1_firework": {
+			"base_up": { "name": "y_1_firework", "x": 32.79, "y": -1.89, "rotation": -91.46, "width": 90, "height": 85 }
+		},
+		"y_2_firework": {
+			"base_down": { "name": "y_2_firework", "x": 31.79, "y": -1.37, "rotation": -91.46, "width": 99, "height": 97 }
+		},
+		"y_r1_firework": {
+			"r1": { "name": "y_r1_firework", "x": 22.19, "y": -0.12, "rotation": -64.13, "width": 47, "height": 67 }
+		},
+		"y_r2_firework": {
+			"r2": { "name": "y_r2_firework", "x": 24.59, "y": -1.03, "rotation": -114.9, "width": 44, "height": 63 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"rocket_fire_gun": {
+				"attachment": [
+					{ "time": 0, "name": "rocket_fire_gun" },
+					{ "time": 0.4333, "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"rocket_fire_gun2": {
+				"attachment": [
+					{ "time": 0.8, "name": null },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"y_1_firework": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				]
+			},
+			"y_2_firework": {
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.0333, "color": "ffffff00" }
+				]
+			},
+			"y_r1_firework": {
+				"attachment": [
+					{ "time": 0, "name": "r1" },
+					{ "time": 0.7667, "name": null },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"y_r2_firework": {
+				"attachment": [
+					{ "time": 0, "name": "r2" },
+					{ "time": 0.3667, "name": null },
+					{ "time": 0.5, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"rocket_fire_gun": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 4.626, "y": 1 }
+				]
+			},
+			"rocket_fire_gun2": {
+				"scale": [
+					{ "time": 0.6667, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 3.537, "y": 1 }
+				]
+			},
+			"y_1_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.984,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 0.855,
+						"y": 1.136,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"x": 0.984,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 0.997,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0.984,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"x": 0.904,
+						"y": 1.136,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8,
+						"x": 0.984,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0.004, "y": 1.329 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"y_r1_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6, "angle": 0 },
+					{ "time": 0.7333, "angle": 24.68 },
+					{ "time": 0.9, "angle": 27.2 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0, "y": -2.89 },
+					{ "time": 0.4, "x": 0, "y": -8.05 },
+					{ "time": 0.4667, "x": 0, "y": 0.47 },
+					{ "time": 0.6, "x": 0, "y": 1.05 },
+					{ "time": 0.7333, "x": -5.52, "y": -8.94 },
+					{ "time": 0.9, "x": -5.52, "y": 60.49 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6, "x": 1, "y": 1 },
+					{ "time": 0.7333, "x": 0.974, "y": 1.3 },
+					{ "time": 0.8, "x": 1.207, "y": 1.18 },
+					{ "time": 0.9, "x": 1.598, "y": 1.476 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"y_r2_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"angle": -26.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.4333, "angle": -24.25 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 0.73, "y": -4.88, "curve": "stepped" },
+					{ "time": 0.4333, "x": 0.73, "y": -4.88 },
+					{ "time": 0.5, "x": 5.12, "y": 48.56 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2, "x": 0.963, "y": 1.15, "curve": "stepped" },
+					{ "time": 0.3333, "x": 0.963, "y": 1.15 },
+					{ "time": 0.5, "x": 1.595, "y": 1.315 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"smile": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"y_1_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.944,
+						"y": 1.005,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.069,
+						"y": 0.945,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6667,
+						"x": 0.964,
+						"y": 1.029,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"y_r2_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{
+						"time": 0.3333,
+						"angle": 1.02,
+						"curve": [ 0.076, 0.1, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"angle": -7.69,
+						"curve": [ 0.25, 0, 0.855, 0.81 ]
+					},
+					{ "time": 0.6667, "angle": -4.06 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{
+						"time": 0.3333,
+						"x": 1.46,
+						"y": -4.15,
+						"curve": [ 0.076, 0.1, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": -1.95,
+						"y": 9.03,
+						"curve": [ 0.25, 0, 0.855, 0.81 ]
+					},
+					{ "time": 0.6667, "x": 0.98, "y": -4.64 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"y_r1_firework": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{
+						"time": 0.3333,
+						"angle": -3.51,
+						"curve": [ 0.076, 0.1, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"angle": -0.9,
+						"curve": [ 0.25, 0, 0.855, 0.81 ]
+					},
+					{ "time": 0.6667, "angle": 3.44 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{
+						"time": 0.3333,
+						"x": -0.98,
+						"y": -4.15,
+						"curve": [ 0.076, 0.1, 0.75, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 0,
+						"y": 9.03,
+						"curve": [ 0.25, 0, 0.855, 0.81 ]
+					},
+					{ "time": 0.6667, "x": 0.98, "y": -5.12 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

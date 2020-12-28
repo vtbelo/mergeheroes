@@ -1,0 +1,310 @@
+{
+"skeleton": { "hash": "WwziiI6T1j44WXDJru0NnGbgHhg", "spine": "3.7.91", "width": 168.36, "height": 179.64, "images": "D:/Work/icon/heroes icons/indiana/images", "audio": "C:\\Work\\Heroes\\Interface\\icons\\spine" },
+"bones": [
+	{ "name": "root", "rotation": -0.07 },
+	{
+		"name": "indiana_body",
+		"parent": "root",
+		"length": 103.31,
+		"rotation": 90.21,
+		"x": 0.15,
+		"y": -59.11,
+		"scaleX": 1.153,
+		"scaleY": 1.153
+	},
+	{ "name": "indiana_cap", "parent": "indiana_body", "length": 49.98, "rotation": -83.05, "x": 52.43, "y": 0.13 },
+	{ "name": "indiana_hand2_2", "parent": "indiana_body", "length": 14.49, "rotation": -154.94, "x": 15.6, "y": -31.14 },
+	{ "name": "indiana_hand2_1", "parent": "indiana_hand2_2", "length": 13.89, "rotation": -23.08, "x": 11.83, "y": 0.4 },
+	{ "name": "indiana_crown", "parent": "indiana_hand2_1", "length": 10.62, "rotation": -9.07, "x": 13.09, "y": -0.74 },
+	{ "name": "indiana_mouth", "parent": "indiana_body", "length": 10.82, "rotation": -86.06, "x": 23.9, "y": 0.2 },
+	{ "name": "indiana_pupel", "parent": "indiana_body", "x": 40.04, "y": -19.37 },
+	{ "name": "indiana_eyelid1pupel2", "parent": "indiana_body", "x": 40.14, "y": 20.72 },
+	{ "name": "indiana__hand1_2", "parent": "indiana_body", "length": 12.54, "rotation": -134.31, "x": 14.47, "y": 31.83 },
+	{ "name": "indiana_hand_1_1", "parent": "indiana__hand1_2", "length": 10.54, "rotation": 44.17, "x": 12.01, "y": 0.92 },
+	{ "name": "indiana_map", "parent": "indiana_hand_1_1", "length": 9.48, "rotation": -12.53, "x": 11.05, "y": 0.51 },
+	{ "name": "indiana_eyelid1", "parent": "indiana_body", "x": 29.39, "y": -19.7 },
+	{ "name": "indiana_eyelid3", "parent": "indiana_body", "x": 31.33, "y": 21.3 },
+	{ "name": "indiana_eyelid4", "parent": "indiana_body", "x": 51.32, "y": 20.63 },
+	{ "name": "indiana_blik1", "parent": "indiana_body", "x": 44.06, "y": -28.31 },
+	{ "name": "indiana_blik2", "parent": "indiana_body", "x": 43.35, "y": 15.76 },
+	{ "name": "indiana_shadow", "parent": "indiana_body", "x": 45.76, "y": -0.36 },
+	{ "name": "indiana_eyelid2", "parent": "indiana_body", "x": 50.67, "y": -19.48 }
+],
+"slots": [
+	{ "name": "indiana_body", "bone": "indiana_body", "attachment": "indiana_body" },
+	{ "name": "indiana_eyelid1pupel2", "bone": "indiana_eyelid1pupel2", "attachment": "indiana_eyelid1pupel2" },
+	{ "name": "indiana_blik2", "bone": "indiana_blik2", "attachment": "indiana_blik2" },
+	{ "name": "indiana_eyelid4", "bone": "indiana_eyelid4", "attachment": "indiana_eyelid4" },
+	{ "name": "indiana_eyelid3", "bone": "indiana_eyelid3", "attachment": "indiana_eyelid3" },
+	{ "name": "indiana_pupel", "bone": "indiana_pupel", "attachment": "indiana_pupel" },
+	{ "name": "indiana_blik1", "bone": "indiana_blik1", "attachment": "indiana_blik1" },
+	{ "name": "indiana_eyelid2", "bone": "indiana_eyelid2", "attachment": "indiana_eyelid2" },
+	{ "name": "indiana_eyelid1", "bone": "indiana_eyelid1", "attachment": "indiana_eyelid1" },
+	{ "name": "indiana__hand1_2", "bone": "indiana__hand1_2", "attachment": "indiana__hand1_2" },
+	{ "name": "indiana_hand_1_1", "bone": "indiana_hand_1_1", "attachment": "indiana_hand_1_1" },
+	{ "name": "indiana_map", "bone": "indiana_map", "attachment": "indiana_map" },
+	{ "name": "indiana_shadow", "bone": "indiana_shadow", "attachment": "indiana_shadow" },
+	{ "name": "indiana_cap", "bone": "indiana_cap", "attachment": "indiana_cap" },
+	{ "name": "indiana_hand2_2", "bone": "indiana_hand2_2", "attachment": "indiana_hand2_2" },
+	{ "name": "indiana_hand2_1", "bone": "indiana_hand2_1", "attachment": "indiana_hand2_1" },
+	{ "name": "indiana_crown", "bone": "indiana_crown", "attachment": "indiana_crown" },
+	{ "name": "indiana_mouth", "bone": "indiana_mouth", "attachment": "indiana_mouth" }
+],
+"skins": {
+	"default": {
+		"indiana__hand1_2": {
+			"indiana__hand1_2": { "x": 5.28, "y": 0.17, "rotation": 44.17, "width": 15, "height": 15 }
+		},
+		"indiana_blik1": {
+			"indiana_blik1": { "x": -0.29, "y": 0.67, "rotation": -90.14, "width": 10, "height": 9 }
+		},
+		"indiana_blik2": {
+			"indiana_blik2": { "x": 0.52, "y": -0.4, "rotation": -90.14, "width": 10, "height": 9 }
+		},
+		"indiana_body": {
+			"indiana_body": { "x": 63.13, "y": 0.34, "rotation": -90.14, "width": 146, "height": 130 }
+		},
+		"indiana_cap": {
+			"indiana_cap": { "x": 0.27, "y": 3.9, "rotation": -7.09, "width": 146, "height": 30 }
+		},
+		"indiana_crown": {
+			"indiana_crown": { "x": 8.47, "y": -1.69, "rotation": 96.95, "width": 18, "height": 23 }
+		},
+		"indiana_eyelid1": {
+			"indiana_eyelid1": { "x": 0.9, "y": 2.59, "rotation": -90.14, "width": 45, "height": 24 }
+		},
+		"indiana_eyelid1pupel2": {
+			"indiana_eyelid1pupel2": { "x": 1.24, "y": 0.15, "rotation": -90.14, "width": 19, "height": 20 }
+		},
+		"indiana_eyelid2": {
+			"indiana_eyelid2": { "x": 0.62, "y": 0.32, "rotation": -90.14, "width": 41, "height": 16 }
+		},
+		"indiana_eyelid3": {
+			"indiana_eyelid3": { "x": -0.95, "y": -2.9, "rotation": -90.14, "width": 48, "height": 32 }
+		},
+		"indiana_eyelid4": {
+			"indiana_eyelid4": { "x": -0.94, "y": -2.29, "rotation": -90.14, "width": 42, "height": 20 }
+		},
+		"indiana_hand2_1": {
+			"indiana_hand2_1": { "x": 6.29, "y": -0.69, "rotation": 87.88, "width": 9, "height": 19 }
+		},
+		"indiana_hand2_2": {
+			"indiana_hand2_2": { "x": 6.33, "y": -0.28, "rotation": 64.8, "width": 12, "height": 17 }
+		},
+		"indiana_hand_1_1": {
+			"indiana_hand_1_1": { "x": 4.65, "y": 0.65, "width": 19, "height": 8 }
+		},
+		"indiana_map": {
+			"indiana_map": { "x": 12.27, "y": -1.74, "rotation": 12.53, "width": 29, "height": 21 }
+		},
+		"indiana_mouth": {
+			"indiana_mouth": { "x": -0.64, "y": 0.98, "rotation": -4.09, "width": 25, "height": 5 }
+		},
+		"indiana_pupel": {
+			"indiana_pupel": { "x": 0.74, "y": 0.74, "rotation": -90.14, "width": 20, "height": 19 }
+		},
+		"indiana_shadow": {
+			"indiana_shadow": { "x": 1.58, "y": 1.21, "rotation": -90.14, "width": 91, "height": 26 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"indiana__hand1_2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 7.09,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "angle": -90.17, "curve": "stepped" },
+					{ "time": 0.9667, "angle": -90.17 },
+					{ "time": 1.2, "angle": 32.51, "curve": "stepped" },
+					{ "time": 2.1667, "angle": 32.51 },
+					{ "time": 2.3333, "angle": 7.09 }
+				]
+			},
+			"indiana_hand_1_1": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 7.09,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "angle": 67.76, "curve": "stepped" },
+					{ "time": 0.9667, "angle": 67.76 },
+					{ "time": 1.2, "angle": 19.6, "curve": "stepped" },
+					{ "time": 2.1667, "angle": 19.6 },
+					{ "time": 2.3333, "angle": 7.09 }
+				]
+			},
+			"indiana_map": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 7.09,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "angle": 1.35, "curve": "stepped" },
+					{ "time": 0.9667, "angle": 1.35 },
+					{ "time": 1.2, "angle": -27.08, "curve": "stepped" },
+					{ "time": 2.1667, "angle": -27.08 },
+					{ "time": 2.3333, "angle": 7.09 }
+				]
+			},
+			"indiana_hand2_2": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"angle": 66.26,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.6333,
+						"angle": 45.26,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "angle": 52.72 },
+					{ "time": 1.3, "angle": -14.16, "curve": "stepped" },
+					{
+						"time": 2.1333,
+						"angle": -14.16,
+						"curve": [ 0.338, 0, 0.608, 0.99 ]
+					},
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 1.91, "y": -0.82 },
+					{ "time": 1.3, "x": 0, "y": 0 }
+				]
+			},
+			"indiana_hand2_1": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "angle": 92.85 },
+					{ "time": 1, "angle": 113.56 },
+					{ "time": 1.1667, "angle": -125.7 },
+					{ "time": 1.3, "angle": -38.59, "curve": "stepped" },
+					{
+						"time": 2.1333,
+						"angle": -38.59,
+						"curve": [ 0.262, 0, 0.614, 1 ]
+					},
+					{ "time": 2.3333, "angle": 0 }
+				]
+			},
+			"indiana_crown": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "angle": 66.26 },
+					{ "time": 0.6667, "angle": 35.95 },
+					{ "time": 1, "angle": 62.99 },
+					{ "time": 1.3, "angle": -30.66, "curve": "stepped" },
+					{
+						"time": 2.1333,
+						"angle": -30.66,
+						"curve": [ 0.262, 0, 0.618, 0.44 ]
+					},
+					{ "time": 2.3333, "angle": 0 }
+				]
+			},
+			"indiana_pupel": {
+				"translate": [
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": -0.02, "y": -7.92, "curve": "stepped" },
+					{ "time": 0.9, "x": -0.02, "y": -7.92 },
+					{ "time": 0.9333, "x": 1.27, "y": -9.34 },
+					{ "time": 1.1333, "x": -2.86, "y": -8.49 },
+					{ "time": 1.1667, "x": -3.09, "y": 4.11 },
+					{ "time": 1.5, "x": -3.63, "y": 3.35 },
+					{ "time": 1.8667, "x": -3.27, "y": 4.97 },
+					{ "time": 2.2, "x": -3.82, "y": 3.96 },
+					{ "time": 2.3333, "x": 0, "y": 0 }
+				]
+			},
+			"indiana_eyelid1pupel2": {
+				"translate": [
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.1667, "x": 0.53, "y": -7.37, "curve": "stepped" },
+					{ "time": 0.9, "x": 0.53, "y": -7.37 },
+					{ "time": 0.9333, "x": 0.52, "y": -8.99 },
+					{ "time": 1.1333, "x": -2.64, "y": -8.6 },
+					{ "time": 1.1667, "x": -4.17, "y": -2.96 },
+					{ "time": 1.5, "x": -4.64, "y": -5.05 },
+					{ "time": 1.8667, "x": -4.42, "y": -3.74 },
+					{ "time": 2.2, "x": -4.66, "y": -5.63 },
+					{ "time": 2.3333, "x": 0, "y": 0 }
+				]
+			},
+			"indiana_body": {
+				"shear": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3667, "x": -1.91, "y": 0, "curve": "stepped" },
+					{
+						"time": 1.0667,
+						"x": -1.91,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.3, "x": 0, "y": 0 }
+				]
+			},
+			"indiana_mouth": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2333, "angle": 4.56, "curve": "stepped" },
+					{ "time": 1.1333, "angle": 4.56 },
+					{ "time": 2.3333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2333, "x": 0.6, "y": -1.94, "curve": "stepped" },
+					{ "time": 1.1333, "x": 0.6, "y": -1.94 },
+					{ "time": 1.2, "x": 4.97, "y": -0.43, "curve": "stepped" },
+					{ "time": 2.2, "x": 4.97, "y": -0.43 },
+					{ "time": 2.3333, "x": 0, "y": 0 }
+				]
+			},
+			"indiana_eyelid1": {
+				"translate": [
+					{ "time": 0.1333, "x": 0, "y": 0 },
+					{ "time": 0.2, "x": 2.11, "y": -2.02, "curve": "stepped" },
+					{ "time": 1.1333, "x": 2.11, "y": -2.02 },
+					{ "time": 1.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.1333, "x": 1, "y": 1 },
+					{ "time": 0.2, "x": 1.393, "y": 1.156, "curve": "stepped" },
+					{ "time": 1.1333, "x": 1.393, "y": 1.156 },
+					{ "time": 1.2, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

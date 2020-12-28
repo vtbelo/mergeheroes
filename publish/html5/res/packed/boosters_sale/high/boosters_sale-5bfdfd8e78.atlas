@@ -1,0 +1,55 @@
+
+boosters_sale-5bfdfd8e78.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boosters_sale-streak_bar
+  rotate: false
+  xy: 108, 1
+  size: 399, 20
+  orig: 399, 20
+  offset: 0, 0
+  index: -1
+boosters_sale-streak_bar_bg
+  rotate: false
+  xy: 108, 23
+  size: 399, 20
+  orig: 399, 20
+  offset: 0, 0
+  index: -1
+boosters_sale-streak_bar_line
+  rotate: false
+  xy: 198, 45
+  size: 243, 20
+  orig: 243, 20
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_best_seller
+  rotate: false
+  xy: 76, 45
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_bg_white
+  rotate: false
+  xy: 198, 67
+  size: 120, 107
+  orig: 120, 107
+  offset: 0, 0
+  index: -1
+boosters_sale-tile_shop-shop_inner_bg
+  rotate: false
+  xy: 1, 163
+  size: 105, 78
+  orig: 105, 78
+  offset: 0, 0
+  index: -1
+window_balloon
+  rotate: false
+  xy: 1, 1
+  size: 73, 160
+  orig: 73, 160
+  offset: 0, 0
+  index: -1

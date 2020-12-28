@@ -1,0 +1,1128 @@
+{
+"skeleton": { "hash": "6o+VZEpKZLXWVC0gJ2B2pBlavEM", "spine": "3.5.35", "width": 198, "height": 198 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "body_fridge", "parent": "root", "length": 34.7, "rotation": 89.12, "x": -0.57, "y": -42.24 },
+	{ "name": "cap1_fridge", "parent": "body_fridge", "length": 40.89, "rotation": 117.41, "x": 58.75, "y": -17.46 },
+	{ "name": "cap2_fridge", "parent": "body_fridge", "length": 47.81, "rotation": -15.46, "x": 59.52, "y": -11.9 },
+	{ "name": "key1_1_fridge", "parent": "body_fridge", "length": 12.7, "rotation": -10.89, "x": 52.92, "y": 43.11 },
+	{ "name": "key1_fridge", "parent": "body_fridge", "length": 10.13, "rotation": 162.57, "x": 52.7, "y": 42.89 },
+	{ "name": "key2_1_fridge", "parent": "body_fridge", "length": 12.75, "rotation": -8.48, "x": 46.8, "y": 27.4 },
+	{ "name": "key2_fridge", "parent": "body_fridge", "length": 9.99, "rotation": 163.65, "x": 46.66, "y": 26.81 },
+	{ "name": "key3_1_fridge", "parent": "body_fridge", "length": 12.71, "rotation": -9.52, "x": 41.12, "y": 11.7 },
+	{ "name": "key3_fridge", "parent": "body_fridge", "length": 10.13, "rotation": 161.25, "x": 40.91, "y": 10.59 },
+	{ "name": "up1_fridge", "parent": "body_fridge", "length": 35.75, "rotation": 1.16, "x": 31.45, "y": -42.18 },
+	{ "name": "up2_fridge", "parent": "body_fridge", "length": 28.48, "rotation": -67.95, "x": 31.29, "y": -42.84 }
+],
+"slots": [
+	{ "name": "up2_1_fridge", "bone": "up2_fridge", "attachment": "up2_1_fridge" },
+	{ "name": "up1_1_fridge", "bone": "up1_fridge", "attachment": "up1_1_fridge" },
+	{ "name": "body_fridge", "bone": "body_fridge", "attachment": "body_fridge" },
+	{ "name": "cap1_fridge", "bone": "cap1_fridge", "attachment": "cap1_fridge" },
+	{ "name": "up2_fridge", "bone": "up2_fridge", "attachment": "up2_fridge" },
+	{ "name": "cap2_fridge", "bone": "cap2_fridge", "attachment": "cap2_fridge" },
+	{ "name": "up1_fridge", "bone": "up1_fridge", "attachment": "up1_fridge" },
+	{ "name": "key1_fridge", "bone": "key1_fridge", "attachment": "key1_fridge" },
+	{ "name": "key2_fridge", "bone": "key2_fridge", "attachment": "key1_fridge" },
+	{ "name": "key3_fridge", "bone": "key3_fridge", "attachment": "key1_fridge" },
+	{ "name": "key1_1_fridge", "bone": "key1_1_fridge", "attachment": "key1_1_fridge" },
+	{ "name": "key2_1_fridge", "bone": "key2_1_fridge", "attachment": "key1_1_fridge" },
+	{ "name": "key3_1_fridge", "bone": "key3_1_fridge", "attachment": "key1_1_fridge" }
+],
+"skins": {
+	"default": {
+		"body_fridge": {
+			"body_fridge": { "x": 25.78, "y": -1.16, "rotation": -89.12, "width": 118, "height": 87 }
+		},
+		"cap1_fridge": {
+			"cap1_fridge": {
+				"type": "mesh",
+				"uvs": [ 1, 0.33064, 1, 0.75657, 0.64394, 1, 0.51825, 1, 0, 0.68816, 0, 0.23575, 0.34758, 0, 0.50672, 0, 0.5909, 0.64623 ],
+				"triangles": [ 8, 7, 0, 8, 4, 5, 6, 7, 8, 8, 5, 6, 8, 0, 1, 3, 4, 8, 2, 3, 8, 1, 2, 8 ],
+				"vertices": [ -38.02, 9.36, -26.99, 31.47, 14.68, 26.44, 27.16, 20.21, 70.55, -21.67, 58.83, -45.14, 18.2, -40.14, 2.4, -32.25, 10.78, 5.46 ],
+				"hull": 8
+			}
+		},
+		"cap2_fridge": {
+			"cap2_fridge": {
+				"type": "mesh",
+				"uvs": [ 1, 0.2231, 1, 0.94401, 0.9093, 1, 0.79236, 1, 0, 0.76305, 0, 0.07303, 0.15868, 0, 0.30091, 0, 0.83345, 0.35257, 0.04333, 0.12305, 0.40836, 0.23045, 0.84293, 0.69684, 0.84925, 0.95431 ],
+				"triangles": [ 9, 5, 6, 10, 7, 0, 8, 10, 0, 11, 8, 0, 4, 5, 9, 11, 0, 1, 12, 11, 1, 10, 11, 4, 11, 10, 8, 3, 11, 12, 6, 7, 10, 9, 6, 10, 4, 9, 10, 3, 4, 11, 2, 12, 1, 3, 12, 2 ],
+				"vertices": [ 67.1, -28.01, 6.92, -45.65, 0.18, -39.97, -2.49, -30.88, -0.76, 36.51, 56.85, 53.39, 66.56, 42.85, 69.8, 31.79, 52.5, -18.23, 53.66, 48.8, 53.01, 17.8, 23.97, -27.39, 2.62, -34.18 ],
+				"hull": 8
+			}
+		},
+		"key1_1_fridge": {
+			"key1_1_fridge": { "x": 7.41, "y": -0.35, "rotation": -78.23, "width": 18, "height": 25 }
+		},
+		"key1_fridge": {
+			"key1_fridge": { "x": 7.8, "y": 2.19, "rotation": 108.3, "width": 18, "height": 26 }
+		},
+		"key2_1_fridge": {
+			"key1_1_fridge": { "x": 7.81, "y": -0.98, "rotation": -80.65, "width": 18, "height": 25 }
+		},
+		"key2_fridge": {
+			"key1_fridge": { "x": 7.56, "y": 1.98, "rotation": 107.23, "width": 18, "height": 26 }
+		},
+		"key3_1_fridge": {
+			"key1_1_fridge": { "x": 7.23, "y": -0.83, "rotation": -79.61, "width": 18, "height": 25 }
+		},
+		"key3_fridge": {
+			"key1_fridge": { "x": 7.52, "y": 2.17, "rotation": 109.63, "width": 18, "height": 26 }
+		},
+		"up1_1_fridge": {
+			"up1_1_fridge": { "x": 46.77, "y": 80.84, "rotation": -90.28, "width": 25, "height": 35 }
+		},
+		"up1_fridge": {
+			"up1_fridge": {
+				"type": "mesh",
+				"uvs": [ 1, 0.26916, 1, 0.92716, 0.89247, 1, 0.75608, 1, 0, 0.1774, 0, 0, 0.40404, 0, 0.74686, 0.46387, 0.87219, 0.40568, 0.87957, 0.89135, 0.91274, 0.71902, 0.95882, 0.83092 ],
+				"triangles": [ 4, 5, 6, 8, 6, 0, 7, 6, 8, 10, 8, 0, 7, 8, 10, 11, 10, 0, 1, 11, 0, 10, 3, 7, 9, 10, 11, 9, 11, 1, 9, 3, 10, 4, 6, 7, 3, 4, 7, 2, 9, 1, 3, 9, 2 ],
+				"vertices": [ 47.23, -8.67, -8.04, -8.39, -14.11, 2.61, -14.04, 16.52, 55.44, 93.29, 70.34, 93.22, 70.14, 52.01, 31, 17.23, 35.82, 4.43, -4.98, 3.88, 9.48, 0.42, 0.06, -4.23 ],
+				"hull": 7
+			}
+		},
+		"up2_1_fridge": {
+			"up2_1_fridge": { "x": 17.38, "y": 17.34, "rotation": -21.17, "width": 42, "height": 43 }
+		},
+		"up2_fridge": {
+			"up2_fridge": { "x": 8.64, "y": 4.71, "rotation": -21.17, "width": 49, "height": 37 }
+		}
+	}
+},
+"animations": {
+	"0_1": {
+		"slots": {
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "key1_1_fridge" }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"key3_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 31.6, "y": 0 },
+					{ "time": 0.1667, "x": -9.31, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"key3_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.345, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -52.65, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.945, "y": 1 },
+					{ "time": 0.2667, "x": 1.055, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"up1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -5.74, "y": 0 },
+					{ "time": 0.6, "x": 1.88, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			}
+		}
+	},
+	"1_2": {
+		"slots": {
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "key1_1_fridge" }
+				]
+			},
+			"key2_fridge": {
+				"attachment": [
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"key3_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"key2_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 31.6, "y": 0 },
+					{ "time": 0.1667, "x": -9.31, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.945, "y": 1 },
+					{ "time": 0.2667, "x": 1.055, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"up1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -5.74, "y": 0 },
+					{ "time": 0.6, "x": 1.88, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"key2_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.345, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -52.65, "y": 0 }
+				]
+			}
+		}
+	},
+	"2_3": {
+		"slots": {
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "key1_1_fridge" }
+				]
+			},
+			"key1_fridge": {
+				"attachment": [
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"key3_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"key1_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 31.6, "y": 0 },
+					{ "time": 0.1667, "x": -9.31, "y": 0 },
+					{ "time": 0.2667, "x": 0, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.945, "y": 1 },
+					{ "time": 0.2667, "x": 1.055, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"up1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -5.74, "y": 0 },
+					{ "time": 0.6, "x": 1.88, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"key1_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.345, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -52.65, "y": 0 }
+				]
+			}
+		}
+	},
+	"3_4": {
+		"slots": {
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "up1_1_fridge" },
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"up1_fridge": {
+				"attachment": [
+					{ "time": 0.1, "name": null }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "up2_1_fridge" }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "up2_fridge" }
+				]
+			}
+		},
+		"bones": {
+			"up2_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{
+						"time": 0.1,
+						"x": 1.074,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.625, 0.5 ]
+					},
+					{
+						"time": 0.2,
+						"x": 0.951,
+						"y": 0.999,
+						"curve": [ 0.375, 0.5, 0.75, 1 ]
+					},
+					{ "time": 0.3, "x": 1, "y": 0.999 }
+				],
+				"shear": [
+					{
+						"time": 0.1,
+						"x": 9.78,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2,
+						"x": -12.23,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3, "x": 0, "y": 0 },
+					{ "time": 0.5333, "x": 0.02, "y": 0 }
+				]
+			},
+			"key3_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 0.945, "y": 1 },
+					{ "time": 0.2667, "x": 1.055, "y": 1 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			},
+			"up1_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1.116, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -44.19, "y": 0 },
+					{ "time": 0.2333, "x": 0, "y": 0 },
+					{ "time": 0.4, "x": -5.74, "y": 0 },
+					{ "time": 0.6, "x": 1.88, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"up1_fridge": {
+					"up1_fridge": [
+						{ "time": 0 },
+						{
+							"time": 0.1,
+							"vertices": [ -9.85089, -6.90786, -12.6213, -4.2486, -2.62826, -0.02137, 15.47159, -0.12958, 0, 0, -4.68271, -0.80335, -5.77322, 14.62767, 5.16249, -0.2832, 3.39355, 4.78364, -0.12482, -1.07994, 3.44952, 6.81867, -6.21078, -2.48146 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"idle_4": {
+		"slots": {
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "up2_1_fridge" }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "up2_fridge" }
+				]
+			}
+		},
+		"bones": {
+			"up2_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0.999 }
+				],
+				"shear": [
+					{
+						"time": 0,
+						"x": 0.02,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": -6.66,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0.02, "y": 0 }
+				]
+			},
+			"key3_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 24.27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				]
+			},
+			"key2_1_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.1667,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 24.27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"key1_1_fridge": {
+				"shear": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 24.27,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.3333, "x": 0, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 0.944,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 1.47,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7333,
+						"x": -1.96,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1, "x": 0, "y": 0 }
+				]
+			},
+			"up1_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1.116, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"up1_fridge": {
+					"up1_fridge": [
+						{
+							"time": 0,
+							"vertices": [ -9.85089, -6.90786, -12.6213, -4.2486, -2.62826, -0.02137, 15.47159, -0.12958, 0, 0, -4.68271, -0.80335, -5.77322, 14.62767, 5.16249, -0.2832, 3.39355, 4.78364, -0.12482, -1.07994, 3.44952, 6.81867, -6.21078, -2.48146 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"open": {
+		"slots": {
+			"cap1_fridge": {
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.9, "name": "cap1_fridge" }
+				]
+			},
+			"cap2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1, "name": "cap2_fridge" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"key1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" },
+					{ "time": 1.0667, "name": null }
+				]
+			},
+			"key1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.0667, "name": "key1_fridge" }
+				]
+			},
+			"key2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" },
+					{ "time": 1.1, "name": null }
+				]
+			},
+			"key2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1, "name": "key1_fridge" }
+				]
+			},
+			"key3_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "key1_1_fridge" },
+					{ "time": 1.1333, "name": null }
+				]
+			},
+			"key3_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1.1333, "name": "key1_fridge" }
+				]
+			},
+			"up1_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9, "name": "up1_1_fridge" }
+				]
+			},
+			"up1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9, "name": "up1_fridge" }
+				]
+			},
+			"up2_1_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "up2_1_fridge" },
+					{ "time": 0.9, "name": null }
+				]
+			},
+			"up2_fridge": {
+				"attachment": [
+					{ "time": 0, "name": "up2_fridge" },
+					{ "time": 0.9, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"cap2_fridge": {
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1, "x": 0, "y": 0, "curve": "stepped" },
+					{
+						"time": 0.2333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": -3.81,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": 0, "y": 0 }
+				]
+			},
+			"up2_fridge": {
+				"scale": [
+					{ "time": 0.8667, "x": 1, "y": 0.999 },
+					{ "time": 0.9, "x": 1.074, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0.8667, "x": 0, "y": 0 },
+					{ "time": 0.9, "x": 22.83, "y": 0 }
+				]
+			},
+			"key3_1_fridge": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.8333, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.9, "angle": -14.19 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 31.69, "y": -3.12 },
+					{
+						"time": 0.2333,
+						"x": 77.01,
+						"y": -42.37,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 74.96,
+						"y": -46.37,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": 77.01, "y": -42.37, "curve": "stepped" },
+					{ "time": 0.8333, "x": 77.01, "y": -42.37 },
+					{ "time": 0.9, "x": 31.69, "y": -3.12 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.116, "y": 1, "curve": "stepped" },
+					{ "time": 0.8333, "x": 1.116, "y": 1 },
+					{ "time": 0.9, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 19.16 },
+					{ "time": 0.2333, "x": -28.31, "y": 19.16 },
+					{
+						"time": 0.4,
+						"x": -30.63,
+						"y": 19.16,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": -28.31, "y": 19.16, "curve": "stepped" },
+					{ "time": 0.8333, "x": -28.31, "y": 19.16 },
+					{ "time": 0.9, "x": 0, "y": 19.16 },
+					{ "time": 1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.0667, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": 31.6, "y": 0 }
+				]
+			},
+			"key2_1_fridge": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.8333, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.9, "angle": -14.19 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 29.03, "y": -2.47 },
+					{
+						"time": 0.2333,
+						"x": 75.7,
+						"y": -40.43,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 74.34,
+						"y": -44.52,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": 75.7, "y": -40.43, "curve": "stepped" },
+					{ "time": 0.8333, "x": 75.7, "y": -40.43 },
+					{ "time": 0.9, "x": 29.03, "y": -2.47 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.116, "y": 1, "curve": "stepped" },
+					{ "time": 0.8333, "x": 1.116, "y": 1 },
+					{ "time": 0.9, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 19.16 },
+					{ "time": 0.2333, "x": -28.31, "y": 19.16 },
+					{
+						"time": 0.4,
+						"x": -30.63,
+						"y": 19.16,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": -28.31, "y": 19.16, "curve": "stepped" },
+					{ "time": 0.8333, "x": -28.31, "y": 19.16 },
+					{ "time": 0.9, "x": 0, "y": 19.16 },
+					{ "time": 1, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.0333, "x": 0, "y": 0 },
+					{ "time": 1.1, "x": 31.6, "y": 0 }
+				]
+			},
+			"key1_1_fridge": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.8333, "angle": -14.19, "curve": "stepped" },
+					{ "time": 0.9, "angle": -14.19 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 27.25, "y": -1.72 },
+					{
+						"time": 0.2333,
+						"x": 74.4,
+						"y": -38.88,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 72.95,
+						"y": -43.46,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": 74.4, "y": -38.88, "curve": "stepped" },
+					{ "time": 0.8333, "x": 74.4, "y": -38.88 },
+					{ "time": 0.9, "x": 27.25, "y": -1.72 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.116, "y": 1, "curve": "stepped" },
+					{ "time": 0.8333, "x": 1.116, "y": 1 },
+					{ "time": 0.9, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": 0, "y": 19.16 },
+					{ "time": 0.2333, "x": -28.31, "y": 19.16 },
+					{
+						"time": 0.4,
+						"x": -30.63,
+						"y": 19.16,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.5667, "x": -28.31, "y": 19.16, "curve": "stepped" },
+					{ "time": 0.8333, "x": -28.31, "y": 19.16 },
+					{ "time": 0.9, "x": 0, "y": 19.16 },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.0667, "x": 31.6, "y": 0 }
+				]
+			},
+			"cap1_fridge": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.1, "x": -2.24, "y": -4.39, "curve": "stepped" },
+					{ "time": 0.9, "x": -2.24, "y": -4.39 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"up1_fridge": {
+				"scale": [
+					{ "time": 0.9, "x": 1.116, "y": 1 },
+					{ "time": 1, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.1333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0.9, "x": -44.19, "y": 0 },
+					{ "time": 1, "x": 3.61, "y": 0 },
+					{ "time": 1.1333, "x": -2.54, "y": 0 },
+					{ "time": 1.3, "x": 0, "y": 0 }
+				]
+			},
+			"key3_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.1333, "x": 1.345, "y": 1 },
+					{ "time": 1.2333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.1333, "x": -52.65, "y": 0 },
+					{ "time": 1.2333, "x": 0, "y": 0 }
+				]
+			},
+			"key2_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.1, "x": 1.345, "y": 1 },
+					{ "time": 1.2, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.1, "x": -52.65, "y": 0 },
+					{ "time": 1.2, "x": 0, "y": 0 }
+				]
+			},
+			"key1_fridge": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.0667, "x": 1.345, "y": 1 },
+					{ "time": 1.1667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.0667, "x": -52.65, "y": 0 },
+					{ "time": 1.1667, "x": 0, "y": 0 }
+				]
+			},
+			"body_fridge": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"x": 0.953,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3,
+						"x": 1.056,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"x": 0.984,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.6333, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 1,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.33, 0.32, 0.664, 0.66 ]
+					},
+					{
+						"time": 1.0333,
+						"x": 0.902,
+						"y": 1,
+						"curve": [ 0.331, 0.33, 0.667, 0.67 ]
+					},
+					{
+						"time": 1.1667,
+						"x": 1.039,
+						"y": 1,
+						"curve": [ 0.338, 0.35, 0.673, 0.69 ]
+					},
+					{ "time": 1.3, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.6667, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"cap1_fridge": {
+					"cap1_fridge": [
+						{ "time": 0 },
+						{
+							"time": 0.1,
+							"offset": 2,
+							"vertices": [ 1.03415, -6.52513, -10.06161, -22.73134, -8.68375, -29.71422, -11.60473, -26.96823, -11.32282, -19.5265, -6.52744, 2.97284, -0.68892, 3.49141, -6.8521, -29.48424 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 0.9,
+							"offset": 2,
+							"vertices": [ 1.03415, -6.52513, -10.06161, -22.73134, -8.68375, -29.71422, -11.60473, -26.96823, -11.32282, -19.5265, -6.52744, 2.97284, -0.68892, 3.49141, -6.8521, -29.48424 ]
+						},
+						{ "time": 1 }
+					]
+				},
+				"cap2_fridge": {
+					"cap2_fridge": [
+						{
+							"time": 0.1,
+							"vertices": [ -42.27996, 30.02383, 10.9002, 0.12705, 0.19688, -5.67782, 1.02707, -6.23478, -4.54702, -11.33654, -57.59792, 17.66444, -48.6183, 26.16526, -47.82205, 27.99927, -47.36481, 22.79795, -51.29086, 18.44593, -49.64998, 12.39114, -21.00465, 9.31607, -1.44874, -4.15938 ]
+						},
+						{ "time": 0.2333, "curve": "stepped" },
+						{ "time": 0.8333 },
+						{
+							"time": 0.9,
+							"vertices": [ -42.27996, 30.02383, 10.9002, 0.12705, 0.19688, -5.67782, 1.02707, -6.23478, -4.54702, -11.33654, -57.59792, 17.66444, -48.6183, 26.16526, -47.82205, 27.99927, -47.36481, 22.79795, -51.29086, 18.44593, -49.64998, 12.39114, -21.00465, 9.31607, -1.44874, -4.15938 ]
+						}
+					]
+				},
+				"up1_fridge": {
+					"up1_fridge": [
+						{
+							"time": 0,
+							"vertices": [ -9.85089, -6.90786, -12.6213, -4.2486, -2.62826, -0.02137, 15.47159, -0.12958, 0, 0, -4.68271, -0.80335, -5.77322, 14.62767, 5.16249, -0.2832, 3.39355, 4.78364, -0.12482, -1.07994, 3.44952, 6.81867, -6.21078, -2.48146 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 0.9,
+							"vertices": [ -9.85089, -6.90786, -12.6213, -4.2486, -2.62826, -0.02137, 15.47159, -0.12958, 0, 0, -4.68271, -0.80335, -5.77322, 14.62767, 5.16249, -0.2832, 3.39355, 4.78364, -0.12482, -1.07994, 3.44952, 6.81867, -6.21078, -2.48146 ]
+						},
+						{ "time": 1 }
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0.1,
+				"offsets": [
+					{ "slot": "up2_fridge", "offset": 1 }
+				]
+			}
+		]
+	}
+}
+}

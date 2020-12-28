@@ -1,0 +1,160 @@
+
+mouse-5eaacc47aa.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fridge_back2_mouse
+  rotate: false
+  xy: 435, 1
+  size: 17, 125
+  orig: 17, 125
+  offset: 0, 0
+  index: -1
+fridge_back_mouse
+  rotate: false
+  xy: 1, 1
+  size: 196, 236
+  orig: 196, 236
+  offset: 0, 0
+  index: -1
+fridge_door1_1_mouse
+  rotate: false
+  xy: 135, 405
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+fridge_door1_2_mouse
+  rotate: false
+  xy: 168, 471
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+fridge_door1_mouse
+  rotate: false
+  xy: 120, 239
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+fridge_door2_mouse
+  rotate: false
+  xy: 313, 123
+  size: 105, 160
+  orig: 105, 160
+  offset: 0, 0
+  index: -1
+fridge_down_mouse
+  rotate: false
+  xy: 1, 239
+  size: 117, 189
+  orig: 117, 189
+  offset: 0, 0
+  index: -1
+fridge_front_mouse
+  rotate: false
+  xy: 199, 1
+  size: 112, 162
+  orig: 112, 162
+  offset: 0, 0
+  index: -1
+mouse-images-mouse_stable
+  rotate: false
+  xy: 313, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+mouse_stable
+  rotate: false
+  xy: 313, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+penguin_body_mouse
+  rotate: false
+  xy: 1, 430
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+penguin_eye1_mouse
+  rotate: false
+  xy: 33, 491
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+penguin_eye2_mouse
+  rotate: false
+  xy: 48, 491
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+penguin_eye3_mouse
+  rotate: false
+  xy: 81, 501
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+penguin_hand1_mouse
+  rotate: false
+  xy: 1, 491
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+penguin_hand2_mouse
+  rotate: false
+  xy: 135, 440
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+penguin_head_mouse
+  rotate: false
+  xy: 72, 430
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+penguin_leg1_mouse
+  rotate: false
+  xy: 161, 405
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+penguin_leg2_mouse
+  rotate: false
+  xy: 135, 471
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+penguin_mouth1_mouse
+  rotate: false
+  xy: 61, 501
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+penguin_mouth2_mouse
+  rotate: false
+  xy: 61, 491
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+penguin_mouth3_mouse
+  rotate: false
+  xy: 33, 504
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1

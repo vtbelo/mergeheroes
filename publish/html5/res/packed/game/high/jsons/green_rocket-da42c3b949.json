@@ -1,0 +1,11899 @@
+{
+	"skeleton": {
+		"hash": "Bi3Mx8RQ5j/SOgOIsOVpn2jAqhc",
+		"spine": "3.7.91",
+		"width": 340.28,
+		"height": 361.92,
+		"images": "C:/Users/Админ/Desktop/green_rocket/green_rocket/images",
+		"audio": "C:\\Users\\Наиль\\Documents\\GitHub\\match3\\res\\skins\\heroes\\high\\game_spines\\green_rocket"
+	},
+	"bones": [
+		{
+			"name": "root",
+			"x": 50,
+			"y": 40
+		},
+		{
+			"name": "root_gun",
+			"parent": "root",
+			"x": -89.32,
+			"y": 25.09,
+			"scaleX": 0.916,
+			"scaleY": 0.916
+		},
+		{
+			"name": "rocket_body_gun",
+			"parent": "root_gun",
+			"length": 229.73,
+			"rotation": 89.78,
+			"x": 69.13,
+			"y": -11.92
+		},
+		{
+			"name": "green_body_gun",
+			"parent": "rocket_body_gun",
+			"length": 27.83,
+			"rotation": -4.63,
+			"x": -24.87,
+			"y": -50.58
+		},
+		{
+			"name": "green_head_gun",
+			"parent": "green_body_gun",
+			"length": 180.01,
+			"rotation": -1,
+			"x": 28.3,
+			"y": 0.04
+		},
+		{
+			"name": "bone",
+			"parent": "green_head_gun",
+			"x": 58.94,
+			"y": -28.15
+		},
+		{
+			"name": "green_hand2_1_gun",
+			"parent": "green_head_gun",
+			"length": 27.45,
+			"rotation": -123.72,
+			"x": 23.74,
+			"y": -85.18
+		},
+		{
+			"name": "green_hand2_2_gun",
+			"parent": "green_hand2_1_gun",
+			"length": 14.21,
+			"rotation": 45.13,
+			"x": 27.39,
+			"y": 0.25
+		},
+		{
+			"name": "green_hand2_3_gun",
+			"parent": "green_hand2_2_gun",
+			"length": 16.6,
+			"rotation": 4.8,
+			"x": 14.78,
+			"y": -0.06
+		},
+		{
+			"name": "button_body_line_gun",
+			"parent": "green_hand2_3_gun",
+			"length": 21.13,
+			"rotation": 38.98,
+			"x": 45.75,
+			"y": 8.49
+		},
+		{
+			"name": "button_button_gun",
+			"parent": "green_hand2_3_gun",
+			"length": 21.69,
+			"rotation": 112.07,
+			"x": 30.59,
+			"y": -11.24
+		},
+		{
+			"name": "green_choco1_gun",
+			"parent": "green_head_gun",
+			"length": 55.93,
+			"rotation": -42.56,
+			"x": 112.01,
+			"y": -62.71
+		},
+		{
+			"name": "green_choco2_gun",
+			"parent": "green_head_gun",
+			"length": 40.52,
+			"rotation": -11.01,
+			"x": 124.91,
+			"y": -50.29
+		},
+		{
+			"name": "green_circle1_gun",
+			"parent": "root",
+			"x": 225.05,
+			"y": 126.28
+		},
+		{
+			"name": "green_eye1_gun",
+			"parent": "bone",
+			"x": 3.77,
+			"y": 40.94
+		},
+		{
+			"name": "green_hand1_1_gun",
+			"parent": "green_head_gun",
+			"length": 28.35,
+			"rotation": 163.04,
+			"x": 25.85,
+			"y": 54.19
+		},
+		{
+			"name": "green_hand1_2_gun",
+			"parent": "green_hand1_1_gun",
+			"length": 14.4,
+			"rotation": 108.07,
+			"x": 28.28,
+			"y": -0.35
+		},
+		{
+			"name": "green_hand1_3_gun",
+			"parent": "green_hand1_2_gun",
+			"length": 25.65,
+			"rotation": 3.4,
+			"x": 13.92,
+			"y": -0.14
+		},
+		{
+			"name": "green_mouth1_gun",
+			"parent": "green_head_gun",
+			"x": 31.94,
+			"y": -23.62
+		},
+		{
+			"name": "green_mouth2_gun",
+			"parent": "green_head_gun",
+			"x": 36.26,
+			"y": -24.84
+		},
+		{
+			"name": "green_mouth3_gun",
+			"parent": "green_head_gun",
+			"x": 31.49,
+			"y": -22.27
+		},
+		{
+			"name": "green_prtcl_gun",
+			"parent": "root",
+			"x": 265.23,
+			"y": 125.99
+		},
+		{
+			"name": "green_pupil1_gun",
+			"parent": "bone",
+			"x": 4.48,
+			"y": 38.85
+		},
+		{
+			"name": "rocket_fire_gun",
+			"parent": "rocket_body_gun",
+			"length": 11.86,
+			"rotation": -179.78,
+			"x": -34.45,
+			"y": -2.72,
+			"scaleX": 6.768,
+			"scaleY": 1.113
+		},
+		{
+			"name": "rocket_strap_gun",
+			"parent": "rocket_body_gun",
+			"length": 38.36,
+			"rotation": -66.79,
+			"x": 20.44,
+			"y": 11
+		}
+	],
+	"slots": [
+		{
+			"name": "rocket_fire_gun",
+			"bone": "rocket_fire_gun",
+			"attachment": "rocket_fire_gun"
+		},
+		{
+			"name": "rocket_body_gun",
+			"bone": "rocket_body_gun",
+			"attachment": "rocket_body_gun"
+		},
+		{
+			"name": "green_hand2_1_gun",
+			"bone": "green_hand2_1_gun",
+			"attachment": "green_hand2_1_gun"
+		},
+		{
+			"name": "green_hand2_2_gun",
+			"bone": "green_hand2_2_gun",
+			"attachment": "green_hand2_2_gun"
+		},
+		{
+			"name": "green_head_gun",
+			"bone": "green_head_gun",
+			"attachment": "green_head_gun"
+		},
+		{
+			"name": "green_choco2_gun",
+			"bone": "green_choco2_gun",
+			"attachment": "green_choco2_gun"
+		},
+		{
+			"name": "green_choco1_gun",
+			"bone": "green_choco1_gun",
+			"attachment": "green_choco1_gun"
+		},
+		{
+			"name": "green_head1_gun",
+			"bone": "green_head_gun",
+			"attachment": "green_head1_gun"
+		},
+		{
+			"name": "green_eye1_gun",
+			"bone": "green_eye1_gun",
+			"attachment": "green_eye1_gun"
+		},
+		{
+			"name": "green_pupil1_gun",
+			"bone": "green_pupil1_gun",
+			"attachment": "green_pupil1_gun"
+		},
+		{
+			"name": "green_mouth1_gun",
+			"bone": "green_mouth1_gun",
+			"attachment": "green_mouth1_gun"
+		},
+		{
+			"name": "green_mouth2_gun",
+			"bone": "green_mouth2_gun",
+			"attachment": "green_mouth2_gun"
+		},
+		{
+			"name": "green_mouth3_gun",
+			"bone": "green_mouth3_gun",
+			"attachment": "green_mouth3_gun"
+		},
+		{
+			"name": "green_body_gun",
+			"bone": "green_body_gun",
+			"attachment": "green_body_gun"
+		},
+		{
+			"name": "rocket_strap_gun",
+			"bone": "rocket_strap_gun",
+			"attachment": "rocket_strap_gun"
+		},
+		{
+			"name": "green_hand1_1_gun",
+			"bone": "green_hand1_1_gun",
+			"attachment": "green_hand1_1_gun"
+		},
+		{
+			"name": "green_hand1_2_gun",
+			"bone": "green_hand1_2_gun",
+			"attachment": "green_hand1_2_gun"
+		},
+		{
+			"name": "green_circle1_gun",
+			"bone": "green_circle1_gun",
+			"attachment": "green_circle1_gun"
+		},
+		{
+			"name": "button_body_line_gun",
+			"bone": "button_body_line_gun",
+			"attachment": "button_body_line_gun"
+		},
+		{
+			"name": "green_hand2_3_1_gun",
+			"bone": "green_hand2_3_gun",
+			"attachment": "green_hand2_3_1_gun"
+		},
+		{
+			"name": "green_prtcl_gun",
+			"bone": "green_prtcl_gun"
+		},
+		{
+			"name": "button_button_gun",
+			"bone": "button_button_gun",
+			"attachment": "button_button_gun"
+		},
+		{
+			"name": "button_body_up_gun",
+			"bone": "green_hand2_3_gun",
+			"attachment": "button_body_up_gun"
+		},
+		{
+			"name": "green_hand1_3_gun",
+			"bone": "green_hand1_3_gun",
+			"attachment": "green_hand1_3_gun"
+		}
+	],
+	"skins": {
+		"default": {
+			"button_body_line_gun": {
+				"button_body_line_gun": {
+					"x": 19.61,
+					"y": -0.38,
+					"rotation": -49.36,
+					"width": 31,
+					"height": 37
+				}
+			},
+			"button_body_up_gun": {
+				"button_body_up_gun": {
+					"x": 27.12,
+					"y": -14.12,
+					"rotation": -10.38,
+					"width": 72,
+					"height": 59
+				}
+			},
+			"button_button_gun": {
+				"button_button_gun": {
+					"x": 18.73,
+					"y": 0.32,
+					"rotation": -122.44,
+					"width": 37,
+					"height": 35
+				}
+			},
+			"green_body_gun": {
+				"green_body_gun": {
+					"x": 24.15,
+					"y": -11.24,
+					"rotation": -85.16,
+					"width": 158,
+					"height": 69
+				}
+			},
+			"green_choco1_gun": {
+				"green_choco1_gun": {
+					"x": 31.01,
+					"y": 2.39,
+					"rotation": -41.59,
+					"width": 63,
+					"height": 62
+				}
+			},
+			"green_choco2_gun": {
+				"green_choco2_gun": {
+					"x": 21.81,
+					"y": -0.34,
+					"rotation": -73.14,
+					"width": 39,
+					"height": 53
+				}
+			},
+			"green_circle1_gun": {
+				"green_circle1_gun": {
+					"x": 0.18,
+					"y": -0.23,
+					"width": 59,
+					"height": 59
+				}
+			},
+			"green_eye1_gun": {
+				"green_eye1_gun": {
+					"x": -2,
+					"y": -41.46,
+					"rotation": -84.16,
+					"width": 135,
+					"height": 70
+				}
+			},
+			"green_hand1_1_gun": {
+				"green_hand1_1_gun": {
+					"x": 14.53,
+					"y": -0.22,
+					"rotation": 112.8,
+					"width": 20,
+					"height": 35
+				}
+			},
+			"green_hand1_2_gun": {
+				"green_hand1_2_gun": {
+					"x": 6.46,
+					"y": 0.16,
+					"rotation": 4.73,
+					"width": 24,
+					"height": 11
+				}
+			},
+			"green_hand1_3_gun": {
+				"green_hand1_3_gun": {
+					"x": 17.49,
+					"y": 4.32,
+					"rotation": 1.33,
+					"width": 42,
+					"height": 43
+				}
+			},
+			"green_hand2_1_gun": {
+				"green_hand2_1_gun": {
+					"x": 14.34,
+					"y": -0.5,
+					"rotation": 39.56,
+					"width": 32,
+					"height": 28
+				}
+			},
+			"green_hand2_2_gun": {
+				"green_hand2_2_gun": {
+					"x": 6.45,
+					"y": -0.4,
+					"rotation": -5.57,
+					"width": 24,
+					"height": 13
+				}
+			},
+			"green_hand2_3_1_gun": {
+				"green_hand2_3_1_gun": {
+					"x": 27.98,
+					"y": -9.2,
+					"rotation": -10.38,
+					"width": 72,
+					"height": 69
+				}
+			},
+			"green_head1_gun": {
+				"green_head1_gun": {
+					"x": 118.06,
+					"y": -59.18,
+					"rotation": -84.16,
+					"width": 68,
+					"height": 56
+				}
+			},
+			"green_head_gun": {
+				"green_head_gun": {
+					"x": 89.05,
+					"y": -16.41,
+					"rotation": -84.16,
+					"width": 197,
+					"height": 203
+				}
+			},
+			"green_mouth1_gun": {
+				"green_mouth1_gun": {
+					"x": 2.2,
+					"y": -1.43,
+					"rotation": -84.16,
+					"width": 33,
+					"height": 14
+				}
+			},
+			"green_mouth2_gun": {
+				"green_mouth2_gun": {
+					"x": -2.41,
+					"y": -2.25,
+					"rotation": -84.16,
+					"width": 29,
+					"height": 23
+				}
+			},
+			"green_mouth3_gun": {
+				"green_mouth3_gun": {
+					"x": -0.64,
+					"y": -0.1,
+					"rotation": -84.16,
+					"width": 11,
+					"height": 8
+				}
+			},
+			"green_prtcl_gun": {
+				"green_prtcl_gun": {
+					"y": 0.06,
+					"width": 59,
+					"height": 59
+				}
+			},
+			"green_pupil1_gun": {
+				"green_pupil1_gun": {
+					"x": -2.17,
+					"y": -38.57,
+					"rotation": -84.16,
+					"width": 112,
+					"height": 48
+				}
+			},
+			"rocket_body_gun": {
+				"rocket_body_gun": {
+					"x": 68.57,
+					"y": -3.97,
+					"scaleX": 1.539,
+					"scaleY": 1.539,
+					"rotation": -89.78,
+					"width": 90,
+					"height": 198
+				}
+			},
+			"rocket_fire_gun": {
+				"rocket_fire_gun": {
+					"x": 9.65,
+					"y": 0.44,
+					"rotation": 90,
+					"width": 67,
+					"height": 22
+				}
+			},
+			"rocket_strap_gun": {
+				"rocket_strap_gun": {
+					"x": 9.69,
+					"y": 1.95,
+					"rotation": -22.99,
+					"width": 69,
+					"height": 103
+				}
+			}
+		}
+	},
+	"animations": {
+		"bombing": {
+			"slots": {
+				"green_circle1_gun": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"color": "ffffff00"
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"attachment": [
+						{
+							"time": 0.8667,
+							"name": null
+						},
+						{
+							"time": 1.3667,
+							"name": "green_mouth1_gun"
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "green_mouth2_gun"
+						},
+						{
+							"time": 1.3667,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8667,
+							"name": "green_mouth3_gun"
+						},
+						{
+							"time": 1.3667,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"green_circle1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": -130.87,
+							"y": -95,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": -130.87,
+							"y": -95
+						},
+						{
+							"time": 2.6667,
+							"x": -143.79,
+							"y": -99.01
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 3.839,
+							"y": 3.839,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": 3.839,
+							"y": 3.839
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"translate": [
+						{
+							"time": 0.5,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"x": 1.11,
+							"y": -8.62,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 1.11,
+							"y": -8.62
+						},
+						{
+							"time": 1.8667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.7667,
+							"x": 1.285,
+							"y": 1,
+							"curve": [
+								0.348,
+								0.39,
+								0.683,
+								0.73
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.624,
+							"y": 0.735,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 0.624,
+							"y": 0.735
+						},
+						{
+							"time": 1.8667,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.244,
+								0,
+								0.702,
+								0.8
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": -2.61,
+							"y": -4.88,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": 0.82,
+							"y": -4.89,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.173,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.185,
+							"y": 0.918,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 0.173,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 1.56,
+							"y": -3.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": -0.23,
+							"y": -4.06,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 5.15,
+							"y": -3.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2667,
+							"x": -0.23,
+							"y": -4.06,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 5.15,
+							"y": -3.97
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.32,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.354,
+							"y": 0.864,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 0.354,
+							"y": 0.864
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"root_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -2.71,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -3.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 42.56,
+							"y": -93.22,
+							"curve": [
+								0.336,
+								0.44,
+								0.67,
+								0.77
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 11.15,
+							"y": -16.5,
+							"curve": [
+								0.337,
+								0.66,
+								0.671,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78,
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"x": 0.78,
+							"y": 0.78,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 0.997,
+							"y": 0.997,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": 0.997,
+							"y": 0.997,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 0.889,
+							"y": 0.948,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.4667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.253,
+								0,
+								0.621,
+								0.48
+							]
+						},
+						{
+							"time": 0.2333,
+							"x": 4.79,
+							"y": 0,
+							"curve": [
+								0.37,
+								0.47,
+								0.753,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -6.15,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2667,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4,
+							"x": -5.91,
+							"y": -7.7,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2667,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 151.32,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 94.29
+						},
+						{
+							"time": 2,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -6.14,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.512,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 11.82,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -103.92
+						},
+						{
+							"time": 0.5,
+							"angle": -95.44
+						},
+						{
+							"time": 0.6667,
+							"angle": -65.38
+						},
+						{
+							"time": 2,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -15.67,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.824,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 1.09,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -6.03
+						},
+						{
+							"time": 0.5333,
+							"angle": -5.15
+						},
+						{
+							"time": 2,
+							"angle": 2.6
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 0.454,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -56.04,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 19.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.9667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"x": 8.51,
+							"y": 9.63,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 96.5,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": -20.84,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": 14.78,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -38.56,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 10.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					]
+				},
+				"bone": {
+					"translate": [
+						{
+							"time": 0.5,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.343,
+								0.36,
+								0.686,
+								0.73
+							]
+						},
+						{
+							"time": 0.7667,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"button_button_gun": {
+					"translate": [
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 1.72,
+							"y": -9.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 1.72,
+							"y": -9.27
+						},
+						{
+							"time": 0.5667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4,
+							"x": 0.944,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 0.944,
+							"y": 1
+						},
+						{
+							"time": 0.5667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0.3667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5333,
+							"angle": -18.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7333,
+							"angle": 19.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -9.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"idle": {
+			"slots": {
+				"green_circle1_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"root_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.71,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": -1.17,
+							"y": 15.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52
+						},
+						{
+							"time": 0.4333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.299,
+								0,
+								0.636,
+								0.36
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 2,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": [
+								0.298,
+								0.2,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 2.6
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"angle": -17.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"angle": 9.78,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1,
+							"angle": -17.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"start": {
+			"slots": {
+				"green_circle1_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"root_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.779,
+							"y": 0.779
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 144.62
+						},
+						{
+							"time": 0.1667,
+							"angle": -121.08,
+							"curve": [
+								0.299,
+								0.37,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": 4.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -1.61,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.4333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -165.43,
+							"y": 73.27
+						},
+						{
+							"time": 0.1667,
+							"x": -147.89,
+							"y": 1.75,
+							"curve": [
+								0.299,
+								0.37,
+								0.754,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 10.76,
+							"y": 15.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 10.76,
+							"y": 15.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.4333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 0.615,
+							"y": 0.505,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1.047,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0667,
+							"x": 0.983,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.1667,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.5,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.8333,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.1667,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.5,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.8333,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 3,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.1667,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 3.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.5,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 3.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.8333,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 4.1667,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 4.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.8333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.8333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -1.39,
+							"y": -8.79,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.1667,
+							"x": -1.39,
+							"y": -8.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": -2,
+							"y": -1.02,
+							"curve": "stepped"
+						},
+						{
+							"time": 3.8333,
+							"x": -2,
+							"y": -1.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.734,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 2.6
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": -6.46,
+							"y": -20.11,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.1667,
+							"x": -6.46,
+							"y": -20.11,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.8333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"x": 0.69,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1.285,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"x": 0.993,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -42.22,
+							"curve": "stepped"
+						},
+						{
+							"time": 1,
+							"angle": -42.22,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": 3.27,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": 5.83,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 3.6667,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				},
+				"bone": {
+					"translate": [
+						{
+							"time": 0.8333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": -10.13,
+							"y": -22.34,
+							"curve": "stepped"
+						},
+						{
+							"time": 2.1667,
+							"x": -10.13,
+							"y": -22.34,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.8333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.6,
+							"angle": -17.77
+						},
+						{
+							"time": 0.8333,
+							"angle": 4.77
+						},
+						{
+							"time": 1.1333,
+							"angle": -9.92
+						},
+						{
+							"time": 1.4667,
+							"angle": -17.86
+						},
+						{
+							"time": 1.8333,
+							"angle": 14.25
+						},
+						{
+							"time": 2.2667,
+							"angle": -5.05
+						},
+						{
+							"time": 2.7667,
+							"angle": 8.64
+						},
+						{
+							"time": 3.1333,
+							"angle": -12.13
+						},
+						{
+							"time": 3.6,
+							"angle": 2.81
+						},
+						{
+							"time": 4.0667,
+							"angle": -5.24
+						},
+						{
+							"time": 4.3333,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"start_fast": {
+			"slots": {
+				"green_circle1_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"root_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 144.62
+						},
+						{
+							"time": 0.1667,
+							"angle": -121.08,
+							"curve": [
+								0.299,
+								0.37,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": 4.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -1.61,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -165.43,
+							"y": 73.27
+						},
+						{
+							"time": 0.1667,
+							"x": -147.89,
+							"y": 1.75,
+							"curve": [
+								0.299,
+								0.37,
+								0.754,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 0.615,
+							"y": 0.505,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1.047,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0667,
+							"x": 0.983,
+							"y": 1,
+							"curve": [
+								0.265,
+								0,
+								0.618,
+								0.43
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8333,
+							"x": 0.65,
+							"y": 1
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -0.62,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": -1.39,
+							"y": -8.79,
+							"curve": [
+								0.295,
+								0,
+								0.633,
+								0.37
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.734,
+							"y": 1,
+							"curve": [
+								0.243,
+								0,
+								0.655,
+								0.63
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -3.92,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": 6.94,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -3.65,
+							"curve": [
+								0.276,
+								0,
+								0.621,
+								0.4
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 2.6
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"x": 0.69,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -42.22,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6,
+							"angle": -17.77,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"angle": 4.77,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"win_bomb": {
+			"slots": {
+				"green_circle1_gun": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"color": "ffffff00"
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"green_circle1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": -130.87,
+							"y": -95
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 3.839,
+							"y": 3.839
+						}
+					]
+				},
+				"root_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.71,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0.2333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.245,
+								0,
+								0.637,
+								0.56
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -6.57,
+							"y": 0,
+							"curve": [
+								0.381,
+								0.55,
+								0.742,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.253,
+								0,
+								0.621,
+								0.48
+							]
+						},
+						{
+							"time": 1.6333,
+							"x": 4.79,
+							"y": 0,
+							"curve": [
+								0.37,
+								0.47,
+								0.753,
+								1
+							]
+						},
+						{
+							"time": 1.9,
+							"x": -6.15,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.4,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5667,
+							"x": -5.91,
+							"y": -7.7,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 151.32,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 94.29,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"angle": 94.29
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 11.59,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.512,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 1.512,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 11.82,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -103.92
+						},
+						{
+							"time": 0.5,
+							"angle": -95.44
+						},
+						{
+							"time": 0.6667,
+							"angle": -65.38
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 11.59,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.824,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 1.09,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -6.03
+						},
+						{
+							"time": 0.5,
+							"angle": -25.88
+						},
+						{
+							"time": 1.3333,
+							"angle": 2.6,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 14.19,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 2.6
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 0.454,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.11,
+							"y": -8.62,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.5667,
+							"x": 1.11,
+							"y": -8.62
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -56.04,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"angle": -56.04,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 19.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.9667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"x": 8.51,
+							"y": 9.63,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 96.5,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": -20.84,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -38.56,
+							"curve": [
+								0.324,
+								0.3,
+								0.658,
+								0.63
+							]
+						},
+						{
+							"time": 0.5,
+							"angle": -22.63,
+							"curve": [
+								0.343,
+								0.37,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 10.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"angle": 0
+						}
+					]
+				},
+				"bone": {
+					"translate": [
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.343,
+								0.36,
+								0.686,
+								0.73
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.7333,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"button_button_gun": {
+					"translate": [
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 1.72,
+							"y": -9.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 1.72,
+							"y": -9.27
+						},
+						{
+							"time": 0.5667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4,
+							"x": 0.944,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 0.944,
+							"y": 1
+						},
+						{
+							"time": 0.5667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0.3667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5333,
+							"angle": -18.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7333,
+							"angle": 19.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -9.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"win_end": {
+			"slots": {
+				"green_circle1_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"green_mouth1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 0.2333,
+							"x": 1.11,
+							"y": -8.62,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.7333,
+							"x": 1.11,
+							"y": -8.62
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"x": 1.342,
+							"y": 0.821,
+							"curve": [
+								0.355,
+								0.65,
+								0.69,
+								1
+							]
+						},
+						{
+							"time": 0.7333,
+							"x": 0.624,
+							"y": 0.735
+						},
+						{
+							"time": 1,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.244,
+								0,
+								0.702,
+								0.8
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.82,
+							"y": -4.89
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.894,
+							"y": 0.989,
+							"curve": [
+								0.375,
+								0.62,
+								0.716,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 0.173,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.47,
+							"y": -4.05,
+							"curve": [
+								0.375,
+								0.62,
+								0.716,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -0.23,
+							"y": -4.06,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 5.15,
+							"y": -3.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.916,
+							"y": 0.982,
+							"curve": [
+								0.375,
+								0.62,
+								0.716,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 0.354,
+							"y": 0.864
+						}
+					]
+				},
+				"root_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": -2.21,
+							"curve": [
+								0.333,
+								0.33,
+								0.758,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0.5,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 22.77,
+							"y": -139.71
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": 1.47,
+							"curve": [
+								0.378,
+								0.61,
+								0.721,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 1.61,
+							"y": -17.96,
+							"curve": [
+								0.378,
+								0.61,
+								0.721,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.251,
+								0,
+								0.6,
+								0.38
+							]
+						},
+						{
+							"time": 1.2333,
+							"x": 0,
+							"y": 53,
+							"curve": [
+								0.398,
+								0.28,
+								0.995,
+								0.99
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0,
+							"y": 1000.84
+						}
+					],
+					"scale": [
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.951,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 0.932,
+							"y": 0.66
+						},
+						{
+							"time": 1.5,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0.1667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 6.945,
+							"y": 3.326,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -5.68,
+							"y": 0,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": -35.52,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -1.22,
+							"y": -0.01,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.5,
+							"x": -11.31,
+							"y": -0.6
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.967,
+							"y": 1,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.5,
+							"x": 0.788,
+							"y": 1
+						}
+					],
+					"shear": [
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.5,
+							"x": 0,
+							"y": -6.8
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": -0.31,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0
+						},
+						{
+							"time": 1.3333,
+							"angle": -8.49
+						}
+					],
+					"translate": [
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.3333,
+							"x": 4.88,
+							"y": 11.87
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 8.54,
+							"y": 0,
+							"curve": [
+								0.377,
+								0.51,
+								0.749,
+								1
+							]
+						},
+						{
+							"time": 0.4,
+							"x": 3.14,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.3333,
+							"x": -14.42,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 1.02,
+							"y": 0,
+							"curve": [
+								0.363,
+								0.44,
+								0.755,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": -3.34,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -0.94,
+							"y": 0,
+							"curve": [
+								0.363,
+								0.44,
+								0.755,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": -25.13,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 1.044,
+							"y": 1.008,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2333,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4,
+							"x": -5.91,
+							"y": -7.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 1.044,
+							"y": 1.008,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": 156.88,
+							"curve": [
+								0.375,
+								0.5,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"angle": 37.02
+						},
+						{
+							"time": 0.7333,
+							"angle": 152.05
+						},
+						{
+							"time": 1.1667,
+							"angle": 81.17
+						},
+						{
+							"time": 1.3333,
+							"angle": 21.34
+						}
+					],
+					"scale": [
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 1.577,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.243,
+								0,
+								0.689,
+								0.75
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": -53.17,
+							"curve": [
+								0.371,
+								0.62,
+								0.71,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"angle": 39.45
+						},
+						{
+							"time": 0.7333,
+							"angle": -58.78
+						},
+						{
+							"time": 1.1667,
+							"angle": -86.54
+						},
+						{
+							"time": 1.3333,
+							"angle": -114.59
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": -0.7,
+							"curve": [
+								0.376,
+								0.61,
+								0.717,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"angle": 7.03
+						},
+						{
+							"time": 1.1667,
+							"angle": -2.82
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": 40.81,
+							"curve": [
+								0.377,
+								0.51,
+								0.748,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"angle": 19.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -30.59
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 10.75,
+							"y": -5.22,
+							"curve": [
+								0.377,
+								0.51,
+								0.748,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"x": 8.51,
+							"y": 9.63,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 1.1667,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.3333,
+							"x": 1.535,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": -40.84,
+							"curve": [
+								0.377,
+								0.51,
+								0.748,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"angle": -20.84,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -62.8
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"angle": 10.85,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.7667,
+							"angle": 10.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 55.66
+						}
+					]
+				},
+				"bone": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.7333,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 0,
+							"y": 0
+						}
+					]
+				}
+			}
+		},
+		"win_idle": {
+			"slots": {
+				"green_circle1_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"bones": {
+				"root_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 0,
+							"y": -5.7,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.4,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": -3.09,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.299,
+								0,
+								0.636,
+								0.36
+							]
+						},
+						{
+							"time": 0.1,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3667,
+							"x": -0.54,
+							"y": -1.01,
+							"curve": [
+								0.298,
+								0.2,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": -3.92,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": 6.94,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 2.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": -3.65,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 2.6
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": -19.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": 16.6,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3667,
+							"angle": 1.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"angle": 0
+						}
+					]
+				}
+			}
+		},
+		"win_start": {
+			"slots": {
+				"green_circle1_gun": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"color": "ffffff00"
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"attachment": [
+						{
+							"time": 0.5,
+							"name": null
+						},
+						{
+							"time": 1.1667,
+							"name": "green_mouth1_gun"
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.5,
+							"name": "green_mouth2_gun"
+						},
+						{
+							"time": 1.1667,
+							"name": null
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.5,
+							"name": "green_mouth3_gun"
+						},
+						{
+							"time": 1.1667,
+							"name": null
+						}
+					]
+				},
+				"green_prtcl_gun": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2667,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"color": "ffffff00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.4,
+							"color": "ffffff00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4667,
+							"color": "ffffffff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"color": "ffffff00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "green_prtcl_gun"
+						}
+					]
+				}
+			},
+			"bones": {
+				"green_circle1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3667,
+							"x": -143.79,
+							"y": -99.01,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": -130.87,
+							"y": -95
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"x": 3.839,
+							"y": 3.839
+						}
+					]
+				},
+				"green_mouth1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.625,
+								0.5
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.11,
+							"y": -8.62,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.5667,
+							"x": 1.11,
+							"y": -8.62
+						},
+						{
+							"time": 1.8333,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.285,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3333,
+							"x": 1.285,
+							"y": 1,
+							"curve": [
+								0.348,
+								0.39,
+								0.683,
+								0.73
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.624,
+							"y": 0.735,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.5667,
+							"x": 0.624,
+							"y": 0.735
+						},
+						{
+							"time": 1.8333,
+							"x": 1.285,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth2_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.244,
+								0,
+								0.702,
+								0.8
+							]
+						},
+						{
+							"time": 0.5,
+							"x": -2.61,
+							"y": -4.88,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"x": 0.82,
+							"y": -4.89,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.173,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.185,
+							"y": 0.918,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.173,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_mouth3_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.56,
+							"y": -3.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"x": -0.23,
+							"y": -4.06,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 5.15,
+							"y": -3.97,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": -0.23,
+							"y": -4.06,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 5.15,
+							"y": -3.97
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.32,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8667,
+							"x": 0.354,
+							"y": 0.864,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.0333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.354,
+							"y": 0.864
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_prtcl_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": -164.76,
+							"y": -116.28,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": -93.55,
+							"y": 55.82,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": -211.34,
+							"y": -125.61,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4,
+							"x": -73.53,
+							"y": -34.26,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"x": -210.66,
+							"y": -130.83
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 2.227,
+							"y": 2.227,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.172,
+							"y": 0.172,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 2.227,
+							"y": 2.227,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 0.172,
+							"y": 0.172,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4,
+							"x": 2.227,
+							"y": 2.227,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5667,
+							"x": 0.172,
+							"y": 0.172
+						}
+					]
+				},
+				"root_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.71,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.78,
+							"y": 0.78
+						}
+					]
+				},
+				"rocket_body_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": -2.52,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"angle": 2.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": -2.52
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7667,
+							"x": 1.92,
+							"y": -21.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"rocket_fire_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.5,
+							"x": 0.65,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"rocket_strap_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -11.36,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_body_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -2.43,
+							"y": -0.02,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0.934,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_head_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -0.62,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"shear": [
+						{
+							"time": 0.2333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.245,
+								0,
+								0.637,
+								0.56
+							]
+						},
+						{
+							"time": 0.4333,
+							"x": -6.57,
+							"y": 0,
+							"curve": [
+								0.381,
+								0.55,
+								0.742,
+								1
+							]
+						},
+						{
+							"time": 0.6667,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.253,
+								0,
+								0.621,
+								0.48
+							]
+						},
+						{
+							"time": 1.6333,
+							"x": 4.79,
+							"y": 0,
+							"curve": [
+								0.37,
+								0.47,
+								0.753,
+								1
+							]
+						},
+						{
+							"time": 1.9,
+							"x": -6.15,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_choco1_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 4.05,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -4.17,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 4.05,
+							"y": 0
+						}
+					]
+				},
+				"green_choco2_gun": {
+					"shear": [
+						{
+							"time": 0,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 2.44,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"x": -6.77,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"x": 2.44,
+							"y": 0
+						}
+					]
+				},
+				"green_eye1_gun": {
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_pupil1_gun": {
+					"translate": [
+						{
+							"time": 0,
+							"x": -5.73,
+							"y": -4.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1667,
+							"x": 5.53,
+							"y": -5.48,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.3333,
+							"x": 5.53,
+							"y": -5.48,
+							"curve": [
+								0.246,
+								0,
+								0.633,
+								0.54
+							]
+						},
+						{
+							"time": 0.4667,
+							"x": -5.91,
+							"y": -7.7,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.6667,
+							"x": -5.91,
+							"y": -7.7,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.8333,
+							"x": -5.73,
+							"y": -4.17
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.3333,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1.087,
+							"y": 1.015,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 151.32,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 94.29,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"angle": 94.29
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 11.59,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.512,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 1.512,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 11.82,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -103.92
+						},
+						{
+							"time": 0.5,
+							"angle": -95.44
+						},
+						{
+							"time": 0.6667,
+							"angle": -65.38
+						},
+						{
+							"time": 1.3333,
+							"angle": 0,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 11.59,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 1.824,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand1_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 2.6,
+							"curve": [
+								0.242,
+								0,
+								0.667,
+								0.67
+							]
+						},
+						{
+							"time": 0.2333,
+							"angle": 1.09,
+							"curve": [
+								0.379,
+								0.6,
+								0.724,
+								1
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -6.03
+						},
+						{
+							"time": 0.5,
+							"angle": -25.88
+						},
+						{
+							"time": 1.3333,
+							"angle": 2.6,
+							"curve": [
+								0.252,
+								0,
+								0.623,
+								0.49
+							]
+						},
+						{
+							"time": 1.9667,
+							"angle": 14.19,
+							"curve": [
+								0.372,
+								0.49,
+								0.751,
+								1
+							]
+						},
+						{
+							"time": 2.6667,
+							"angle": 2.6
+						}
+					],
+					"scale": [
+						{
+							"time": 0.2333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.319,
+								0.29,
+								0.656,
+								0.63
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": 0.454,
+							"y": 1,
+							"curve": [
+								0.357,
+								0.42,
+								0.756,
+								1
+							]
+						},
+						{
+							"time": 1.3333,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"green_hand2_1_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -56.04,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"angle": -56.04,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 19.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.9667,
+							"x": -12.09,
+							"y": 46.85,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"x": 8.51,
+							"y": 9.63,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"green_hand2_2_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": 96.5,
+							"curve": [
+								0.325,
+								0.3,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": -20.84,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 0
+						}
+					]
+				},
+				"green_hand2_3_gun": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.281,
+								0,
+								0.623,
+								0.39
+							]
+						},
+						{
+							"time": 0.3667,
+							"angle": -38.56,
+							"curve": [
+								0.324,
+								0.3,
+								0.658,
+								0.63
+							]
+						},
+						{
+							"time": 0.5,
+							"angle": -22.63,
+							"curve": [
+								0.343,
+								0.37,
+								0.757,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"angle": 10.85,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2.1667,
+							"angle": 0
+						}
+					]
+				},
+				"bone": {
+					"translate": [
+						{
+							"time": 0.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.343,
+								0.36,
+								0.686,
+								0.73
+							]
+						},
+						{
+							"time": 0.5,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.7333,
+							"x": 1.86,
+							"y": -10.27,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": 0,
+							"y": 0
+						}
+					]
+				},
+				"button_button_gun": {
+					"translate": [
+						{
+							"time": 0.3333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.4,
+							"x": 1.72,
+							"y": -9.27,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 1.72,
+							"y": -9.27
+						},
+						{
+							"time": 0.5667,
+							"x": 0,
+							"y": 0
+						}
+					],
+					"scale": [
+						{
+							"time": 0.3333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4,
+							"x": 0.944,
+							"y": 1,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.5,
+							"x": 0.944,
+							"y": 1
+						},
+						{
+							"time": 0.5667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"button_body_line_gun": {
+					"rotate": [
+						{
+							"time": 0.3667,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5333,
+							"angle": -18.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7333,
+							"angle": 19.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -9.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.2,
+							"angle": 0
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,426 @@
+
+exclamations-4dcce7577f.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+big_hand_wow
+  rotate: false
+  xy: 206, 753
+  size: 103, 152
+  orig: 103, 152
+  offset: 0, 0
+  index: -1
+boom
+  rotate: false
+  xy: 317, 628
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+cowbell
+  rotate: false
+  xy: 327, 897
+  size: 109, 118
+  orig: 109, 118
+  offset: 0, 0
+  index: -1
+duda1
+  rotate: false
+  xy: 105, 754
+  size: 99, 162
+  orig: 99, 162
+  offset: 0, 0
+  index: -1
+duda2
+  rotate: false
+  xy: 90, 477
+  size: 92, 220
+  orig: 92, 220
+  offset: 0, 0
+  index: -1
+duda3
+  rotate: false
+  xy: 1, 477
+  size: 87, 280
+  orig: 87, 280
+  offset: 0, 0
+  index: -1
+fan_blade_shuffle
+  rotate: false
+  xy: 210, 907
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+fan_body_shuffle
+  rotate: false
+  xy: 252, 253
+  size: 89, 129
+  orig: 89, 129
+  offset: 0, 0
+  index: -1
+fan_up_shuffle
+  rotate: false
+  xy: 90, 699
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+fan_white_shuffle
+  rotate: false
+  xy: 192, 628
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+green_body_wow
+  rotate: false
+  xy: 1, 1
+  size: 300, 112
+  orig: 300, 112
+  offset: 0, 0
+  index: -1
+green_choco1_wow
+  rotate: false
+  xy: 441, 627
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+green_choco2_wow
+  rotate: false
+  xy: 451, 715
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+green_eye1_wow
+  rotate: false
+  xy: 105, 918
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+green_eye2_wow
+  rotate: false
+  xy: 105, 918
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+green_hand1_1_wow
+  rotate: false
+  xy: 570, 306
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+green_hand1_2_wow
+  rotate: false
+  xy: 508, 353
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+green_hand2_1_wow
+  rotate: false
+  xy: 451, 790
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+green_hand2_2_wow
+  rotate: false
+  xy: 490, 852
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+green_hand3_1__1
+  rotate: false
+  xy: 511, 557
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+green_hand3_1_wow
+  rotate: false
+  xy: 530, 462
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+green_hand3_2_wow
+  rotate: false
+  xy: 396, 378
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+green_hand3_3_wow
+  rotate: false
+  xy: 533, 374
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+green_head1_wow
+  rotate: false
+  xy: 343, 253
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+green_head_wow
+  rotate: false
+  xy: 311, 753
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+green_mouth1_1_wow
+  rotate: false
+  xy: 300, 217
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+green_mouth1_2_wow
+  rotate: false
+  xy: 395, 356
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+green_mouth1_3_wow
+  rotate: false
+  xy: 438, 1007
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+green_mouth2_1_wow
+  rotate: false
+  xy: 585, 543
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+green_mouth3_wow
+  rotate: false
+  xy: 343, 356
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+green_pupil1_wow
+  rotate: false
+  xy: 499, 790
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+green_pupil2_wow
+  rotate: false
+  xy: 507, 715
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+hlop_wow
+  rotate: false
+  xy: 334, 465
+  size: 114, 93
+  orig: 114, 93
+  offset: 0, 0
+  index: -1
+palka_white
+  rotate: false
+  xy: 170, 253
+  size: 80, 211
+  orig: 80, 211
+  offset: 0, 0
+  index: -1
+phrase_bg_wow
+  rotate: false
+  xy: 303, 1
+  size: 256, 214
+  orig: 256, 214
+  offset: 0, 0
+  index: -1
+ray_shuffle
+  rotate: false
+  xy: 1, 190
+  size: 167, 285
+  orig: 167, 285
+  offset: 0, 0
+  index: -1
+sunglasses_1_wow
+  rotate: false
+  xy: 422, 217
+  size: 76, 30
+  orig: 76, 30
+  offset: 0, 0
+  index: -1
+sunglasses_2_wow
+  rotate: false
+  xy: 530, 670
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+sunglasses_body_wow
+  rotate: false
+  xy: 1, 115
+  size: 186, 73
+  orig: 186, 73
+  offset: 0, 0
+  index: -1
+verevka_wow
+  rotate: false
+  xy: 540, 217
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+wave1_shuffle
+  rotate: false
+  xy: 1, 759
+  size: 102, 263
+  orig: 102, 263
+  offset: 0, 0
+  index: -1
+wave2_shuffle
+  rotate: false
+  xy: 438, 897
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+wave3_shuffle
+  rotate: false
+  xy: 491, 377
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+wave4_shuffle
+  rotate: false
+  xy: 189, 115
+  size: 109, 136
+  orig: 109, 136
+  offset: 0, 0
+  index: -1
+wave5_shuffle
+  rotate: false
+  xy: 450, 464
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+white_body_wow
+  rotate: false
+  xy: 184, 466
+  size: 148, 160
+  orig: 148, 160
+  offset: 0, 0
+  index: -1
+white_eye1_wow
+  rotate: false
+  xy: 315, 384
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+white_eyebrow1_wow
+  rotate: false
+  xy: 334, 560
+  size: 127, 65
+  orig: 127, 65
+  offset: 0, 0
+  index: -1
+white_hand1_1_wow
+  rotate: false
+  xy: 252, 384
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+white_hand1_2_wow
+  rotate: false
+  xy: 530, 623
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+white_hand1_3_wow
+  rotate: false
+  xy: 463, 557
+  size: 46, 67
+  orig: 46, 67
+  offset: 0, 0
+  index: -1
+white_hand1_10_wow
+  rotate: false
+  xy: 471, 249
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+white_mouth1_wow
+  rotate: false
+  xy: 451, 852
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+white_mouth2_wow
+  rotate: false
+  xy: 500, 217
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+white_mouth3_wow
+  rotate: false
+  xy: 501, 341
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+white_mouth4_wow
+  rotate: false
+  xy: 375, 217
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+white_mouth5_wow
+  rotate: false
+  xy: 461, 356
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+white_mouth_down_wow
+  rotate: false
+  xy: 471, 341
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+white_mouth_up_wow
+  rotate: false
+  xy: 170, 190
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+white_pupil1_wow
+  rotate: false
+  xy: 139, 699
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1

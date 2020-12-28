@@ -1,0 +1,56 @@
+{
+"skeleton": { "hash": "sYhpYCzSoutXrRBHsrUZu9OARow", "spine": "3.7.91", "width": 141.72, "height": 121.64, "images": "D:/Work/icon/heroes icons/70.3/images", "audio": "C:\\Work\\Heroes\\Interface\\icons\\spine" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "min70", "parent": "root", "x": 1.28, "y": -26.32, "scaleX": 1.183, "scaleY": 1.183 }
+],
+"slots": [
+	{ "name": "min70_3", "bone": "root", "attachment": "min70_3" },
+	{ "name": "min70", "bone": "min70", "attachment": "min70" }
+],
+"skins": {
+	"default": {
+		"min70": {
+			"min70": { "x": -0.28, "y": 2.42, "width": 104, "height": 56 }
+		},
+		"min70_3": {
+			"min70_3": { "x": -2.66, "y": 1.99, "scaleX": 1.181, "scaleY": 1.181, "width": 120, "height": 103 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"min70": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": 1.225,
+						"y": 1.225,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.3667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.5667,
+						"x": 1.225,
+						"y": 1.225,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

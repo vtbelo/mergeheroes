@@ -1,0 +1,1158 @@
+{
+  "Sugar Heroes": "Sugar Heroes",
+
+  "PeriodicBonusView.ReadyText": "Open Present Bag to get a Bonus!",
+  "PeriodicBonusView.ClosedText": "Present bag closed!",
+
+  "Fish.MoveToDown": "Move the dumbbell to the bottom row!",
+  "CookieMan.MoveToDown": "Move the cookie to the bottom row!",
+
+  "message.Letsgo": "Go!",
+  
+  "CollectFireworkTutorial": "To get a firework combine five or more color matching elements!",
+
+  "level20TutorialStep1": "Rocket Booster is available! It will collect any chosen column of sweets. Select the Rocket!",
+  "level20TutorialStep2": "Use thee Rocket to collect sweets in this column!",
+
+  "level18TutorialStep1": "A blue cake is wrapped and can’t be moved. Match a line to unwrap it!",
+
+  "level26TutorialStep1": "The Rainbow Lollipop is available! It will collect all the sweets that are the same color, let’s try it out!",
+  "level26TutorialStep2": "Collect all the red rolls using the Rainbow Lollipop!",
+
+  "level16TutorialStep1": "These are Dumbbells! Move them to the bottom row to collect. Lower a dumbbell by making a line of ice cream!",
+  "level16TutorialStep2": "Now to the final step: line up the apples to move the Dumbbell to the bottom and collect it!",
+
+  "level23TutorialStep1": "Match three apples next to a Banana to start opening it!",
+  "level23TutorialStep2": "Now, match the Ice Creams to open up the Banana a little bit more!",
+  "level23TutorialStep3": "And finally match the Red Watermelons to collect the Banana!",
+
+  "level31TutorialStep1": "Match the elements next to the coconuts to collect them!",
+
+  "level46TutorialStep1": "This is an Easy Bake Oven! You need to match a line four times next to it to make it work! Match the first line with watermelons!",
+  "level46TutorialStep2": "Now match the second line!",
+  "level46TutorialStep3": "Let’s do same with the third!",
+  "level46TutorialStep4": "And, finally, the fourth one!",
+
+  "level61TutorialStep1": "Match a line next to your goal element while on the cookie field to add multipliers to it. Try lining up some ice cream!",
+  "level61TutorialStep2": "Now do the same with the grapes to get an additional bonus to the existing one!",
+
+  "level70TutorialStep1": "Time for advanced moves! Swap the sweets to make two Rainbow Lollipops!",
+  "level70TutorialStep2": "Swap the Rainbow Lollipops with each other to clear all the cells on the field!",
+
+  "level76TutorialStep1": "There are so many stickers! Match a line to collect them!",
+
+  "level91TutorialStep1": "The Penguin in the fridge is very fond of blue sweets, let's feed it!",
+
+  "level106TutorialStep1": "These are Soda Cans! Let's match the blue can with the blue ice cream!",
+  "level106TutorialStep2": "The soda in the cans becomes fizzier each time and is getting ready to explode! Remove the second can or it will blow up the next time you move!",
+
+  "level121TutorialStep1": "There is Radioactive Dirt everywhere! Try to collect it while cleaning up this mess!",
+  "level121TutorialStep2": "Oh! It continues to spread! Match some sweets next to affected cell to clean it and the Dirt will not spread during this move.",
+
+  "level136TutorialStep1": "Look! It's a Fly, it blocks the element behind it. To remove the fly match a line with it!",
+  
+  "level151TutorialStep1": "There are bushes on the field! Match a line placing one of the elements on the bush to collect it.",
+  
+  "level181TutorialStep1": "Match a line next to the elephant to collect it! You can check how many matches you need to make on the counter below the elephant.",
+
+  "level196TutorialStep1": "You need to move pizza slices to the bottom row. But there is a trick to it! Match a line of honey to find out what it is!",
+  "level196TutorialStep2": "If you don't move the slice down it will climb up! Match some grapes in line to see what the slice will do.",
+  
+  "level226TutorialStep1": "It's a garbage bag! Remove it from the field by matching a line next to it!",
+  
+  "level256TutorialStep1": "It's a cooler-bag. Match a line next to it to open the first lock!",
+  "level256TutorialStep2": "One is done! Let's make another match!",
+  "level256TutorialStep3": "Great! Unlock the last one!",
+  "level256TutorialStep4": "And, finally, match a line to release the elements from it on the field!",
+  
+  "level286TutorialStep1": "The scarecrow! Let's dress it up! Move each element to the bottom row to do that!",
+  "level286TutorialStep2": "Nice! Now try the same with the head!",
+  
+  "level316TutorialStep1": "Match a line to open the bins!",
+  "level316TutorialStep2": "Make one more match to open the bags and collect the contents!",
+  
+  "level346TutorialStep1": "To use a firework line it up with the color matching elements!",
+
+  "level376TutorialStep1": "Match a line by the target to throw a dart at it! To throw a dart at the other side of the target match a line there!",
+  
+  "level406TutorialStep1": "Match a line to clean the cell from foam!",
+  "level406TutorialStep2": "Sometimes there is a duck swimming in the foam! Collect it by matching a line!",
+  
+  "level436TutorialStep1": "It's a can! A fly will appear from it every fourth move. Match a line to see how it works!",
+    
+  "level466TutorialStep1": "It's a cactus! Charge it by matching a line nearby and its spikes will hit five random targets!",
+  "level466TutorialStep2": "Match a line one more time!",
+  "level466TutorialStep3": "Release spikes by matching this line!",
+  
+  "level496TutorialStep1": "Radioactive dirt leaves the barrel every fourth move. Match a line next to it to prevent that!",
+  
+  "level526TutorialStep1": "To collect cocktails line them up with the color matching elements!",
+	
+  "level1636TutorialStep1": "Make a color matching line by the dynamite as many times as displayed on the counter to see what happens!",
+  
+  "Boosters.0.Title": "Hammer",
+  "Boosters.1.Title": "Rocket",
+  "Boosters.2.Title": "Rainbow Lollipop",
+  "Boosters.0.Hint": "The Hammer removes any element without wasting a move",
+  "Boosters.1.Hint": "The Rocket removes all elements in a line without wasting a move",
+  "Boosters.2.Hint": "The Rainbow Lollipop removes all the color matching elements without wasting a move",
+
+  "TileShop.sweetPack_b.Description": "500 coins, 1 hammer and 1 rocket!",
+
+  "StarChestWindow.title": "The Bag is opened!",
+  "StarChestLockedWindow.title": "The Bag is locked!",
+
+  "StartEpisodeWindow.Title0": "Greetings!",
+  "StartEpisodeWindow.Title1": "Coffee corner!",
+  "StartEpisodeWindow.Title2": "Suburbs!",
+  "StartEpisodeWindow.Title3": "Farm land!",
+  "StartEpisodeWindow.Title4": "Secret area!",
+  "StartEpisodeWindow.Title5": "Neon street!",
+  "StartEpisodeWindow.Title6": "Sweet Europe!",
+  "StartEpisodeWindow.Title7": "Vive la France!",
+  "StartEpisodeWindow.Title8": "Big city life!",
+  "StartEpisodeWindow.Title9": "Big Apple!",
+  "StartEpisodeWindow.Title10": "Sandy beach!",
+  "StartEpisodeWindow.Title11": "Bikers club!",
+  "StartEpisodeWindow.Title12": "Time to refuel!",
+  "StartEpisodeWindow.Title13": "Tea park!",
+  "StartEpisodeWindow.Title14": "Quiet place!",
+  "StartEpisodeWindow.Title15": "Capital D.C.!",
+  "StartEpisodeWindow.Title16": "School backyard!",
+  "StartEpisodeWindow.Title17": "Snowplace!",
+  "StartEpisodeWindow.Title18": "Snowfight!",
+  "StartEpisodeWindow.Title19": "Hot ice!",
+  "StartEpisodeWindow.Title20": "Snow and fun!",
+  "StartEpisodeWindow.Title21": "Hotel at the foot!",
+  "StartEpisodeWindow.Title22": "Sawmill!",
+  "StartEpisodeWindow.Title23": "Passable swamp!",
+  "StartEpisodeWindow.Title24": "Time for scary stories!",
+  "StartEpisodeWindow.Title25": "Local waterfall!",
+  "StartEpisodeWindow.Title26": "Bank street!",
+  "StartEpisodeWindow.Title27": "Warm up time!",
+  "StartEpisodeWindow.Title28": "Yacht Club!",
+  "StartEpisodeWindow.Title29": "Pit stop!",
+  "StartEpisodeWindow.Title30": "Warm up the wheels!",
+  "StartEpisodeWindow.Title31": "Fire station!",
+  "StartEpisodeWindow.Title32": "Amusement park!",
+  "StartEpisodeWindow.Title33": "First aid!",
+  "StartEpisodeWindow.Title34": "Let's roll!",
+  "StartEpisodeWindow.Title35": "Ancient Rome!",
+  "StartEpisodeWindow.Title36": "Coliseum!",
+  
+  "StartEpisodeWindow.Text0": "Hi! Sugar heroes are happy to greet You, the new comer! My friends and I like to have fun. Would You like to join us?",
+  "StartEpisodeWindow.Text1": "Don't sleep! Just look around and You will find something to have fun with!",
+  "StartEpisodeWindow.Text2": "Nice place to have fun! Let's see what we've got here!",
+  "StartEpisodeWindow.Text3": "Did I mention that I grew up on a farm? Watch me - I'm a farmer!",
+  "StartEpisodeWindow.Text4": "Tsss! It's a secret area. Just be quiet and we might be able to have fun there!",
+  "StartEpisodeWindow.Text5": "Can you feel it in the air? The neon light itself wants to show us the way to a new adventure!",
+  "StartEpisodeWindow.Text6": "M-m-m! Sweet Europe! I have so many great memories about this place! Try keeping up with me!",
+  "StartEpisodeWindow.Text7": "What a wonderful place! Let's go, I'll show you the sweet alleys!",
+  "StartEpisodeWindow.Text8": "It's a big city! Take my hand! I will lead the way!",
+  "StartEpisodeWindow.Text9": "Amazing! A big apple for the big people like us!",
+  "StartEpisodeWindow.Text10": "Wow! It is a great place to relax and enjoy the ocean view!",
+  "StartEpisodeWindow.Text11": "We're stepping on the dangerous territory! Be careful if you don't want to mess with the bad guys!",
+  "StartEpisodeWindow.Text12": "We've gone quite far and it is time to recharge. Look around and maybe you could find something interesting!",
+  "StartEpisodeWindow.Text13": "Would you like a cup of tea? Please, don't tell me that you prefer coffee! Not here!",
+  "StartEpisodeWindow.Text14": "I'm a bit tired of all this fuss. Let's just take a walk and try to avoid the adventures for a while.",
+  "StartEpisodeWindow.Text15": "Make sure to dress properly for a stroll in the city!",
+  "StartEpisodeWindow.Text16": "Relax! We're not here to study - we're here to have fun!",
+  "StartEpisodeWindow.Text17": "There is snow everywhere! What are you waiting for! Let's make snow angels!",
+  "StartEpisodeWindow.Text18": "Have you ever made a snowball? I made a bunch of them!",
+  "StartEpisodeWindow.Text19": "I'm so happy that we are finally here! Now I can show you how good I am on the ice!",
+  "StartEpisodeWindow.Text20": "It's a perfect day to have fun! There are many things that will help us do that!",
+  "StartEpisodeWindow.Text21": "It's a great place to catch a breath! Let's stay here for a while!",
+  "StartEpisodeWindow.Text22": "Wow! Just look at what we have accomplished! Let's just not forget to be cautious.",
+  "StartEpisodeWindow.Text23": "Don't be scared! I know this swamp like the back of my hand! Just keep close and you will be alright!",
+  "StartEpisodeWindow.Text24": "I have a couple of stories to tell by the bonfire. Move closer if you don't want to miss anything!",
+  "StartEpisodeWindow.Text25": "We have reached the local landmark. It is an actual waterfall! Yes, it's small but it's real!",
+  "StartEpisodeWindow.Text26": "Straighten your back! Let's walk like we own this place.",
+  "StartEpisodeWindow.Text27": "Don't you think that it's a great place for practicing? Me too!",
+  "StartEpisodeWindow.Text28": "Fresh air and sea breeze... What could be better on such sunny day!",
+  "StartEpisodeWindow.Text29": "Even the most reliable mechanisms fail. No need to panic though!",
+  "StartEpisodeWindow.Text30": "Sometimes it takes preparation to get ahead from the start!",
+  "StartEpisodeWindow.Text31": "I have always admired noble heroes. There is an uncanny resemblance between them and me!",
+  "StartEpisodeWindow.Text32": "I understand that we don't need a dedicated place to have fun but I just can't get past this park!",
+  "StartEpisodeWindow.Text33": "Don't worry! No harm done. Disease prevention is the best medicine!",
+  "StartEpisodeWindow.Text34": "You don't really think that our adventure cannot get any better? We just need to take care of one little bit of business before it happens!",
+  "StartEpisodeWindow.Text35": "Well, it's not that ancient anymore but there are still so many pleasant things to do here!",
+  "StartEpisodeWindow.Text36": "It is our duty as the best ones here to visit this place!",
+
+  "FinishEpisodeWindow.Title": "Episode completed",
+  "FinishEpisodeWindow.Text0": "Great job! You're a fantastic player! Come with us and we will teach you some new tricks!",
+  "FinishEpisodeWindow.Text1": "Oh, yeah! Another easy episode for the greatest player of all time! Let's see how you will deal with the next one!",
+  "FinishEpisodeWindow.Text2": "This place is nice but we have more things to do. Let's go!",
+  "FinishEpisodeWindow.Text3": "It's too easy for you! Don't be shy, let's see what's coming next!",
+  "FinishEpisodeWindow.Text4": "Woo-hoo! Good deeds should be done in a good way!",
+  "FinishEpisodeWindow.Text5": "As I mentioned before we can't get lost until the lights are on!",
+  "FinishEpisodeWindow.Text6": "I thought I've lost you but here You are! Let's go!",
+  "FinishEpisodeWindow.Text7": "Am I right? It's a magic place for travellers like us!",
+  "FinishEpisodeWindow.Text8": "It's so nice spending time with you! Please, do not be gone for too long!",
+  "FinishEpisodeWindow.Text9": "I think we're done here! There is so much more ahead of us, though! So, please, don't take your time!",
+  "FinishEpisodeWindow.Text10": "Don't get too comfortable! New adventures are waiting for us!",
+  "FinishEpisodeWindow.Text11": "You're a great problem solver! I think your skills will help us a lot as we go!",
+  "FinishEpisodeWindow.Text12": "We are ready to move! Let's not waste another second!",
+  "FinishEpisodeWindow.Text13": "We did it! It was fun but not as fun as traveling with you! Let's see what happens next.",
+  "FinishEpisodeWindow.Text14": "Not bad! You are the best even at having rest!",
+  "FinishEpisodeWindow.Text15": "Nice! This background looks good on you!",
+  "FinishEpisodeWindow.Text16": "Alright! Nobody could have done it better!",
+  "FinishEpisodeWindow.Text17": "Great moves! Are you a master of snow by any chance? Let's see how you handle something more challenging!",
+  "FinishEpisodeWindow.Text18": "Nice place to have fun! So much snow here! But we must move forward!",
+  "FinishEpisodeWindow.Text19": "It's been a long time since I've seen anyone as good as you!",
+  "FinishEpisodeWindow.Text20": "It's a nice day but we can make it even better! It's time to continue our journey.",
+  "FinishEpisodeWindow.Text21": "I see that everyone is well rested. It's time to go!",
+  "FinishEpisodeWindow.Text22": "Everyone is alive and well. That is the only thing that matters. Let's bounce!",
+  "FinishEpisodeWindow.Text23": "I can see that you are ready to deal with the problems all by yourself. Great job!",
+  "FinishEpisodeWindow.Text24": "Wow, how cool is that to just sit here and drink coffee by the fire!",
+  "FinishEpisodeWindow.Text25": "I am a little tired of sightseeing. Especially since there was only one landmark so far!",
+  "FinishEpisodeWindow.Text26": "Well done! It feels like we a some kind of real world bankers. Just as busy and important.",
+  "FinishEpisodeWindow.Text27": "Great! I feel an energy surge. It is time for new achievements!",
+  "FinishEpisodeWindow.Text28": "I think you should not stay here any longer or you will catch a cold!",
+  "FinishEpisodeWindow.Text29": "You see! Everything has ended well. Just as I said it will!",
+  "FinishEpisodeWindow.Text30": "Awesome! I always knew that warming up before a mission is very important!",
+  "FinishEpisodeWindow.Text31": "Excellent! Everything is going well!",
+  "FinishEpisodeWindow.Text32": "How wonderful! I have always been a fan of having fun in right place at the right time!",
+  "FinishEpisodeWindow.Text33": "Everyone is alive and in good health. Nothing else matters. Now it's time to hit the road and seek our next breathtaking adventure!",
+  "FinishEpisodeWindow.Text34": "Tanks are full and plane is ready to takeoff! A little bit of turbulence and we are ready to discover the new lands!",
+  "FinishEpisodeWindow.Text35": "I think we need more time to visit all the places here but time is money! Let's not waste it!",
+  "FinishEpisodeWindow.Text36": "Can you feel the power of the fallen heroes? We are real warriors now!",
+
+  "AddMovesWindow.mission.MagicTournament": "You will lose all the minerals",
+  "AddMovesWindow.missionGiveUp.MagicTournament": "Do You really want to give up? You will lose all the minerals!",
+
+  "AddMovesWindow.mission.RoseTournament": "You will lose all the crowns",
+  "AddMovesWindow.missionGiveUp.RoseTournament": "Do You really want to give up? You will lose all the crowns!",
+
+  "AddMovesWindow.mission.TulpanTournament": "You will lose all the tubes",
+  "AddMovesWindow.missionGiveUp.TulpanTournament": "Do You really want to give up? You will lose all the tubes!",
+  "Easter.AddMovesWindow.mission.TulpanTournament": "You will lose all the eggs",
+  "Easter.AddMovesWindow.missionGiveUp.TulpanTournament": "Do You really want to give up? You will lose all the eggs!",
+  "Memorial.AddMovesWindow.mission.TulpanTournament": "You will lose all the shells",
+  "Memorial.AddMovesWindow.missionGiveUp.TulpanTournament": "Do You really want to give up? You will lose all the shells!",
+
+  "AddBombMovesWindow.title": "The can is about to explode!",
+  "AddBombMovesWindow.addMoves": "Add %{moves} moves to all Soda Cans?",
+  "outOfBombMovesHint": "Oops, the Can is about to blow up! Don't worry - you can always cool it down! Try it for free the first time!",
+
+  "DailyTask.8.Title": "Use the Rainbow Lollipop",
+
+  "DailyTask.14.Element.cell_fish": "Weights",
+  "DailyTask.14.Element.flower_cell": "Banana",
+  "DailyTask.14.Element.nut_cell_0": "Acorn",
+  "DailyTask.14.Element.!": "Sticker",
+  "DailyTask.14.Element.mouse_cell": "Pinguin in the fridge",
+  "DailyTask.14.Element.lollipop": "Chameleons",
+  "DailyTask.14.Element.dog_cell": "Bears",
+  "DailyTask.14.Element.color_cookie_man": "Clowns",
+  "DailyTask.14.Element.truffle": "Icing roses",
+  "DailyTask.14.Element.cookie_man": "Pizza",
+  "DailyTask.14.Element.@": "Grass",
+  "DailyTask.14.Element.cake_cell": "Darts",
+  "DailyTask.14.Element.dragon_cell": "Elephant",
+  "DailyTask.14.Element.muffin_goal_cell": "Duck",
+  "DailyTask.14.Element.waffle": "Cocktail",
+
+  "Missions.MagicTournament.Title": "Minerals Boom",
+  "Missions.MagicTournament.Rules1": "Combine four or more elements to earn minerals!",
+  "Missions.MagicTournament.AnimationMainTextWin": "WHAT? DID YOU GET THEM?! Nice!! Your reward, as I promised. See you!",
+  "Missions.MagicTournament.AnimationMainTextLose": "WHAT? You didn’t get enough, did you?! DON’T WORRY! You will do better next time. Good luck!",
+  "Missions.MagicTournament.AnimationMainTextInfo0": "CAN YOU HEAR ME?! I worked on a mine, there was a BIG BANG and now it is all GONE!",
+  "Missions.MagicTournament.AnimationMainTextInfo1": "But we need these minerals! I have asked everybody to help dig them up! The best miners will get rewards!",
+
+  "Missions.RoseTournament.Title": "Royal Tournament",
+  "Missions.RoseTournament.Rules1": "Collect as many Crowns as you can to become a King!",
+  "Missions.RoseTournament.AnimationMainTextWin": "Let’s see what you've got! Hmm… Not bad. You have significantly impacted the scientific society. Here is your payment!",
+  "Missions.RoseTournament.AnimationMainTextLose": "I hope you will try harder next time! There are still many artefacts around the world!",
+  "Missions.RoseTournament.AnimationMainTextInfo0": "Do you know me? Yes, I’m the best archaeologist in the world! But it doesn’t matter now.",
+  "Missions.RoseTournament.AnimationMainTextInfo1": "Everyone's here to partake in my challenge which is to collect ancient crowns! Claim your reward by being the best!",
+
+  "Missions.TulpanTournament.Title": "Tubes Tournament",
+  "Missions.TulpanTournament.Rules1": "Match a line next to the tubes to collect them!",
+  "Missions.TulpanTournament.AnimationMainTextWin": "Oh, you got it! Good! So-o-o good!! Here, take it as a reward for your loyalty. Don’t tell anyone you saw me. Later!",
+  "Missions.TulpanTournament.AnimationMainTextLose": "Did you get it? Oh, it’s not enough for the test. Sorry, no presents for you today. Maybe you will get lucky next time.",
+  "Missions.TulpanTournament.AnimationMainTextInfo0": "Look! I have found a way to produce antimatter! But I need a lot of chemicals to conduct tests!",
+  "Missions.TulpanTournament.AnimationMainTextInfo1": "Let’s see which one of you will contribute the most to my experiment! Top players will be rewarded!",
+
+  "minesweeper.warning": "Warning! %{near} bombs around!",
+  "minesweeper.moves": "You have %{moves} moves left",
+  "minesweeper.finish": "Play one more time!",
+  "minesweeper.text": "Current Score:",
+  "minesweeper.prize": "Mined: ",
+  "MiniGameWindow.Title": "Daily draw",
+  "MiniGameWindow.Text": "Choose one of the tickets!",
+  "MiniGameWindow.Text2": "See you tomorrow!",
+
+  "Forces.Gun": "Do you need some air support? The first time is FREE!",
+  "Shop.GunShot.Title": "Air support",
+  "Shop.GunShot.Description": "Removes a bunch of sweets from the field!",
+  "Shop.GunShot.BoughtMessage": "You bought Air support!",
+
+  "Shop.AddMoves1.Description": "Five moves and a free rainbow lollipop!",
+  "Shop.AddMoves2.Description": "Ten moves and a free rainbow lollipop!",
+  "Shop.AddMoves3.Description": "15 moves and a free rainbow lollipop!",
+  "Shop.AddMoves5.Description": "15 moves and two free rainbow lollipops!",
+
+  "StoryRulesWindow.Title": "How does it work?",
+  "StoryRulesWindow.text2": "Complete special levels and get all three stars to affect the world around you!",
+  "StoryRulesWindow.text3": "Complete the levels",
+  "StoryRulesWindow.text4": "Get a badge",
+  "StoryRulesWindow.text1": "Help the town to get a reward!",
+
+  "Forces.StoryButton": "Press the button and see what will happen!",
+  
+  "ExpInfoWindow.Title": "Sugar soda",
+  "ExpInfoWindow.Message": "Complete levels, play daily games, finish daily tasks and win tournaments to collect sugar soda. Harder levels come with extra soda!",
+  
+  "StartEpisodeWindow.Title37": "Venice!",
+  "StartEpisodeWindow.Text37": "What a romantic place it is! The local air is filled with the serenades!",
+  "FinishEpisodeWindow.Text37": "We can have a good rests here but we didn't come here to relax!",
+
+  "StartEpisodeWindow.Title38": "Victorian style!",
+  "StartEpisodeWindow.Text38": "I can't resist the aesthetics of the Victorian era! What is you take on the subject?",
+  "FinishEpisodeWindow.Text38": "What an eye-pleasing sight! I wonder what awaits us next?",
+
+  "level556TutorialStep1": "Match a line to turn on a transformer!",
+  "level556TutorialStep2": "Be careful! If you match another line next to the transformer it will turn it off!",
+  
+    "StartEpisodeWindow.Text-6": "Wow! Just look at this Christmas tree! It's so huge and awesome! Let's see what we can find underneath it!",
+  "FinishEpisodeWindow.Text-6": "I love Christmas so much! It's the best time of the year!",
+  "StartEpisodeWindow.Title-6": "Marry Christmas!",
+
+  "level1XmasStep1": "Match the sweets next to Santa to collect him! Do it as many times as displayed on the counter below.",
+  "level3XmasStep1": "Fly is blocking an element. Match a line with this element to get rid of the fly.",
+  "level4XmasStep1": "To open the bag match a line next to it. The same applies to the bins!",
+
+  "level1TutorialStep1": "Collect cakes and jellies! Note that you can add extra count to the goal elements by matching lines next to them!",
+  "level2TutorialStep1": "Now you have a hero! Match a line of four identical elements to call him on the board!",
+  "level2TutorialStep2": "Line up the hero with the color matching elements to activate him!",
+  "level3TutorialStep1": "Match a line with five elements to make a rainbow lollipop!",
+  "level3TutorialStep2": "Swap the lollipop with any element to remove all the elements of the same color from the field!",
+  "level4TutorialStep1": "Make lines on the cells with bushes to collect it.",
+  "level5TutorialStep1": "Another hero! Let's summon him by matching four watermelons! Do not forget to activate the hero!",
+  "level6TutorialStep1": "To open the bag match a line next to it. The same applies to the containers!",
+  "level7TutorialStep1": "The new hero has joined us! Call him by matching a line of four yellow elements! Then activate him!",
+  "level8TutorialStep1": "It is time for crazy combos! Swap two lollipops with each other to blow up the entire field",
+  "level9TutorialStep1": "The great warrior will reveal himself if you match a line of four green elements! Activate him to see what is he capable of!",
+  "level10TutorialStep1": "Collect the necessary amount of blue elements as displayed on the counter below the fridge to reach the goal.",
+  "level12TutorialStep1": "Fly is blocking an element. Match a line with this element to get rid of the fly.",
+  "level13TutorialStep1": "The Hammer is available! It will collect any single sweet from any chosen cell. Just hit on it!",
+  "level13TutorialStep2": "Use the Hammer to collect the bush by choosing a cell with it!",
+  
+  "StartEpisodeWindow.Title39": "Training time!",
+  "StartEpisodeWindow.Text39": "Always stay fit and no obstacle will stop you!",
+  "FinishEpisodeWindow.Text39": "Great, let's take a little break and then move on!",
+
+  "StartEpisodeWindow.Title40": "Fancy a bite?",
+  "StartEpisodeWindow.Text40": "It never hurts to refuel the tank after training by taking a bite!",
+  "FinishEpisodeWindow.Text40": "Great choice! It seems that it is time for new adventures!",
+  
+  "level586TutorialStep1": "Match a line to get rid of a bush!",
+  "level586TutorialStep2": "Look! We've found a bird! Line up the grapes to collect it!",
+
+  "Shop.BuyExp10.Title": "Ten Sugar Sodas",
+  "Shop.BuyExp10.Description": "Small sugar soda pack - 10 sugar sodas",
+  "Shop.BuyExp10.BoughtMessage": "You bought ten sugar sodas",
+
+  "Shop.BuyExp150.Title": "150 Sugar Sodas",
+  "Shop.BuyExp150.Description": "Huge sugar soda pack - 150 sugar sodas",
+  "Shop.BuyExp150.BoughtMessage": "You bought 150 sugar sodas",
+  "ExpInfoWindow.BuyMessage": "Or You can buy Sugar Soda right now!",
+  
+  "level616TutorialStep1": "Chameleons! They change color with every move! Match a line to see what happens!",
+  "level616TutorialStep2": "Chameleons have changed their color! Notice that they do that in a particular order!",
+  
+  "StartEpisodeWindow.Title41": "Gold mines!",
+  "StartEpisodeWindow.Text41": "Surely there is a lot of interesting stuff in these mines!",
+  "FinishEpisodeWindow.Text41": "Our journey is becoming more exciting!",
+
+  "StartEpisodeWindow.Title42": "House in the outskirts!",
+  "StartEpisodeWindow.Text42": "What a wonderful house! I am curious if the housemaster is hospitable?",
+  "FinishEpisodeWindow.Text42": "He is very good at keeping company! Although I understood almost nothing of what he said!",
+  
+  "StartEpisodeWindow.Title43": "Time for pizza!",
+  "StartEpisodeWindow.Text43": "No matter how determined we are it is necessary sometimes to step aside and relax!",
+  "FinishEpisodeWindow.Text43": "Great! After having a rest we will be able to do twice as much!",
+
+  "StartEpisodeWindow.Title44": "Don't stand in the way!",
+  "StartEpisodeWindow.Text44": "Sometimes you should be careful at taking risks. But it does not apply to me!",
+  "FinishEpisodeWindow.Text44": "The risk is always justified when it comes to such brave and wise travelers like us!",
+
+  "StartEpisodeWindow.Title45": "Sunny day!",
+  "StartEpisodeWindow.Text45": "It is a great place to relax but it's even more suitable for having fun!",
+  "FinishEpisodeWindow.Text45": "We've had a great time! And the day itself was nice and beautiful!",
+
+  "StartEpisodeWindow.Title46": "Beach season!",
+  "StartEpisodeWindow.Text46": "It's time to lay on the sand and think about the eternal! Or to just have fun!",
+  "FinishEpisodeWindow.Text46": "Great choice! I can see that you have a big inclination towards having fun. Me too!",
+  
+  "level646TutorialStep1": "It's a decorated wrap! Match a line using the elements of the same color as the one in the wrapper to remove a ribbon.",
+  "level676TutorialStep1": "The package contains something interesting! Line up the elements next to the color matching parcel to see what's inside!",
+  "level706TutorialStep1": "Look's like the bear is fond of honey and croissants! Match a line of jars to feed it!",
+  
+  "StartEpisodeWindow.Title47": "Cruise!",
+  "StartEpisodeWindow.Text47": "Are you ready for a long voyage? Of course you are!",
+  "FinishEpisodeWindow.Text47": "Boundless ocean filled with breaths of fresh wind is ahead of us!",
+
+  "StartEpisodeWindow.Title48": "Uninhabited islands!",
+  "StartEpisodeWindow.Text48": "It would be so much fun visiting these islands!",
+  "FinishEpisodeWindow.Text48": "Well done! Our adventure just became even more interesting!",
+  
+  "StartEpisodeWindow.Title49": "Coastal Paradise!",
+  "StartEpisodeWindow.Text49": "Bright Sun and Golden Sand is everything you need to enjoy life!",
+  "FinishEpisodeWindow.Text49": "But not us! Real travellers live for adrenalin!",
+  
+  "StartEpisodeWindow.Title50": "Uptown!",
+  "StartEpisodeWindow.Text50": "Even in the midst of the most insane journey there is always a chance to find yourself on the most ordinary street!",
+  "FinishEpisodeWindow.Text50": "There is nothing left for us to do here! Let's move on!",
+  
+  "StartEpisodeWindow.Title51": "City Park!",
+  "StartEpisodeWindow.Text51": "We should behave ourselves. It's a city park after all!",
+  "FinishEpisodeWindow.Text51": "Not bad! But surely we can do even better!",
+  
+  "StartEpisodeWindow.Title52": "Apple trees!",
+  "StartEpisodeWindow.Text52": "Is it allowed to swim in such weather conditions? I think I'll try anyway!",
+  "FinishEpisodeWindow.Text52": "It is so refreshing! Want to try? Well, if not, then let's move on!",
+  
+  "level736TutorialStep1": "To collect a rosette line up the elements of the same color as the cake's top layer three times!",
+  "level766TutorialStep1": "Clown climbs up and disappears when he gets to the top! When it happens you lose a move! Collect him by making a line with the clown and other color matching elements!",
+  "level811TutorialStep1": "Create a line with a bomb and other color matching elements three times to blow it up! Let's make the first match!",
+  "level811TutorialStep2": "Now match the second line!",
+  "level811TutorialStep3": "And the final one!",
+	
+  "StartEpisodeWindow.Title53": "Forest jungle!",
+  "StartEpisodeWindow.Text53": "Wow! What a wonderful sight! An impenetrable forest! Surely we will find adventure there!",
+  "FinishEpisodeWindow.Text53": "Hmm ... I was hoping for more. Maybe we need to go deeper! Let's roll!",
+	
+  "StartEpisodeWindow.Title54": "Night camping!",
+  "StartEpisodeWindow.Text54": "Let's stop here and wait for the adventure! I think it will not make us wait!",
+  "FinishEpisodeWindow.Text54": "Not bad! But it could have been better. I think we will find what we are looking for next time!",
+	
+  "StartEpisodeWindow.Title55": "Let's rock!",
+  "StartEpisodeWindow.Text55": "Nothing is as cheerful as good music! Oh yeah! Let's go behind the scene!",
+  "FinishEpisodeWindow.Text55": "Like this! Well played, my friend! I think it's time for us to shake things up!",
+	
+  "StartEpisodeWindow.Title56": "Movie time!",
+  "StartEpisodeWindow.Text56": "Shush! This is my favourite scene! Just watch!",
+  "FinishEpisodeWindow.Text56": "I have always loved westerns! They have everything a good movie needs!",
+	
+  "StartEpisodeWindow.Title57": "Siesta!",
+  "StartEpisodeWindow.Text57": "I'm tired ... I think you can handle everything by yourself. Goodnight!",
+  "FinishEpisodeWindow.Text57": "I hope you had an amazing dream like I did! Let's go!",
+
+  "StartEpisodeWindow.Title58": "The voice of the streets!",
+  "StartEpisodeWindow.Text58": "Let's walk around this district and admire how big the city is!",
+  "FinishEpisodeWindow.Text58": "Not bad! I think the city is ready to be on its own so we shall go!",
+	
+  "level856TutorialStep1": "Match a line using the elements of the same color as the one behind bars to get it out!",
+	
+  "StartEpisodeWindow.Title59": "Hero's monument!",
+  "StartEpisodeWindow.Text59": "Salut the great hero! What did he do? I do not know but it must have been something worthy if he has a whole monument!",
+  "FinishEpisodeWindow.Text59": "There is no need for too much sentiment. Country remembers its heroes. But it is time for new ones!", 
+  
+  "StartEpisodeWindow.Title60": "Lunch break!",
+  "StartEpisodeWindow.Text60": "Snack street is good place to have a bite before moving on!",
+  "FinishEpisodeWindow.Text60": "I don't know about you but I'm pretty full! Are you? In that case, let's move!",
+	
+  "StartEpisodeWindow.Title61": "National Library!",
+  "StartEpisodeWindow.Text61": "Real heroes don't have to be the strongest ones. They should be the smartest!",
+  "FinishEpisodeWindow.Text61": "I think I'm getting smarter from just passing by the library!", 
+  
+  "StartEpisodeWindow.Title62": "The fountain of power!",
+  "StartEpisodeWindow.Text62": "Wait! I need some time to rest. This fountain is just everything I was looking for!",
+  "FinishEpisodeWindow.Text62": "Alright! Now I'm ready to show you what it means to be a real hero!",
+	
+  "StartEpisodeWindow.Title63": "Secret object!",
+  "StartEpisodeWindow.Text63": "Don't let this place trick you. It's not abandoned. It's just very secret!",
+  "FinishEpisodeWindow.Text63": "Well, we've managed to get past without any problems! Go ahead!",
+
+  "StartEpisodeWindow.Title64": "City dead end!",
+  "StartEpisodeWindow.Text64": "Not a bad place ... Although, let's stay low here.",
+  "FinishEpisodeWindow.Text64": "Let's find another place. The more adventurous one!",
+
+  "SubscriptionWindow.AnimationRightText": "ONE SODA",
+
+  "StartEpisodeWindow.Title65": "Waiting Hall!",
+  "StartEpisodeWindow.Text65": "We should not waste our time while waiting at the station. Let's look around and find what we can do!",
+  "FinishEpisodeWindow.Text65": "Nice! It was quite a successful walk! I think there is nothing else for us here. Let's bounce!",
+	
+  "StartEpisodeWindow.Title66": "Fancy a picnic?",
+  "StartEpisodeWindow.Text66": "This place is a good. We can relax or just do our thing here. Shall we play?",
+  "FinishEpisodeWindow.Text66": "A worthy result for a worthy clash! We deserve a little encouragement. Let's rest and then move on!",
+	
+  "StartEpisodeWindow.Title67": "Wild Canyon!",
+  "StartEpisodeWindow.Text67": "Be careful! The fact that it is just a stream in the middle of a desert does not necessarily mean that it's harmless!",
+  "FinishEpisodeWindow.Text67": "You did great! Such skill deserves some recognition. From now on, you have my respect!",
+	
+  "level976TutorialStep1": "It's a conveyor! It moves elements one cell forward with every move! Match a line to see what happens.",
+	
+  "StartEpisodeWindow.Title68": "Quick creek!",
+  "StartEpisodeWindow.Text68": "Be very careful in this area! One wrong move and you can say goodbye to your life!",
+  "FinishEpisodeWindow.Text68": "One, two, three! And all the obstacles are behind! Great! Let's move!",
+	
+  "StartEpisodeWindow.Title69": "Hero's Asylum!",
+  "StartEpisodeWindow.Text69": "Hush! This is a very secret place. Can you see the hero training!",
+  "FinishEpisodeWindow.Text69": "I would never have thought that training can be so difficult. It looks much easier from a bystander's point of view!",
+	
+  "StartEpisodeWindow.Title70": "The city needs a hero!",
+  "StartEpisodeWindow.Text70": "How come? Residents are suffering from the local gangs' oppression. Only a real hero can rescue them!",
+  "FinishEpisodeWindow.Text70": "There he is! Let’s see if he can rescue the poor woman from the hands of a gangster!",
+	
+  "level1036TutorialStep1": "To make more pavement combine the elements on the pavement with the identical ones outside of it.", 
+	
+  "StartEpisodeWindow.Title71": "Standoff!",
+  "StartEpisodeWindow.Text71": "Our hero rushed to rescue! Let's help him by showing the robber as many stars as possible!",
+  "FinishEpisodeWindow.Text71": "Well done! Our hero dealt with the evil again! Another victory under his belt",
+	
+  "StartEpisodeWindow.Title72": "He got what he deserved!",
+  "StartEpisodeWindow.Text72": "The Good defeated the Evil once again! Let's help our hero choose the punishment!",
+  "FinishEpisodeWindow.Text72": "Good choice! I also think that it's better to give the villain into the custody!",
+
+  "StartEpisodeWindow.Title73": "Legal punishment!",
+  "StartEpisodeWindow.Text73": "He will fit right in there! I believe the police knows better what to about it!",
+  "FinishEpisodeWindow.Text73": "How are you feeling now, sneaky villain? Everyone who decides to join the evil will be defeated!",
+ 
+  "level1096TutorialStep1": "Match a line next to a radioactive barrel to release a uranium rod from it!",
+
+  "StartEpisodeWindow.Title74": "Fire show!",
+  "StartEpisodeWindow.Text74": "Wow, let's get closer and take a better spot before the crowd intercepts the scene!",
+  "FinishEpisodeWindow.Text74": "What a bad luck! I hope the poor fella is not hurt! Wait, does he remind you of anyone?",
+	
+  "StartEpisodeWindow.Title75": "A fresh snack!",
+  "StartEpisodeWindow.Text75": "We just need to have a quick bite! The poor guy looks fine, let's talk to him!",
+  "FinishEpisodeWindow.Text75": "Look, it seems like someone is getting back on his feet!",
+	
+  "StartEpisodeWindow.Title76": "The hero is here!",
+  "StartEpisodeWindow.Text76": "This is our hero! The city can sleep soundly now but we should still keep an eye out!",
+  "FinishEpisodeWindow.Text76": "What will the hero do about his powers? This is a huge responsibility after all!",
+
+  "StartEpisodeWindow.Title77": "Spring picnic!",
+  "StartEpisodeWindow.Text77": "Such a wonderful weather for a picnic! Looks like someone feels the same! Let's get to know each other better!",
+  "FinishEpisodeWindow.Text77": "Look closely and you will see that he is quite similar to our friend! By the way, he also likes fireworks.",
+	
+  "StartEpisodeWindow.Title78": "Fireworks Store!",
+  "StartEpisodeWindow.Text78": "Looks like someone is going to celebrate today! I think you should let him do his thing.",
+  "FinishEpisodeWindow.Text78": "There is a great place to launch fireworks not far from here. Should we check it out?",
+	
+  "StartEpisodeWindow.Title79": "Dangerous area!",
+  "StartEpisodeWindow.Text79": "Look! He thinks that it's okay to take someone else's car without permission!",
+  "FinishEpisodeWindow.Text79": "Our hero fought off the meanest crooks! I am not sure if it was an accident or not but it really happened!",
+	
+  "level1156TutorialStep1": "Match all the necessary colors next to the firecrackers to blow them up. A line of a particular color will light a corresponding firecracker!",
+  
+  "StartEpisodeWindow.Title80": "Hero's time!",
+  "StartEpisodeWindow.Text80": "Look! Criminals are trying to rob the store!",
+  "FinishEpisodeWindow.Text80": "Our hero is already there! He will stop them!",
+	
+  "StartEpisodeWindow.Title81": "Are you ready?",
+  "StartEpisodeWindow.Text81": "You didn't really think that your shady business will remain unnoticed, did you?",
+  "FinishEpisodeWindow.Text81": "If there is any criminal activity going on around the streets our hero be there to stop it!",
+	
+  "StartEpisodeWindow.Title82": "Story twist!",
+  "StartEpisodeWindow.Text82": "Oh no! They've got him! We need to help him as soon as possible!",
+  "FinishEpisodeWindow.Text82": "Look! Another hero is here! He came to save our old friend!",
+	
+  "level1216TutorialStep1": "Match a line on a cell with the barbed wire to stop it from growing!",
+	
+  "StartEpisodeWindow.Title83": "Unexpected help!",
+  "StartEpisodeWindow.Text83": "Look! Another hero came to the rescue! Together they were able to defeat these dangerous criminals!",
+  "FinishEpisodeWindow.Text83": "The villains got what they deserved! May it be the lesson for them!",
+	
+  "StartEpisodeWindow.Title84": "Help the victims!",
+  "StartEpisodeWindow.Text84": "Heroes exist not only to fight off the evil but also to help the ones in need! Let's support the affected store's owner!",
+  "FinishEpisodeWindow.Text84": "Great! The shop owner really appreciated our help! We've restored his faith in good!",
+	
+  "StartEpisodeWindow.Title85": "Coffee break!",
+  "StartEpisodeWindow.Text85": "Every good deed requires a good rest!",
+  "FinishEpisodeWindow.Text85": "The rest definitely helps! There are so many interesting things ahead! Let's move!",
+	
+  "StartEpisodeWindow.Title86": "Crystal Park!",
+  "StartEpisodeWindow.Text86": "There are lots of amazing plants in this reserve! I think we should explore the local area more carefully!",
+  "FinishEpisodeWindow.Text86": "It feels like home here now! But I'm sure that the most interesting things are still ahead of us!",
+	
+  "StartEpisodeWindow.Title87": "An unexpected find!",
+  "StartEpisodeWindow.Text87": "Wow! Look at what our friend have found! Let's take the guitar with us! Music is always fun.",
+  "FinishEpisodeWindow.Text87": "Excellent! We're ready to move on! Don't forget our trophy. I think it will come in handy!",
+	
+  "level1276TutorialStep1": "Match a line next to a jug to fill it! And then match another line by the jug using the same colors to collect it!",
+	
+  "StartEpisodeWindow.Title88": "Notes of the soul!",
+  "StartEpisodeWindow.Text88": "Let's try our prize out! It sounds good! How about composing a melody?",
+  "FinishEpisodeWindow.Text88": "Wow! And I thought that all the talk about music performing miracles was an exaggeration!",
+	
+  "StartEpisodeWindow.Title89": "Music is our saviour!",
+  "StartEpisodeWindow.Text89": "It seems someone needs our help! Quick! A bit of zeal on our end and the poor bear will be saved!",
+  "FinishEpisodeWindow.Text89": "Here you go! Hold on tight, my dear friend! We will never give up on you!",
+	
+  "StartEpisodeWindow.Title90": "The music of life!",
+  "StartEpisodeWindow.Text90": "This is not a mere guitar! Its music spreads the melody of life into the world! Just listen!",
+  "FinishEpisodeWindow.Text90": "A couple of notes and a cute little bear is already fine! It's time to take him home!",
+	
+  "StartEpisodeWindow.Title91": "Bear glade!",
+  "StartEpisodeWindow.Text91": "We've made a new friend! I think you should take him home and make sure that nothing bad happens!",
+  "FinishEpisodeWindow.Text91": "I am so sorry that we have to go. But adventure will not wait! Let's move!",
+	
+  "StartEpisodeWindow.Title92": "New acquaintances!",
+  "StartEpisodeWindow.Text92": "Twilights can scare anyone! At that time of the day even an obvious way seems dangerous!",
+  "FinishEpisodeWindow.Text92": "Fears go away in good company and the music helps a lot too!",
+	
+  "StartEpisodeWindow.Title93": "Cozy tea-party!",
+  "StartEpisodeWindow.Text93": "That’s what I’m talking about! Hot tea and fun conversations! It’s a perfect way to end the day of any journey!",
+  "FinishEpisodeWindow.Text93": "A flaming bonfire accompanied by beautiful melodies will brighten up any evening!",
+	
+  "level1336TutorialStep1": "The bag scatters leaves after your every move. Avoid this by matching a line next to it!",
+  "level1396TutorialStep1": "You will lose your every fourth move to the Fries. Remove it from the field by matching a line nearby.",
+	
+  "StartEpisodeWindow.Title94": "Early dawn!",
+  "StartEpisodeWindow.Text94": "What a wonderful morning! But wait, what was that? We need to get across the river!",
+  "FinishEpisodeWindow.Text94": "Nice! Now we should move if we want to find out what it can possibly be! Quickly!",
+	
+  "StartEpisodeWindow.Title95": "Ancient ruins!",
+  "StartEpisodeWindow.Text95": "Our travellers have found a hammer among the ancient ruins! Not everyone was able to do that!",
+  "FinishEpisodeWindow.Text95": "Only the worthiest are endowed with power to hold the hammer! You can keep it but use it wisely, my dear friend!",
+	
+  "StartEpisodeWindow.Title96": "New abilities!",
+  "StartEpisodeWindow.Text96": "It's difficult enough to pick the magic hammer up the ground. But it's even harder to resist its power!",
+  "FinishEpisodeWindow.Text96": "We have to go! But can I first perform that amazing trick one last time? Please!",
+	
+  "level1411TutorialStep1": "Match a line next to the chip to add the stated amount of moves!",
+	
+  "StartEpisodeWindow.Title97": "Face off!",
+  "StartEpisodeWindow.Text97": "Try to pick this hammer up! You can't? That's the thing! You need to warm up first!",
+  "FinishEpisodeWindow.Text97": "The hammer only obeys the one who can handle it. Sure we'll will find something for ourselves too!",
+	
+  "StartEpisodeWindow.Title98": "Unexpected guests!",
+  "StartEpisodeWindow.Text98": "That bulldozer came from a nearby factory! They want to take away our land so we can no longer be here!",
+  "FinishEpisodeWindow.Text98": "We need to act quickly before they demolish the whole fair! What should we do?",
+	
+  "StartEpisodeWindow.Title99": "An adequate parry!",
+  "StartEpisodeWindow.Text99": "Come on! The creepers will hold off the bulldozer while you sneak from behind to finish it off!",
+  "FinishEpisodeWindow.Text99": "We are a great team! With our actions joint together we can overcome any obstacles!",
+	
+  "StartEpisodeWindow.Title100": "Honouring the heroes!",
+  "StartEpisodeWindow.Text100": "I always knew that heroes are among us! Now try getting through this joyful crowd!",
+  "FinishEpisodeWindow.Text100": "Wow, it's time to move on! Where do our heroes go next? Let's see!",
+	
+  "StartEpisodeWindow.Title101": "Attacking misstep!",
+  "StartEpisodeWindow.Text101": "One small oversight and you are immediately dismissed! Let's help Jelly to get out of this pickle!",
+  "FinishEpisodeWindow.Text101": "It's okay! Yes, he lost his job but big city and great potential are still with him!",
+	
+  "StartEpisodeWindow.Title102": "Great opportunities!",
+  "StartEpisodeWindow.Text102": "Come on! Let's try switching to the music! But be careful and measure you every step!",
+  "FinishEpisodeWindow.Text102": "Wow! What was that? He took breakdance to the next level! It looked like music went through our friend's body!",
+	
+  "StartEpisodeWindow.Title103": "Big disappointment!",
+  "StartEpisodeWindow.Text103": "Oh no! Poor jelly was left without his best friend - music! Let's try helping him find a way out!",
+  "FinishEpisodeWindow.Text103": "It seems like a solution has been found. You just need to take one final step forward to make everything happen!",
+	
+  "StartEpisodeWindow.Title104": "Exciting expectations!",
+  "StartEpisodeWindow.Text104": "Hurry up! I can't wait to get my boombox back. I need to take my mind off things and take a walk!",
+  "FinishEpisodeWindow.Text104": "Has the time come yet? It's taking infinity! Let's walk around the city center to get distracted!",
+	
+  "StartEpisodeWindow.Title105": "What a failure!",
+  "StartEpisodeWindow.Text105": "What a shame! The roll has accidentally slipped and now needs some help!",
+  "FinishEpisodeWindow.Text105": "What should we do? Who will help him? We need a hero who is able to control the wind and skyrocket into the sky like hurricane!",
+
+  "StartEpisodeWindow.Title106": "Heroic deed!",
+  "StartEpisodeWindow.Text106": "It takes a lot of courage to do what has to be done! And Jelly proved that he is capable of it! Should we take him with us?",
+  "FinishEpisodeWindow.Text106": "Good weather, good company and good deeds! Does it get any better?",
+	
+  "StartEpisodeWindow.Title107": "Local celebrity!",
+  "StartEpisodeWindow.Text107": "Wow! Apparently, the whole city is now talking about Jelly! But he is a modest guy who doesn't like too much attention. Let's try and escape all that fuss!",
+  "FinishEpisodeWindow.Text107": "Seems like we've managed to stay unnoticed! Everyone is so excited about what has happened that they forgot about the key figure!",
+	
+  "StartEpisodeWindow.Title108": "Under surveillance!",
+  "StartEpisodeWindow.Text108": "Wow! Don't you think that with this level of security there is something very interesting going on here? Let's go and see what is out there?",
+  "FinishEpisodeWindow.Text108": "Great! Let's keep sneaking. Imagine that we are the best spies in the world!",
+
+  "StartEpisodeWindow.Title109": "Secret lab!",
+  "StartEpisodeWindow.Text109": "Look at this chemistry lab! I am curious what is being produced here? Let's sneak inside!",
+  "FinishEpisodeWindow.Text109": "Wow! It's an actual secret chemistry! Be careful! Don't get acid stains, baby doctor!",
+	
+  "StartEpisodeWindow.Title110": "Sloppy Science!",
+  "StartEpisodeWindow.Text110": "Oh! What a mistake! Our dear scientist is covered with sweet chemicals. Let's try to walk around this puddle.",
+  "FinishEpisodeWindow.Text110": "I hope that nothing bad will happen to our new friend. Is there anything even more secretive ahead?",
+	
+  "StartEpisodeWindow.Title111": "Antagonist!",
+  "StartEpisodeWindow.Text111": "Wow! It looks like that the most terrible thing has happened! The scientist mutated into a super villain! Let's get out of here before he sees us!",
+  "FinishEpisodeWindow.Text111": "He missed us. Let's hurry to the exit! I hope the laboratory is secured enough to keep him locked!",
+
+  "MiniGameWindow.textTop": "Scratch and win!",
+  "MiniGameWindow.textBottom": "Huge prizes!!!",
+
+  "level1696TutorialStep1": "Match a line next to the foam to wash it off the toys!",
+
+  "StartEpisodeWindow.Title112": "City tease!",
+  "StartEpisodeWindow.Text112": "This villain is driving me crazy! He got out and captured the block full of civilians. We need to get in there and bring the reinforcements!",
+  "FinishEpisodeWindow.Text112": "Great! Let's keep moving to stop him from destroying the city and harming the innocent!",
+	
+  "StartEpisodeWindow.Title113": "You are surrounded!",
+  "StartEpisodeWindow.Text113": "You've got caught, villainous villain! We need to make sure that he doesn't make any sudden movements. Let's approach him from behind!",
+  "FinishEpisodeWindow.Text113": "Great, grab him! We have to get him to the lab for treatment.",
+	
+  "StartEpisodeWindow.Title114": "Bird in a cage!",
+  "StartEpisodeWindow.Text114": "Yeah! It serves you right! Sit quietly while the professor treats you and everything returns to normal. Come on, help the professor handle the cage.",
+  "FinishEpisodeWindow.Text114": "Fine! Let's hope that this mutation is reversible and that our dear scientist has nothing to worry about.",
+
+  "StartEpisodeWindow.Title115": "Severe consequences!",
+  "StartEpisodeWindow.Text115": "Seems like our buddy helped the reckless scientist. We should also assist him in dealing with everything that is about to unfold!",
+  "FinishEpisodeWindow.Text115": "Well done! But look at our genius! He realized that the next time he may not be able to defeat the villain without some support!",
+	
+  "StartEpisodeWindow.Title116": "Unexpected call!",
+  "StartEpisodeWindow.Text116": "Wow! From whom might this call be from? Old friend of ours doesn't seem to be too eager to pick up the phone. Maybe we should take his doubts more seriously?",
+  "FinishEpisodeWindow.Text116": "Hooray! All this panic was in vain! Someone just wanted to ask the professor for help. Will the hero's reply be positive?",
+	
+  "StartEpisodeWindow.Title117": "Warmest greetings!",
+  "StartEpisodeWindow.Text117": "Wow! Our hero feels great about his new abilities and it seems like he doesn't need anything else!",
+  "FinishEpisodeWindow.Text117": "But our hero is not indifferent to the fate of the civilians! Of course, if someone is in need he will be there at the drop of the hat!",
+	
+  "level1756TutorialStep1": "Match a line next to the sauce bottle as many times as displayed on the counter. It will make a shot after which the direction will be changed!",
+
+  "StartEpisodeWindow.Title118": "Team is required!",
+  "StartEpisodeWindow.Text118": "We need all the heroes! It's not just easier together  but it's also more fun! Would you like to join us, Mr Cupcake?",
+  "FinishEpisodeWindow.Text118": "We knew that you wouldn't say no to us! We are so excited! Hooray!",
+	
+  "StartEpisodeWindow.Title119": "Interrupted picnic!",
+  "StartEpisodeWindow.Text119": "Mmm, what a delicious smell! But it's not the time to enjoy our meals. It's time to use our superheroic superpowers!",
+  "FinishEpisodeWindow.Text119": "Awesome! Almost all the heroes are assembled and only our old friend is left to come!",
+	
+  "StartEpisodeWindow.Title120": "Move to the beat!",
+  "StartEpisodeWindow.Text120": "Like this! Move to the beat! But prick up your ears. Loud music can cause an important missed call!",
+  "FinishEpisodeWindow.Text120": "I like the fact that you can always call back even if you missed an important call! And now it's time to go!",
+
+  "StartEpisodeWindow.Title121": "Firework Call!",
+  "StartEpisodeWindow.Text121": "There is one more hero left! We need him to make our team the greatest and the most united team in the world. Can we reach him?",
+  "FinishEpisodeWindow.Text121": "It's good to have such a wonderful means of communication as a phone! Now the heroes are assembled!",
+	
+  "StartEpisodeWindow.Title122": "New acquaintances!",
+  "StartEpisodeWindow.Text122": "It's always nice to meet good people. Especially when you fight for a common cause!",
+  "FinishEpisodeWindow.Text122": "I wonder who gathered us all here and for what reason? What awaits us behind this door?",
+	
+  "StartEpisodeWindow.Title123": "Secret headquarters!",
+  "StartEpisodeWindow.Text123": "Wow! This are the secret headquarters! Surely they will tell us now what secrets exactly are they keeping here!",
+  "FinishEpisodeWindow.Text123": "Thought so! The Professor decided that it is necessary to assemble a team of supeheroes so supervillains will harm the city no more!",
+  
+  "level1816TutorialStep1": "Any element in the cage will be locked if it stays on corresponding cell for more than one move!",
+
+  "StartEpisodeWindow.Title124": "First try!",
+  "StartEpisodeWindow.Text124": "Come on! Show us what you've got, master of missiles! Aim precisely at the target!",
+  "FinishEpisodeWindow.Text124": "Not bad! But not good enough for a superhero! Concentrate and hit the bull's eye!",
+	
+  "StartEpisodeWindow.Title125": "The first difficulties!",
+  "StartEpisodeWindow.Text125": "Time to get yourself together! Imagine that you are being surrounded. What would you do?",
+  "FinishEpisodeWindow.Text125": "Get it together and you will succeed! I’m sure we can do it!",
+	
+  "StartEpisodeWindow.Title126": "No doubts!",
+  "StartEpisodeWindow.Text126": "The purple hero needs to move this tractor. Let's see if he can do it!",
+  "FinishEpisodeWindow.Text126": "No need to worry if you can't get something done. Be persistent and you will succeed!",
+
+  "TileShop.cellPack05.Title": "5x Hammer Pack",
+  "TileShop.linePack074.Title": "5x Rocket Pack",
+  "TileShop.colorPack10.Title": "5x Rainbow Lollipop Pack",
+  "TileShop.cellPack10.Title": "10x Hammer Pack",
+  "TileShop.linePack15.Title": "10x Rocket Pack",
+  "TileShop.colorPack20.Title": "10x Rainbow Lollipop Pack",
+
+  "TileShop.cellPack05.Description": "5x Hammers with amazing discount!",
+  "TileShop.linePack074.Description": "5x Rockets with amazing discount!",
+  "TileShop.colorPack10.Description": "5x Rainbow Lollipops with amazing discount!",
+  "TileShop.cellPack10.Description": "10x Hammers with amazing discount!",
+  "TileShop.linePack15.Description": "10x Rockets with amazing discount!",
+  "TileShop.colorPack20.Description": "10x Rainbow Lollipops with amazing discount!",
+
+  "Shop.cellPack05.boughtMessage": "You bought 5x Hammer Pack!",
+  "Shop.linePack074.boughtMessage": "You bought 5x Rocket Pack!",
+  "Shop.colorPack10.boughtMessage": "You bought 5x Rainbow Lollipop Pack!",
+  "Shop.cellPack10.boughtMessage": "You bought 10x Hammer Pack!",
+  "Shop.linePack15.boughtMessage": "You bought 10x Rocket Pack!",
+  "Shop.colorPack20.boughtMessage": "You bought 10x Rainbow Lollipop Pack!",
+	
+  "level1936TutorialStep1": "It is just a brick wall but it's immune to the explosions and cannot be moved.",
+
+  "StartEpisodeWindow.Title127": "The sound of power!",
+  "StartEpisodeWindow.Text127": "Let's help the blue hero gain some confidence! After all, he is unlikely to succeed without it!",
+  "FinishEpisodeWindow.Text127": "He seems to be getting a lot better! Give him a bit more time and everything will be as it should!",
+	
+  "StartEpisodeWindow.Title128": "Right on target!",
+  "StartEpisodeWindow.Text128": "Our friend is completely exhausted and can not hit the target! Complete the levels to help him!",
+  "FinishEpisodeWindow.Text128": "Well done! His training was not in vain. He is destined to succeed!",
+	
+  "StartEpisodeWindow.Title129": "Quick hit!",
+  "StartEpisodeWindow.Text129": "Donut improves his skills with every level completed. Let's hurry up and help him!",
+  "FinishEpisodeWindow.Text129": "That's what I call power! Donut is starting to strike faster and better! Great job!",
+
+  "TileShop.exp1.Title" : "25 Sugar Sodas",
+  "TileShop.exp1.Description": "25 sugar sodas with amazing discount!",
+  "Shop.exp1.boughtMessage": "You bought 25 sugar sodas!",
+
+  "TileShop.exp4.Title" : "50 Sugar Sodas",
+  "TileShop.exp4.Description": "50 sugar sodas with amazing discount!",
+  "Shop.exp4.boughtMessage": "You bought 50 sugar sodas!",
+
+  "TreasureSearchWindow.Title": "Treasure hunting!",
+  "TreasureSearchWindow.text": "There is an ancient map that leads to four keys. The legend says that those keys can unlock the chest of Thousand Treasures. Let's find out if it's true!",
+  "TreasureSearchWindow.Help.Title": "How does it work?",
+   "TreasureSearchWindow.Currency.Title": "No shovels left",
+  "TreasureSearchWindow.Currency.Text": "You have no shovels to open the map. Complete regular levels to get them!",
+  "TreasureSearchWindow.Help.text3": "Get shovels",
+  "TreasureSearchWindow.Help.text4": "Open map pieces",
+  "TreasureSearchWindow.Help.text1": "Find all keys",
+  "TreasureSearchWindow.Help.text2": "Get one shovel for completing a regular level and three shovels for beating the hard one! Use a shovel to open one of the map pieces! Find all four keys to open the chest and see what's inside!",
+
+  "StartEpisodeWindow.Title130": "Confident chord!",
+  "StartEpisodeWindow.Text130": "Patience is your best friend when it comes to honing a skill! Let's aid our hero on his journey!",
+  "FinishEpisodeWindow.Text130": "Check this out! Our hero is getting better and better! A bit of practice and he will become a real master!",
+	
+  "StartEpisodeWindow.Title131": "Good move!",
+  "StartEpisodeWindow.Text131": "Come on! Let's try to help another friend! The task is not easy but we are not afraid of difficulties!",
+  "FinishEpisodeWindow.Text131": "One accurate hit and the ball is in the pocket! Great job! Let's move on!",
+	
+  "StartEpisodeWindow.Title132": "Accurate hit!",
+  "StartEpisodeWindow.Text132": "Be careful with heavy objects! Let's start from short distances. It's just easier this way.",
+  "FinishEpisodeWindow.Text132": "Perfect hit! This is what we call mastery! With our help they can do anything!",
+
+  "StartEpisodeWindow.Title133": "Work out the hit!",
+  "StartEpisodeWindow.Text133": "Well, show me what you are capable of after training! This time, try your best!",
+  "FinishEpisodeWindow.Text133": "It turned out great! I think now our brave hero is ready for heroic deeds!",
+	
+  "StartEpisodeWindow.Title134": "Calm flame!",
+  "StartEpisodeWindow.Text134": "To control the flame you need to concentrate on it. Try to go through these torches!",
+  "FinishEpisodeWindow.Text134": "It seems like the hero of fire fully gained his strength. I can't wait to see him in action!",
+	
+  "StartEpisodeWindow.Title135": "Bull's Eye!",
+  "StartEpisodeWindow.Text135": "You will have to sweat a lot in order to make your every shot count! Well, this is not the time to retreat.",
+  "FinishEpisodeWindow.Text135": "Right on target! Our deadly shooter is finally ready for great things! Time for heroic feats!",
+
+  "StartEpisodeWindow.Title136": "Coffee break!",
+  "StartEpisodeWindow.Text136": "Great weather to relax after training and drink some coffee... Wait a minute! Look closer!",
+  "FinishEpisodeWindow.Text136": "Oh, these villains! You can’t let your guard down even for a second with them! Let's go, we have some evil to fight!",
+	
+  "StartEpisodeWindow.Title137": "Great strike!",
+  "StartEpisodeWindow.Text137": "Come on! It is time to test our skills in real conditions!",
+  "FinishEpisodeWindow.Text137": "Right on target! Extra training turned out to be benefitial. Ain't no mountain high enough to us!",
+	
+  "StartEpisodeWindow.Title138": "Lay still!",
+  "StartEpisodeWindow.Text138": "It's time to immobilize the villain and stop him from escaping! Let's go!",
+  "FinishEpisodeWindow.Text138": "Don't move, vile robber! Lie still where you are while we're getting the reinforcements!",
+
+  "StartEpisodeWindow.Title139": "Field Works!",
+  "StartEpisodeWindow.Text139": "There is no better way to rest than out in the fresh air! You can always have fun outdoors!",
+  "FinishEpisodeWindow.Text139": "Perfect! We are outside and also in such a company. What could be better?",
+	
+  "StartEpisodeWindow.Title140": "Activities!",
+  "StartEpisodeWindow.Text140": "Shall we continue to have fun? I agree! Activities out on the sports field will help us stay in shape!",
+  "FinishEpisodeWindow.Text140": "Wow, that was great! It seems like we are becoming true masters of everything! It would be a real crime to stop at that level!",
+	
+  "StartEpisodeWindow.Title141": "Showdown with bandits!",
+  "StartEpisodeWindow.Text141": "It seems we found a villains' den! Let's carefully examine this place. Maybe someone is still here and hiding!",
+  "FinishEpisodeWindow.Text141": "Great job! Now the villains will think twice before doing anything evil again!",
+
+  "StartEpisodeWindow.Title142": "Accident witness!",
+  "StartEpisodeWindow.Text142": "Wow! Look at that! In the midst of the day! You need to call the heroes so they can deal with him!",
+  "FinishEpisodeWindow.Text142": "Great! The heroes were on the lookout so they are already chasing the criminal. Try to keep up!",
+	
+  "StartEpisodeWindow.Title143": "Frustration of the sinister!",
+  "StartEpisodeWindow.Text143": "Well, let's see how the villain handles the arrival of reinforcements! We should focus on catching him!",
+  "FinishEpisodeWindow.Text143": "It worked! The robber is absolutely frustrated! Go ahead and grab him before he gets himself together!",
+	
+  "StartEpisodeWindow.Title144": "Fair end!",
+  "StartEpisodeWindow.Text144": "Now you need to make sure that the villain is handed over to the police! Keep an eye on him!",
+  "FinishEpisodeWindow.Text144": "Perfect! The villain must know his place. The one behind bars! I hope the city will get rid of the criminals soon!",
+  
+  "level2236TutorialStep1": "To remove the iron cover collect the elements of the required colors.",
+  "AddMovesWindow.lantern": "The Transmitter will lose its charge",
+  "AddMovesWindow.lanternGiveUp": "Do You really want to give up? Your Transmitter will lose its charge",
+  "LanternWindow.Title": "The Transmitter",
+  "LanternWindow.text": "Complete levels on the first try to get your hands on the Transmitter. Once you get it, useful things will appear on the gaming field at the beginning of new level. Keep winning or you might just lose it!",
+  "LanternWindow.force": "You've helped me so much and I'm finally ready to pay you back! Meet my latest invention: The Transmitter. I've set it up to only bring you the items you might need on your missions! Just keep being the best!",
+	
+  "StartEpisodeWindow.Title145": "Back to school!",
+  "StartEpisodeWindow.Text145": "Well, let's see how well the lessons were learned! Complete each task step by step!",
+  "FinishEpisodeWindow.Text145": "You've AAAced it! But it feels like we've sat behind the school walls for too long. It's time to breathe some fresh air!",
+
+  "StartEpisodeWindow.Title146": "Summer evening!",
+  "StartEpisodeWindow.Text146": "How nice is it to walk around the city in the evening? Especially when you're having fun with your best friends!",
+  "FinishEpisodeWindow.Text146": "It's crucial to not stand still when walking! Let's go, new adventures await!",
+	
+  "StartEpisodeWindow.Title147": "Night fireworks!",
+  "StartEpisodeWindow.Text147": "What an awesome firework! Let's look at it from different angles so we don't miss anything!",
+  "FinishEpisodeWindow.Text147": "It seems to me like a perfect ending for the perfect walk. I am sure everyone feels the same!",
+
+  "Lottery.text": "* For more information visit Sugar Heroes community",
+	
+  "StartEpisodeWindow.Title148": "Snow sculptures!",
+  "StartEpisodeWindow.Text148": "Look what sculptures our heroes made! Let's find a place where we can make our own!",
+  "FinishEpisodeWindow.Text148": "Fine! It remains only to figure out what we will do ... Let's think about it during a walk.",
+
+  "StartEpisodeWindow.Title149": "Ice moat!",
+  "StartEpisodeWindow.Text149": "Look! These are snow fortresses! Let's take part in the snow battles!",
+  "FinishEpisodeWindow.Text149": "Phew! This is what we had great fun! Snow fight invigorates and encourages new achievements!",
+	
+  "StartEpisodeWindow.Title150": "Playground!",
+  "StartEpisodeWindow.Text150": "It seems to me that a sports ground in the snow is only becoming more interesting! I think this is the place for games!",
+  "FinishEpisodeWindow.Text150": "Wow! Always knew that sitting still is not about us. Few people compare to us in games!",
+	
+  "StartEpisodeWindow.Title151": "Coffee break!",
+  "StartEpisodeWindow.Text151": "How well frolic in the snow! But do not get carried away - you can freeze a little. Hot coffee will warm us!",
+  "FinishEpisodeWindow.Text151": "Wow, how good! Coffee warmed and encouraged us and now we are ready for new adventures!",
+
+  "StartEpisodeWindow.Title152": "Winter ornithology!",
+  "StartEpisodeWindow.Text152": "Wonderful place to observe birds! Come on, go nearby to find the best place to watch.",
+  "FinishEpisodeWindow.Text152": "Have we finished all our business here? Then go ahead - I know what awaits us next and it is very interesting!",
+	
+  "StartEpisodeWindow.Title153": "City entertainment!",
+  "StartEpisodeWindow.Text153": "It doesn’t matter if no one can entertain us - we by ourselves are much more than happy!",
+  "FinishEpisodeWindow.Text153": "It’s not bad for us - to look for adventures and extract the best from them!",
+	
+  "StartEpisodeWindow.Title154": "Entrance to the maze!",
+  "StartEpisodeWindow.Text154": "More fun! We are at the very entrance to the maze. I wonder if we can go through it step by step? Let's try!",
+  "FinishEpisodeWindow.Text154": "Wow! How great it turned out! But it seems that the maze is not over yet. Forward!",
+
+  "StartEpisodeWindow.Title155": "The center of the maze!",
+  "StartEpisodeWindow.Text155": "This is beauty! Here you can play a lot! Let's not waste time talking!",
+  "FinishEpisodeWindow.Text155": "There you go! What a wonderful labyrinth! I hope something more interesting awaits us!",
+	
+  "StartEpisodeWindow.Title156": "Thaw!",
+  "StartEpisodeWindow.Text156": "While the snow has melted, you should not waste a minute - forward to the creek, ship the boats!",
+  "FinishEpisodeWindow.Text156": "We have made excellent navigators! I wonder where the compass will show this time.",
+	
+  "StartEpisodeWindow.Title157": "All aboard!",
+  "StartEpisodeWindow.Text157": "How much time we spent on the ground! It's time to experience new feelings!",
+  "FinishEpisodeWindow.Text157": "Wow sea wind and wave noise - what could be better? Give the mooring lines!",
+
+  "StartEpisodeWindow.Title158": "Dangerous reefs!",
+  "StartEpisodeWindow.Text158": "Be careful - dangerous reefs are everywhere. Let's go through them carefully, step by step!",
+  "FinishEpisodeWindow.Text158": "Great job! Dangerous area behind! And now forward, in full sail!",
+	
+  "StartEpisodeWindow.Title159": "Jolly Roger!",
+  "StartEpisodeWindow.Text159": "Pirates tried to capture a beautiful girl! We will not let them do this!",
+  "FinishEpisodeWindow.Text159": "Well done! The main thing is to come to the rescue in time and then everything will be fine!",
+	
+  "StartEpisodeWindow.Title160": "Free shipping!",
+  "StartEpisodeWindow.Text160": "What do you think we should do with the pirates? Yes, they should be told what they can’t do!",
+  "FinishEpisodeWindow.Text160": "I think they learned a lesson and can now go on. Only without a ship!",
+
+  "StartEpisodeWindow.Title161": "Sandy shores!",
+  "StartEpisodeWindow.Text161": "Wow, what a heat! I wonder where we landed? Need to look around!",
+  "FinishEpisodeWindow.Text161": "It seems our companion knows the way. For her! What awaits us next?",
+	
+  "StartEpisodeWindow.Title162": "Ancient values!",
+  "StartEpisodeWindow.Text162": "Just see what treasures are hiding in the sand! We just need to inspect everything more carefully!",
+  "FinishEpisodeWindow.Text162": "Here are the finds! It seems that the pharaohs only yesterday walked along these paths!",
+	
+  "StartEpisodeWindow.Title163": "Ancient mazes!",
+  "StartEpisodeWindow.Text163": "How interesting everything is here! But still it is worth sticking together so as not to get lost!",
+  "FinishEpisodeWindow.Text163": "There are so many exits that I don’t know where to go ... Maybe that way?",
+
+  "StartEpisodeWindow.Title164": "Hall of sarcophagi!",
+  "StartEpisodeWindow.Text164": "And these are ancient sarcophagi! Pharaohs are resting in them. We better not bother them!",
+  "FinishEpisodeWindow.Text164": "Wow, goosebumps! But it was a great experience!",
+	
+  "StartEpisodeWindow.Title165": "Ancient ghost!",
+  "StartEpisodeWindow.Text165": "Wow, it seems we woke the spirit of the tomb! What should we do...",
+  "FinishEpisodeWindow.Text165": "Nothing bad! This is a friendly spirit and it just want to play!",
+	
+  "StartEpisodeWindow.Title166": "Special place!",
+  "StartEpisodeWindow.Text166": "Would you like to go to a special place? It's not easy to get there but it worth it!",
+  "FinishEpisodeWindow.Text166": "Here we are! All obstacles are behind. Prepare to be amazed!",
+
+  "StartEpisodeWindow.Title167": "Haunted House!",
+  "StartEpisodeWindow.Text167": "Let's enter the Haunted House! I hope you're not afraid of ghosts!",
+  "FinishEpisodeWindow.Text167": "I admit that it was a bit scary! But we are stronger now and nothing will frighten us in the future!",
+
+  "StartEpisodeWindow.Title168": "As far as possible!",
+  "StartEpisodeWindow.Text168": "I know that I said that we are fearless now... But I would still prefer getting as far from here as possible!",
+  "FinishEpisodeWindow.Text168": "We are safe now! And lots of new adventures are ahead of us! Let's face them with the smile on our faces!",
+
+  "StartEpisodeWindow.Title169": "Back to the lab!",
+  "StartEpisodeWindow.Text169": "We have an urgent matter in the laboratory! We should hurry up!",
+  "FinishEpisodeWindow.Text169": "Fine! We are just in time. The professor is already waiting for us!",
+
+  "StartEpisodeWindow.Title170": "Urgent meeting!",
+  "StartEpisodeWindow.Text170": "Oh oh oh! Assistant professor needs help! It’s good that the professor knows what to do!",
+  "FinishEpisodeWindow.Text170": "Fine! The task is clear and we are ready to hit the road. Let's go save our friend!",
+
+  "StartEpisodeWindow.Title171": "Electronic switch!",
+  "StartEpisodeWindow.Text171": "So... You need to prepare the equipment at the right frequencies! Let's help the professor!",
+  "FinishEpisodeWindow.Text171": "Everything is ready. It remains only to enter the necessary coordinates!",
+  	
+  "StartEpisodeWindow.Title172": "Successful teleportation!",
+  "StartEpisodeWindow.Text172": "We have successfully moved in space! I wonder where are we? Let's take a look around!",
+  "FinishEpisodeWindow.Text172": "It seems like we are on some volcanic island ... The professor said that we need to move forward to find a cure!",
+
+  "StartEpisodeWindow.Title173": "Firefly Island!",
+  "StartEpisodeWindow.Text173": "Wow! Look, this is the island of fireflies! What are the perky lights around! You definitely won’t get lost here!",
+  "FinishEpisodeWindow.Text173": "It seems that behind this bridge is just what we need! Let's go!",
+
+  "StartEpisodeWindow.Title174": "Healing botany!",
+  "StartEpisodeWindow.Text174": "We found what we need! Let's get the life-giving fruits! Just be careful - it’s not safe here!",
+  "FinishEpisodeWindow.Text174": "We came out to collect the required amount. Let's get out of here. Move on!",
+	
+  "StartEpisodeWindow.Title175": "Happy Miners!",
+  "StartEpisodeWindow.Text175": "It's nice to be out! But it seem like there is another obstacle on our way!",
+  "FinishEpisodeWindow.Text175": "Well, the first step was made. There is no stopping now! Let's dig deeper!",
+
+  "StartEpisodeWindow.Title176": "Crystal Fever!",
+  "StartEpisodeWindow.Text176": "There are plenty of crystals here! They can be the key to healing our friend! But is it possible to collect them all!",
+  "FinishEpisodeWindow.Text176": "It wasn't easy but with such a master collector in the team we were destined for success!",
+
+  "StartEpisodeWindow.Title177": "Cliffhanger!",
+  "StartEpisodeWindow.Text177": "It's difficult to keep balance when your pockets are full of goods. That's when friends truly come in handy!",
+  "FinishEpisodeWindow.Text177": "With friends like you we can go anywhere we want! And go there we will! Let's just not forget to keep the ingredients for the professor!",
+	
+  "StartEpisodeWindow.Title178": "Aerial Treat!",
+  "StartEpisodeWindow.Text178": "Another dangerous mission that can help save our friend? Count us in!",
+  "FinishEpisodeWindow.Text178": "We've got what we needed but it's not finished yet. Let's muster up one more time!",
+	
+  "StartEpisodeWindow.Title179": "Final Element!",
+  "StartEpisodeWindow.Text179": "Here we are again, ready to do whatever it takes to gather all the ingredients and bring them together in order to cure our friend!",
+  "FinishEpisodeWindow.Text179": "We've got the missing water element and are ready to come back. Let's just hope that everything is going to be fine now!",
+	
+  "StartEpisodeWindow.Title180": "Perfect Line Up!",
+  "StartEpisodeWindow.Text180": "It's better late than never! We've finally brought all the ingredients together. It's time to make the cure before our friend passes the point of no return!",
+  "FinishEpisodeWindow.Text180": "Let's hope that the elixir works and our friend will get better in time for Christmas celebration!",
+	
+  "StartEpisodeWindow.Title181": "Just In Time!",
+  "StartEpisodeWindow.Text181": "We've made it! Everyone is in good health and is ready to celebrate! What are we waiting for?",
+  "FinishEpisodeWindow.Text181": "Our journey has been great so far! We can't even imagine how exciting the rest of it will be!",
+	
+  "StartEpisodeWindow.Title182": "Happy New Year!",
+  "StartEpisodeWindow.Text182": "It is indeed a very happy time for us! All the troubles are behind and we can enjoy ourselves and the holiday atmosphere which is all around us!",
+  "FinishEpisodeWindow.Text182": "Although we like to have fun and celebrate it can be quite demanding and some rest might be required. Hopefully, we'll get a chance to catch our breath!",
+	
+  "StartEpisodeWindow.Title183": "Sweet Dreams!",
+  "StartEpisodeWindow.Text183": "I believe we deserve some napping time! I hope we'll dream about something sweet while we sleep!",
+  "FinishEpisodeWindow.Text183": "That was invigorating! We are full of energy now and are ready to spend it on good deeds and heroic feats!",
+	
+  "StartEpisodeWindow.Title184": "Snow Away!",
+  "StartEpisodeWindow.Text184": "The holidays are gone together with all the evidence of past festivities... Is there another way to have fun now when it's all over?",
+  "FinishEpisodeWindow.Text184": "I can't believe we had any doubts! Exciting things happen anytime we go anywhere! Our next adventure will prove it!",
+	
+  "StartEpisodeWindow.Title185": "Railway Station!",
+  "StartEpisodeWindow.Text185": "Here we are at the local railway station! Another exotic adventure is ahead of us and we can't wait for it to start!",
+  "FinishEpisodeWindow.Text185": "Alright! It seems like we've packed everything we might need on the road. It's time to hit it!",
+	
+  "StartEpisodeWindow.Title186": "Obvious Solution!",
+  "StartEpisodeWindow.Text186": "Nobody warned us that we'll have to wait for the train to arrive! What is the best way to pass the time? To play some games, obviously!",
+  "FinishEpisodeWindow.Text186": "It was fun! The train should be here any minute. Let's stop playing for a while so we don't miss it. We'll continue when we board it!",
+	
+  "StartEpisodeWindow.Title187": "Romantic Tour!",
+  "StartEpisodeWindow.Text187": "We've finally arrived! And what is the better way to explore this new place than going out on a date with someone local?",
+  "FinishEpisodeWindow.Text187": "We've had a good time despite the language barrier. But it was nice to look around and enjoy the views. Happy Valentine's Day!",
+	
+  "StartEpisodeWindow.Title188": "The night temple!",
+  "StartEpisodeWindow.Text188": "Wow! Just look at crickets! Come on, catch them, but for this you will have to run across the entire area!",
+  "FinishEpisodeWindow.Text188": "Wow! With a master like you, few can compare in any business!",
+	
+  "StartEpisodeWindow.Title189": "Rice Trouble!",
+  "StartEpisodeWindow.Text189": "Let's help the locals with the rice fields. What caused the problem? Weather? Bullies? It doesn't matter. Sugar Heroes can deal with anything or anyone!",
+  "FinishEpisodeWindow.Text189": "It feels nice to help others! Let's go further and find someone else in need.",
+	
+  "StartEpisodeWindow.Title190": "Empty Pockets!",
+  "StartEpisodeWindow.Text190": "Oh no, our trip is in danger! We were so busy helping others that we completely forgot to bring some local currency with us. Let's hope that the bus driver accepts hugs!",
+  "FinishEpisodeWindow.Text190": "Well, it seems like we will have to find another way to get to our next stop. Will you, please, help us carry the luggage?",
+	
+  "StartEpisodeWindow.Title191": "Forest Trail!",
+  "StartEpisodeWindow.Text191": "We've come a long way since things didn't work out with the bus driver. And now we need to find a way to deal with the map if don't want to get lost!",
+  "FinishEpisodeWindow.Text191": "Thanks for your help! We hope that this new path will bring us somewhere exciting!",
+	
+  "StartEpisodeWindow.Title192": "Happy Happenstance!",
+  "StartEpisodeWindow.Text192": "It turns out that whatever happens, happens for the best! We are happy that we didn't get on that bus. Now we can enjoy local nature in its fullest!",
+  "FinishEpisodeWindow.Text192": "It's always nice to camp by the bonfire. But we don't have much time left here. So let's use it to explore more of these fascinating lands!",
+	
+  "StartEpisodeWindow.Title193": "Sweet Home!",
+  "StartEpisodeWindow.Text193": "It's always nice to explore the world and discover new places but it feels good to pause and come home occasionally! Let's appreciate it!",
+  "FinishEpisodeWindow.Text193": "Whatever happens next we're determined to reach the new highs! Adventures of the world, beware of Sugar Heroes!",
+	
+  "StartEpisodeWindow.Title194": "Empty Streets!",
+  "StartEpisodeWindow.Text194": "The streets look empty, all the stores are closed! This is the time when the world needs Sugar Heroes the most!",
+  "FinishEpisodeWindow.Text194": "No matter what, Sugar Heroes are always there if you need them! Thank you for joining our team. Let's save the world together!",
+	
+  "StartEpisodeWindow.Title195": "Endless Aid!",
+  "StartEpisodeWindow.Text195": "It's important to follow certain rules now. And the most important one of all is to help each other out no matter what!",
+  "FinishEpisodeWindow.Text195": "It feels nice helping each other out when we need it the most. Let's never stop doing that!",
+	
+  "StartEpisodeWindow.Title196": "Proper Care!",
+  "StartEpisodeWindow.Text196": "Not only should we take care of one another but to do it properly. Let's run some tests and see what we can do to help!",
+  "FinishEpisodeWindow.Text196": "As it turns out there is nothing to be worried about! We just need to be careful when it comes to us and our close ones.",
+	
+  "StartEpisodeWindow.Title197": "Magic Formula!",
+  "StartEpisodeWindow.Text197": "We were invited to do some research to find the magic formula which will make everyone happy. Let’s see what we can do about it!",
+  "FinishEpisodeWindow.Text197": "The ultimate key to happiness is the ability to appreciate everything around us. What a great premise for our next journey!",
+	
+  "StartEpisodeWindow.Title198": "Latest News!",
+  "StartEpisodeWindow.Text198": "Isn't it nice to sit down with the newspaper and read some news. Let's try and find out!",
+  "FinishEpisodeWindow.Text198": "It turns out that there are so many news these days that it's just overwhelming. We find good old-fashioned traveling more fascinating!",
+	
+  "StartEpisodeWindow.Title199": "Staying Active!",
+  "StartEpisodeWindow.Text199": "Summer is coming so we need to get into shape if we want to look good at the beach. Playing some basketball sounds like fun!",
+  "FinishEpisodeWindow.Text199": "It was an exciting game! We feel like we're ready to open the summer season. We can't wait for all the adventures it holds!",
+	
+  "StartEpisodeWindow.Title200": "Ultimate Playground",
+  "StartEpisodeWindow.Text200": "The summer is finally here! Who said that we need to stay at one custom place to play?",
+  "FinishEpisodeWindow.Text200": "Our favorite thing about summer is that we can have fun everywhere. The world is our playground!",
+	
+  "StartEpisodeWindow.Title201": "Street racing",
+  "StartEpisodeWindow.Text201": "We got very tired of all the sports we played so we decided to have some rest. There is no better way to relax than to let a vehicle carry your bodies around.",
+  "FinishEpisodeWindow.Text201": "That was definitely fun! We feel great and full of strength to embark on even more journeys.",
+	
+  "StartEpisodeWindow.Title202": "Sweet destiny",
+  "StartEpisodeWindow.Text202": "We were just driving around the city not sure what we're looking for and yet somehow we ended up in the right place. We accept our destiny and swear to fulfill it!",
+  "FinishEpisodeWindow.Text202": "This was a good lesson. As long as you're open to new experiences the universe will provide them. Now we're ready to charge into the unknown!",
+	
+  "StartEpisodeWindow.Title203": "Sunny Day",
+  "StartEpisodeWindow.Text203": "It's nice to be outside when the weather is fine and everything around is just going its way. Time to take a break and have some fun!",
+  "FinishEpisodeWindow.Text203": "Thank you for keeping us company and collecting all the sweets! We had a great time and can't wait for what comes next.",
+	
+  "StartEpisodeWindow.Title204": "Banana Bully",
+  "StartEpisodeWindow.Text204": "We respect everyone who works to make our community better and expect everyone to do the same. It's time for an important lesson!",
+  "FinishEpisodeWindow.Text204": "Another criminal apprehended! It was truly a team effort. Everyone can sleep sound tonight.",
+	
+  "StartEpisodeWindow.Title205": "Scared Escape",
+  "StartEpisodeWindow.Text205": "We thought that we had everything under control but the bully was so scared of us that he managed to escape. Let's catch him together!",
+  "FinishEpisodeWindow.Text205": "The bully left us no choice but to use his own weapon to fight back. Let's see where it gets us.",
+	
+  "StartEpisodeWindow.Title206": "Action time",
+  "StartEpisodeWindow.Text206": "Although we're curious about what will bully do next it's now time to put a stop to it!",
+  "FinishEpisodeWindow.Text206": "The situation required some action and it was provided thanks to your help. Come with us to see what else can we do together!",
+	
+  "StartEpisodeWindow.Title207": "True Hero",
+  "StartEpisodeWindow.Text207": "We're here to celebrate the true heroes of the city. The ones who risk their lives every day to protect the citizens.",
+  "FinishEpisodeWindow.Text207": "It's wonderful to see others being recognized. Let's hope that our paths will cross again in the future!",
+  
+  "StartEpisodeWindow.Title208": "Day in the Park",
+  "StartEpisodeWindow.Text208": "Sometimes you have to take a moment and relax. There is no better place to do just that than a park!",
+  "FinishEpisodeWindow.Text208": "We've spent enough time in the park to conclude that this place is great. Let's look for more amazing places together!",
+	
+  "Valentine.Missions.TulpanTournament.Title": "Deputy Cupid",
+  "Valentine.Missions.TulpanTournament.Rules1": "Match lines next to the flasks to collect poison!",
+  "Valentine.Missions.TulpanTournament.AnimationMainTextWin": "Isn't love beautiful? And now it's everywhere all thanks to you! Celebrate it with unwrapping my gift to you!",
+  "Valentine.Missions.TulpanTournament.AnimationMainTextLose": "Thank you! Any help is of value to me although it might be not enough to spread love around. Better luck next time!",
+  "Valentine.Missions.TulpanTournament.AnimationMainTextInfo0": "Cupid asked me to cover for him while he's away but he didn't leave any arrows so I had to create my own love poison!",
+  "Valentine.Missions.TulpanTournament.AnimationMainTextInfo1": "Help me to deliver it to as many people as possible before Cupid comes back and I'll match you up with some great reward!",
+	
+  "Easter.Missions.TulpanTournament.Title": "Easter Pattern",
+  "Easter.Missions.TulpanTournament.Rules1": "Match lines next to the eggs to collect them!",
+  "Easter.Missions.TulpanTournament.AnimationMainTextWin": "Look at these beautiful eggs! It's time for me to make them look even better and for you to enjoy your reward!",
+  "Easter.Missions.TulpanTournament.AnimationMainTextLose": "Thank you! Any help is of value to me although it might be not enough to find the right color. Better luck next time!",
+  "Easter.Missions.TulpanTournament.AnimationMainTextInfo0": "I love Easter because it's a great time for experiments with color! And I won't rest until I find the best one!",
+  "Easter.Missions.TulpanTournament.AnimationMainTextInfo1": "Bring me as many eggs as possible so I could paint them all and discover the ultimate Easter pattern",
+	
+  "Memorial.Missions.TulpanTournament.Title": "Season of Shells",
+  "Memorial.Missions.TulpanTournament.Rules1": "Match lines next to the shells to collect them!",
+  "Memorial.Missions.TulpanTournament.AnimationMainTextWin": "Look at these beautiful shells! They will make a wonderful addition to my collection! It's time for me to hold up my end of the bargain.",
+  "Memorial.Missions.TulpanTournament.AnimationMainTextLose": "Thank you for your effort! These shells are pretty but I already have them. Maybe if you bring more I'll have something to choose from.",
+  "Memorial.Missions.TulpanTournament.AnimationMainTextInfo0": "The summer season is open! It's my favorite time because I can take a break from my work and concentrate on my hobby!",
+  "Memorial.Missions.TulpanTournament.AnimationMainTextInfo1": "There are so many beautiful shells out there but I can't find them all. Help me enrich my collection and I'll make sure to enrich you.",
+	
+  "RaffleWindow.description": "Only from May 7th to May 20th complete levels to get the lucky tickets. The winners will be announced on May 25th, 2020.",
+	
+  "BattlePassBought": "You bought Hero's pass!",
+  "BattlePassProduct.Title": "Hero's pass",	
+  "BattlePassProduct.Description": "Amazing offer with huge amount of bonuses!",
+  "BattlePassWindow.infoNode.task3": "Use a rainbow lollipop on a level",
+  "BattlePassWindow.infoNode.task11": "Use a rainbow lollipop on a level",	
+  "BattlePassWindow.Title": "Hero's destiny",
+  "BattlePassWindow.Description": "Complete tasks to get prizes. With the Hero's Pass you’ll get a mind-blowing bonus for each completed task.",
+  "BuyPassRewardWindow.title": "Hero's Pass",
+  "BuyPassRewardWindow.description": "You will receive many more prizes for completed tasks with Hero's Pass!"
+}

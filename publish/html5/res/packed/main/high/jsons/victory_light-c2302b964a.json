@@ -1,0 +1,51 @@
+{
+"skeleton": { "hash": "CuHPuMi1B8E9Icdh7p6kygXhqd4", "spine": "3.5.35", "width": 456, "height": 266.23 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "light_victory", "parent": "root", "x": -1.19, "y": 1.6, "scaleY": 0.578 },
+	{ "name": "light_down_victory", "parent": "light_victory", "x": 0.85 }
+],
+"slots": [
+	{ "name": "light_down_victory", "bone": "light_down_victory", "attachment": "light_down_victory" },
+	{ "name": "light_up_victory", "bone": "root", "attachment": "light_up_victory" }
+],
+"skins": {
+	"default": {
+		"light_down_victory": {
+			"light_down_victory": { "x": -6.34, "y": -0.21, "width": 456, "height": 461 }
+		},
+		"light_up_victory": {
+			"light_up_victory": { "x": 3.03, "y": 5.52, "width": 351, "height": 134 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"light_down_victory": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6667, "angle": -90 },
+					{ "time": 1.3333, "angle": -180 },
+					{ "time": 2, "angle": 90 },
+					{ "time": 2.6667, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

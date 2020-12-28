@@ -1,0 +1,195 @@
+
+rabbit-17bd73c6c7.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird_body
+  rotate: false
+  xy: 243, 1
+  size: 182, 208
+  orig: 182, 208
+  offset: 0, 0
+  index: -1
+bird_eye1
+  rotate: false
+  xy: 427, 61
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+bird_eye2
+  rotate: false
+  xy: 427, 1
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+bird_eyebrow1
+  rotate: false
+  xy: 473, 148
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+bird_eyebrow2
+  rotate: false
+  xy: 427, 148
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+bird_leg1
+  rotate: false
+  xy: 468, 232
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+bird_leg2
+  rotate: false
+  xy: 481, 61
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+bird_mouth1
+  rotate: false
+  xy: 468, 264
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+bird_mouth2
+  rotate: false
+  xy: 468, 207
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bird_pupil1
+  rotate: false
+  xy: 489, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+bird_pupil2
+  rotate: false
+  xy: 489, 1
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+bird_shadow
+  rotate: false
+  xy: 1, 243
+  size: 163, 52
+  orig: 163, 52
+  offset: 0, 0
+  index: -1
+bird_tail
+  rotate: false
+  xy: 427, 205
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+bird_wing1
+  rotate: false
+  xy: 427, 169
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+bird_wing2
+  rotate: false
+  xy: 469, 171
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+bird_x1
+  rotate: false
+  xy: 298, 396
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bird_x4
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+grass_1
+  rotate: false
+  xy: 243, 211
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+grass_2
+  rotate: false
+  xy: 1, 297
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+leaf_bush
+  rotate: false
+  xy: 427, 112
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+lvl1_bush
+  rotate: false
+  xy: 298, 518
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+lvl2_bush
+  rotate: false
+  xy: 1, 449
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+lvl3_bush
+  rotate: false
+  xy: 153, 396
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+rabbit-images-bird_x1
+  rotate: false
+  xy: 298, 396
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rabbit-images-bird_x4
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+rabbit-images-grass_1
+  rotate: false
+  xy: 243, 211
+  size: 176, 183
+  orig: 176, 183
+  offset: 0, 0
+  index: -1
+rabbit-images-grass_2
+  rotate: false
+  xy: 1, 297
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

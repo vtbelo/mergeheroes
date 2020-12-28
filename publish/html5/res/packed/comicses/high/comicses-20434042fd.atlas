@@ -1,0 +1,153 @@
+
+comicses-20434042fd.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 628, 694
+  orig: 628, 694
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 697
+  size: 603, 672
+  orig: 603, 672
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 600, 1371
+  size: 597, 671
+  orig: 597, 671
+  offset: 0, 0
+  index: -1
+3_lighte
+  rotate: false
+  xy: 959, 1
+  size: 161, 160
+  orig: 161, 160
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 606, 697
+  size: 597, 671
+  orig: 597, 671
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: false
+  xy: 1, 1371
+  size: 597, 672
+  orig: 597, 672
+  offset: 0, 0
+  index: -1
+g_2
+  rotate: false
+  xy: 1205, 196
+  size: 170, 177
+  orig: 170, 177
+  offset: 0, 0
+  index: -1
+gre
+  rotate: false
+  xy: 631, 375
+  size: 165, 204
+  orig: 165, 204
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1205, 1
+  size: 194, 193
+  orig: 194, 193
+  offset: 0, 0
+  index: -1
+meteor_1
+  rotate: false
+  xy: 1719, 1
+  size: 300, 209
+  orig: 300, 209
+  offset: 0, 0
+  index: -1
+meteor_2
+  rotate: false
+  xy: 1413, 1822
+  size: 304, 212
+  orig: 304, 212
+  offset: 0, 0
+  index: -1
+meteor_3
+  rotate: false
+  xy: 1386, 1607
+  size: 306, 213
+  orig: 306, 213
+  offset: 0, 0
+  index: -1
+meteor_4
+  rotate: false
+  xy: 1604, 62
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+meteor_5
+  rotate: false
+  xy: 1377, 196
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+p_2
+  rotate: false
+  xy: 798, 547
+  size: 154, 141
+  orig: 154, 141
+  offset: 0, 0
+  index: -1
+perp
+  rotate: false
+  xy: 1423, 62
+  size: 179, 209
+  orig: 179, 209
+  offset: 0, 0
+  index: -1
+r_2
+  rotate: false
+  xy: 798, 375
+  size: 159, 170
+  orig: 159, 170
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 1199, 1607
+  size: 185, 235
+  orig: 185, 235
+  offset: 0, 0
+  index: -1
+sha
+  rotate: false
+  xy: 1423, 1
+  size: 292, 59
+  orig: 292, 59
+  offset: 0, 0
+  index: -1
+w_2
+  rotate: false
+  xy: 1199, 1844
+  size: 212, 194
+  orig: 212, 194
+  offset: 0, 0
+  index: -1
+why
+  rotate: false
+  xy: 1199, 1370
+  size: 222, 235
+  orig: 222, 235
+  offset: 0, 0
+  index: -1

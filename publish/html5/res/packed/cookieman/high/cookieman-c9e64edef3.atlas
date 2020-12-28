@@ -1,0 +1,97 @@
+
+cookieman-c9e64edef3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cookieman-images-cookieman_stable
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+cookieman_stable
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+pizza_arrow
+  rotate: false
+  xy: 123, 72
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+pizza_body
+  rotate: false
+  xy: 1, 123
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+pizza_cheese
+  rotate: false
+  xy: 102, 123
+  size: 22, 108
+  orig: 22, 108
+  offset: 0, 0
+  index: -1
+pizza_eye1
+  rotate: false
+  xy: 165, 32
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+pizza_eye2
+  rotate: false
+  xy: 123, 32
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+pizza_eyeup1
+  rotate: false
+  xy: 35, 235
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+pizza_eyeup2
+  rotate: false
+  xy: 1, 235
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+pizza_mouth
+  rotate: false
+  xy: 97, 235
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+pizza_pupil1
+  rotate: false
+  xy: 80, 235
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+pizza_pupil2
+  rotate: false
+  xy: 61, 235
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+pizza_shadow
+  rotate: false
+  xy: 126, 1
+  size: 110, 29
+  orig: 110, 29
+  offset: 0, 0
+  index: -1

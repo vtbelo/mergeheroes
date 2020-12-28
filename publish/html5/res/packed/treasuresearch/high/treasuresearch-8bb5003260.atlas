@@ -1,0 +1,370 @@
+
+treasuresearch-8bb5003260.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gem_clouds
+  rotate: false
+  xy: 297, 465
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+gem_shovel
+  rotate: false
+  xy: 534, 582
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+gem_shovel_shadow
+  rotate: false
+  xy: 777, 282
+  size: 86, 101
+  orig: 86, 101
+  offset: 0, 0
+  index: -1
+level_close
+  rotate: false
+  xy: 1, 455
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+level_open
+  rotate: false
+  xy: 113, 455
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+level_passed
+  rotate: false
+  xy: 1, 788
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+map
+  rotate: false
+  xy: 578, 112
+  size: 197, 170
+  orig: 197, 170
+  offset: 0, 0
+  index: -1
+piggy_arrow
+  rotate: false
+  xy: 607, 651
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+piggy_full_blik
+  rotate: false
+  xy: 989, 123
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+piggy_plus
+  rotate: false
+  xy: 225, 498
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+piggy_star1
+  rotate: false
+  xy: 103, 386
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+score_rays
+  rotate: false
+  xy: 777, 188
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+shovel
+  rotate: false
+  xy: 789, 66
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+treasure__key
+  rotate: false
+  xy: 764, 385
+  size: 97, 219
+  orig: 97, 219
+  offset: 0, 0
+  index: -1
+treasure_down
+  rotate: false
+  xy: 578, 381
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+treasure_flare
+  rotate: false
+  xy: 983, 319
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+treasure_key_open
+  rotate: false
+  xy: 163, 386
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+treasure_light
+  rotate: false
+  xy: 1, 613
+  size: 177, 173
+  orig: 177, 173
+  offset: 0, 0
+  index: -1
+treasure_lock_1_closed
+  rotate: false
+  xy: 53, 386
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+treasure_lock_1_opened
+  rotate: false
+  xy: 227, 386
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+treasure_lock_2_closed
+  rotate: false
+  xy: 1, 386
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+treasure_lock_2_opened
+  rotate: false
+  xy: 225, 443
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+treasure_place
+  rotate: false
+  xy: 578, 1
+  size: 292, 63
+  orig: 292, 63
+  offset: 0, 0
+  index: -1
+treasure_place_sh
+  rotate: false
+  xy: 71, 900
+  size: 84, 101
+  orig: 84, 101
+  offset: 0, 0
+  index: -1
+treasure_shadow
+  rotate: false
+  xy: 578, 66
+  size: 209, 44
+  orig: 209, 44
+  offset: 0, 0
+  index: -1
+treasure_up_closed
+  rotate: false
+  xy: 578, 284
+  size: 196, 95
+  orig: 196, 95
+  offset: 0, 0
+  index: -1
+treasure_up_open
+  rotate: false
+  xy: 113, 788
+  size: 182, 100
+  orig: 182, 100
+  offset: 0, 0
+  index: -1
+treasure_wive
+  rotate: false
+  xy: 1, 900
+  size: 68, 103
+  orig: 68, 103
+  offset: 0, 0
+  index: -1
+treasuresearch-images-shovel
+  rotate: false
+  xy: 789, 66
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-back_light
+  rotate: false
+  xy: 872, 1
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-back_map
+  rotate: false
+  xy: 1, 1
+  size: 575, 383
+  orig: 575, 383
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-cross
+  rotate: false
+  xy: 297, 386
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_0
+  rotate: false
+  xy: 871, 123
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_1
+  rotate: false
+  xy: 871, 221
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_2
+  rotate: false
+  xy: 393, 809
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_3
+  rotate: false
+  xy: 415, 711
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_4
+  rotate: false
+  xy: 416, 613
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_5
+  rotate: false
+  xy: 393, 907
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_6
+  rotate: false
+  xy: 493, 484
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_7
+  rotate: false
+  xy: 611, 455
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_8
+  rotate: false
+  xy: 611, 553
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_9
+  rotate: false
+  xy: 729, 606
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_10
+  rotate: false
+  xy: 865, 319
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_11
+  rotate: false
+  xy: 863, 417
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_12
+  rotate: false
+  xy: 863, 515
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_13
+  rotate: false
+  xy: 157, 890
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_14
+  rotate: false
+  xy: 275, 890
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_15
+  rotate: false
+  xy: 393, 386
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_16
+  rotate: false
+  xy: 180, 613
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_17
+  rotate: false
+  xy: 297, 711
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_18
+  rotate: false
+  xy: 298, 613
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1
+treasuresearch-treasure_search-up_19
+  rotate: false
+  xy: 375, 484
+  size: 116, 96
+  orig: 116, 96
+  offset: 0, 0
+  index: -1

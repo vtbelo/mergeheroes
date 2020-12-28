@@ -1,0 +1,211 @@
+{
+"skeleton": { "hash": "kMpTfja0pjRZD18HUvZxRGMIi/o", "spine": "3.7.91", "width": 114, "height": 137, "images": "D:/Work/icon/heroes icons/prem/images", "audio": "C:\\Work\\Heroes\\Interface\\icons\\spine" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "premiumr_ochkic", "parent": "root", "length": 104.55, "rotation": 90.49, "x": -1.35, "y": -58.28 },
+	{ "name": "premiumr_hand_lic", "parent": "premiumr_ochkic", "length": 38.5, "rotation": 167.94, "x": 28.27, "y": -28.46 },
+	{ "name": "premiumr_shubic", "parent": "premiumr_ochkic", "length": 23.12, "rotation": 109.81, "x": 33.31, "y": -29.09 },
+	{ "name": "premiumr_fingeric", "parent": "premiumr_ochkic", "length": 19.23, "rotation": 102.9, "x": 38.89, "y": 32.93 },
+	{ "name": "finger_prem", "parent": "premiumr_fingeric", "length": 10.1, "rotation": -79.09, "x": 14.4, "y": -6.18 },
+	{ "name": "premiumr_arm_lic", "parent": "premiumr_fingeric", "x": 23.38, "y": -0.98 },
+	{ "name": "premiumr_coin1ic", "parent": "root", "length": 10.4, "rotation": -1.64, "x": -54.51, "y": 23.69 },
+	{ "name": "premiumr_pupil1_ic", "parent": "premiumr_ochkic", "x": 56.5, "y": 3.45 },
+	{ "name": "premiumr_pupil1 ic2", "parent": "premiumr_ochkic", "x": 59.67, "y": 29.9 }
+],
+"slots": [
+	{ "name": "premiumr_fingeric", "bone": "premiumr_fingeric", "attachment": "premiumr_fingeric" },
+	{ "name": "premiumr_arm_lic", "bone": "premiumr_arm_lic", "attachment": "premiumr_arm_lic" },
+	{ "name": "finger_prem", "bone": "finger_prem", "attachment": "finger_prem" },
+	{ "name": "premiumr_coin1ic", "bone": "premiumr_coin1ic", "attachment": "premiumr_coin1ic" },
+	{ "name": "premiumr_ochkic", "bone": "premiumr_ochkic", "attachment": "premiumr_ochkic" },
+	{ "name": "premiumr_hand_lic", "bone": "premiumr_hand_lic", "attachment": "premiumr_hand_lic" },
+	{ "name": "premiumr_shubic", "bone": "premiumr_shubic", "attachment": "premiumr_shubic" },
+	{ "name": "premiumr_pupil1_ic", "bone": "premiumr_pupil1_ic", "attachment": "premiumr_pupil1_ic" },
+	{ "name": "premiumr_pupil1 ic2", "bone": "premiumr_pupil1 ic2", "attachment": "premiumr_pupil1_ic" }
+],
+"skins": {
+	"default": {
+		"finger_prem": {
+			"finger_prem": { "x": 3.64, "y": -0.2, "rotation": -114.3, "width": 13, "height": 18 }
+		},
+		"premiumr_arm_lic": {
+			"premiumr_arm_lic": { "x": -1.16, "y": -1.81, "rotation": 166.61, "width": 14, "height": 19 }
+		},
+		"premiumr_coin1ic": {
+			"premiumr_coin1ic": { "x": -0.37, "y": 0.2, "rotation": 1.64, "width": 20, "height": 15 }
+		},
+		"premiumr_fingeric": {
+			"premiumr_fingeric": { "x": 12.86, "y": -1.08, "rotation": 166.61, "width": 33, "height": 20 }
+		},
+		"premiumr_hand_lic": {
+			"premiumr_hand_lic": { "x": 22.45, "y": -3.3, "rotation": 101.57, "width": 30, "height": 55 }
+		},
+		"premiumr_ochkic": {
+			"premiumr_ochkic": { "x": 56.69, "y": 1.04, "rotation": -90.49, "width": 92, "height": 120 }
+		},
+		"premiumr_pupil1_ic": {
+			"premiumr_pupil1_ic": { "x": -0.05, "y": 0.02, "rotation": -90.49, "width": 13, "height": 12 }
+		},
+		"premiumr_pupil1 ic2": {
+			"premiumr_pupil1_ic": { "x": -0.05, "y": 0.02, "rotation": -90.49, "width": 13, "height": 12 }
+		},
+		"premiumr_shubic": {
+			"premiumr_shubic": { "x": 4.61, "y": -2.9, "rotation": 159.7, "width": 54, "height": 40 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"premiumr_coin1ic": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": 12.91 },
+					{
+						"time": 0.2667,
+						"angle": -19.95,
+						"curve": [ 0.624, 0.03, 0.433, 1 ]
+					},
+					{ "time": 0.3333, "angle": 54.48 },
+					{ "time": 0.4333, "angle": -159.05 },
+					{ "time": 0.5333, "angle": 18.05 },
+					{ "time": 0.6333, "angle": -170.75 },
+					{ "time": 0.7667, "angle": 0 },
+					{ "time": 0.8333, "angle": 12.91 },
+					{ "time": 0.9667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -4.11, "y": -37.72 },
+					{ "time": 0.1333, "x": -5.08, "y": -40.4 },
+					{
+						"time": 0.2667,
+						"x": 0.76,
+						"y": -25.29,
+						"curve": [ 0.218, 0.14, 0.433, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": 2.18,
+						"y": 39.09,
+						"curve": [ 0.799, 0.01, 0.75, 1 ]
+					},
+					{ "time": 0.7667, "x": -4.11, "y": -37.72 },
+					{ "time": 0.8333, "x": -5.08, "y": -40.4 },
+					{ "time": 0.9667, "x": -4.11, "y": -37.72 }
+				]
+			},
+			"finger_prem": {
+				"rotate": [
+					{ "time": 0, "angle": 48.54, "curve": "stepped" },
+					{ "time": 0.2667, "angle": 48.54 },
+					{ "time": 0.3333, "angle": -1.67, "curve": "stepped" },
+					{ "time": 0.6667, "angle": -1.67 },
+					{ "time": 0.7667, "angle": 48.54 }
+				]
+			},
+			"premiumr_ochkic": {
+				"shear": [
+					{
+						"time": 0,
+						"x": -2.15,
+						"y": 0,
+						"curve": [ 0.479, 0.02, 0.518, 1 ]
+					},
+					{
+						"time": 0.1667,
+						"x": -0.36,
+						"y": 0,
+						"curve": [ 0.479, 0.02, 0.518, 1 ]
+					},
+					{
+						"time": 0.5333,
+						"x": -4.88,
+						"y": 0,
+						"curve": [ 0.479, 0.02, 0.518, 1 ]
+					},
+					{ "time": 0.7667, "x": -2.15, "y": 0 }
+				]
+			},
+			"premiumr_hand_lic": {
+				"rotate": [
+					{
+						"time": 0,
+						"angle": -18.46,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1333,
+						"angle": -30.69,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"angle": -6.68,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.7667, "angle": -18.46 }
+				]
+			},
+			"premiumr_fingeric": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.1333, "angle": 3.92 },
+					{ "time": 0.3333, "angle": -40.09 },
+					{ "time": 0.5, "angle": -11.92 },
+					{ "time": 0.7, "angle": 0 },
+					{ "time": 0.8333, "angle": 7.19 },
+					{ "time": 0.9667, "angle": 0 }
+				]
+			},
+			"premiumr_pupil1_ic": {
+				"translate": [
+					{ "time": 0, "x": -2.58, "y": 0.94 },
+					{
+						"time": 0.1667,
+						"x": -4.28,
+						"y": 0.94,
+						"curve": [ 0.517, 0, 0.499, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"x": 0.51,
+						"y": 0.08,
+						"curve": [ 0.606, 0.02, 0.711, 0.64 ]
+					},
+					{
+						"time": 0.6333,
+						"x": 0.66,
+						"y": 1.24,
+						"curve": [ 0.241, 0.59, 0.544, 1 ]
+					},
+					{ "time": 0.7667, "x": -2.58, "y": 0.94 }
+				]
+			},
+			"premiumr_pupil1 ic2": {
+				"translate": [
+					{ "time": 0, "x": -3.59, "y": 0.34 },
+					{
+						"time": 0.1667,
+						"x": -5.3,
+						"y": 0.34,
+						"curve": [ 0.517, 0, 0.499, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"x": 0.38,
+						"y": 0.42,
+						"curve": [ 0.606, 0.02, 0.711, 0.64 ]
+					},
+					{
+						"time": 0.6333,
+						"x": -0.22,
+						"y": 0.77,
+						"curve": [ 0.241, 0.59, 0.544, 1 ]
+					},
+					{ "time": 0.7667, "x": -3.59, "y": 0.34 }
+				]
+			}
+		}
+	}
+}
+}

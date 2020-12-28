@@ -1,0 +1,167 @@
+
+truffle-d8dacb594d.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cake_boom_b
+  rotate: false
+  xy: 1, 123
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_boom_g
+  rotate: false
+  xy: 1, 233
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_boom_p
+  rotate: false
+  xy: 1, 343
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_boom_r
+  rotate: false
+  xy: 103, 123
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_boom_w
+  rotate: false
+  xy: 123, 1
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_boom_y
+  rotate: false
+  xy: 103, 233
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+cake_rose
+  rotate: false
+  xy: 95, 453
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+cake_shadow
+  rotate: false
+  xy: 1, 453
+  size: 92, 40
+  orig: 92, 40
+  offset: 0, 0
+  index: -1
+truffle-images-cake_rose
+  rotate: false
+  xy: 95, 453
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_blue
+  rotate: false
+  xy: 103, 343
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_green
+  rotate: false
+  xy: 144, 417
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_purple
+  rotate: false
+  xy: 205, 111
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_red
+  rotate: false
+  xy: 225, 1
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_white
+  rotate: false
+  xy: 330, 1
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffle-images-truffles_yellow
+  rotate: false
+  xy: 205, 185
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_blue
+  rotate: false
+  xy: 103, 343
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_goal
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+truffles_green
+  rotate: false
+  xy: 144, 417
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_purple
+  rotate: false
+  xy: 205, 111
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_red
+  rotate: false
+  xy: 225, 1
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_white
+  rotate: false
+  xy: 330, 1
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1
+truffles_yellow
+  rotate: false
+  xy: 205, 185
+  size: 103, 72
+  orig: 103, 72
+  offset: 0, 0
+  index: -1

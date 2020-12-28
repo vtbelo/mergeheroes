@@ -1,0 +1,104 @@
+
+candle-46edd9eadf.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_tok
+  rotate: false
+  xy: 115, 446
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+2_tok
+  rotate: false
+  xy: 150, 466
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+3_tok
+  rotate: false
+  xy: 94, 480
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+ball_tok
+  rotate: false
+  xy: 115, 277
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+blitz_tok
+  rotate: false
+  xy: 1, 367
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+box_tok
+  rotate: false
+  xy: 150, 237
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+candle_1
+  rotate: false
+  xy: 1, 1
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+candle_2
+  rotate: false
+  xy: 1, 237
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+left_tok
+  rotate: false
+  xy: 208, 446
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+light_tok
+  rotate: false
+  xy: 144, 335
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+lock_tok
+  rotate: false
+  xy: 115, 310
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+palka_tok
+  rotate: false
+  xy: 115, 339
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+right_tok
+  rotate: false
+  xy: 115, 237
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+shadow_tok
+  rotate: false
+  xy: 1, 480
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2838 @@
+{
+	"skeleton": {
+		"hash": "TX+J9Dwr3OtpWfCbbfGVgIvwLpU",
+		"spine": "3.7.94",
+		"width": 231.04,
+		"height": 187.51,
+		"images": "C:/Users/Наиль/Documents/GitHub/match3/res/skins/heroes/high/bundles/treasure_search/images/",
+		"audio": ""
+	},
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "gem_clouds",
+			"parent": "root",
+			"x": -25.6,
+			"y": 5.56
+		},
+		{
+			"name": "gem_clouds2",
+			"parent": "root",
+			"rotation": -118.38,
+			"x": 21.79,
+			"y": 7.75
+		},
+		{
+			"name": "gem_clouds3",
+			"parent": "root",
+			"rotation": 112.04,
+			"x": -2.27,
+			"y": -31.86,
+			"scaleX": 0.427,
+			"scaleY": 0.427
+		},
+		{
+			"name": "gem_clouds4",
+			"parent": "root",
+			"rotation": 112.04,
+			"x": 38.31,
+			"y": -34.78,
+			"scaleX": 0.775,
+			"scaleY": 0.775
+		},
+		{
+			"name": "gem_clouds5",
+			"parent": "root",
+			"rotation": 13.06,
+			"x": -37.75,
+			"y": -32.83,
+			"scaleX": 0.775,
+			"scaleY": 0.775
+		},
+		{
+			"name": "gem_clouds6",
+			"parent": "root",
+			"rotation": -81.96,
+			"x": 34.67,
+			"y": 36.66,
+			"scaleX": 0.775,
+			"scaleY": 0.775
+		},
+		{
+			"name": "gem_clouds7",
+			"parent": "root",
+			"rotation": -39.06,
+			"x": -45.04,
+			"y": 34.72,
+			"scaleX": 0.565,
+			"scaleY": 0.565
+		},
+		{
+			"name": "gem_clouds8",
+			"parent": "root",
+			"rotation": -27.51,
+			"x": -9.8,
+			"y": 44.68,
+			"scaleX": 0.668,
+			"scaleY": 0.668
+		},
+		{
+			"name": "gem_clouds9",
+			"parent": "root",
+			"rotation": -27.51,
+			"x": 0.89,
+			"y": -33.56,
+			"scaleX": 0.668,
+			"scaleY": 0.668
+		},
+		{
+			"name": "gem_clouds10",
+			"parent": "root",
+			"rotation": -27.51,
+			"x": -51.6,
+			"y": 3.13,
+			"scaleX": 0.668,
+			"scaleY": 0.668
+		},
+		{
+			"name": "gem_clouds11",
+			"parent": "root",
+			"rotation": -27.51,
+			"x": 49.73,
+			"y": -3.43,
+			"scaleX": 0.668,
+			"scaleY": 0.668
+		},
+		{
+			"name": "root2",
+			"parent": "root"
+		},
+		{
+			"name": "gem_shovel",
+			"parent": "root2",
+			"length": 84.27,
+			"rotation": -126.32,
+			"x": 132.47,
+			"y": 101.7
+		},
+		{
+			"name": "gem_clouds12",
+			"parent": "root2",
+			"rotation": -27.51,
+			"x": -9.8,
+			"y": 44.68,
+			"scaleX": 0.668,
+			"scaleY": 0.668
+		},
+		{
+			"name": "gem_clouds13",
+			"parent": "root2",
+			"rotation": -118.38,
+			"x": 21.79,
+			"y": 7.75
+		},
+		{
+			"name": "gem_clouds14",
+			"parent": "root2",
+			"x": -25.6,
+			"y": 5.56
+		},
+		{
+			"name": "gem_shovel_shadow",
+			"parent": "root",
+			"x": 13.88,
+			"y": 23.03
+		}
+	],
+	"slots": [
+		{
+			"name": "zbg_small",
+			"bone": "root"
+		},
+		{
+			"name": "gem_clouds",
+			"bone": "gem_clouds",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds2",
+			"bone": "gem_clouds2",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds3",
+			"bone": "gem_clouds3",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds4",
+			"bone": "gem_clouds4",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds5",
+			"bone": "gem_clouds5",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds6",
+			"bone": "gem_clouds6",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds7",
+			"bone": "gem_clouds7",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds8",
+			"bone": "gem_clouds8",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds9",
+			"bone": "gem_clouds9",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds10",
+			"bone": "gem_clouds10",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds11",
+			"bone": "gem_clouds11",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds14",
+			"bone": "gem_clouds14",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds13",
+			"bone": "gem_clouds13",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_clouds12",
+			"bone": "gem_clouds12",
+			"attachment": "gem_clouds"
+		},
+		{
+			"name": "gem_shovel_shadow",
+			"bone": "gem_shovel_shadow",
+			"attachment": "gem_shovel_shadow"
+		},
+		{
+			"name": "gem_shovel",
+			"bone": "gem_shovel",
+			"attachment": "gem_shovel"
+		}
+	],
+	"skins": {
+		"default": {
+			"gem_clouds": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds10": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds11": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds12": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds13": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds14": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds2": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds3": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds4": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds5": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds6": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds7": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds8": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_clouds9": {
+				"gem_clouds": {
+					"x": 2.93,
+					"y": -0.71,
+					"width": 76,
+					"height": 81
+				}
+			},
+			"gem_shovel": {
+				"gem_shovel": {
+					"type": "mesh",
+					"uvs": [
+						1,
+						0.30555,
+						0.4478,
+						1,
+						0,
+						1,
+						0,
+						0.62237,
+						0.51248,
+						0,
+						1,
+						0
+					],
+					"triangles": [
+						4,
+						5,
+						0,
+						3,
+						1,
+						2,
+						4,
+						1,
+						3,
+						4,
+						0,
+						1
+					],
+					"vertices": [
+						2.18,
+						18.33,
+						74.64,
+						22.94,
+						93.47,
+						-2.68,
+						66.7,
+						-22.36,
+						1.02,
+						-25.48,
+						-19.48,
+						2.41
+					],
+					"hull": 6,
+					"edges": [
+						2,
+						4,
+						0,
+						10,
+						4,
+						6,
+						8,
+						10,
+						0,
+						2,
+						6,
+						8
+					],
+					"width": 71,
+					"height": 88
+				}
+			},
+			"gem_shovel_shadow": {
+				"gem_shovel_shadow": {
+					"x": 7.55,
+					"y": 7.55,
+					"width": 86,
+					"height": 101
+				}
+			}
+		}
+	},
+	"animations": {
+		"animation": {
+			"slots": {
+				"gem_clouds": {
+					"color": [
+						{
+							"time": 0,
+							"color": "dfddbdff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "dfddbdff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds2": {
+					"color": [
+						{
+							"time": 0,
+							"color": "fbfae8ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "fbfae8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds3": {
+					"color": [
+						{
+							"time": 0,
+							"color": "fcf9d3ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "fcf9d3ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds4": {
+					"color": [
+						{
+							"time": 0,
+							"color": "f3f1d3ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "f3f1d3ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds5": {
+					"color": [
+						{
+							"time": 0,
+							"color": "eeebc9ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "eeebc9ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds6": {
+					"color": [
+						{
+							"time": 0,
+							"color": "eeebc9ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "eeebc9ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds7": {
+					"color": [
+						{
+							"time": 0,
+							"color": "eeebc9ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "eeebc9ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds8": {
+					"color": [
+						{
+							"time": 0,
+							"color": "fffbd8ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "fffbd8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds9": {
+					"color": [
+						{
+							"time": 0,
+							"color": "eeebc9ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "eeebc9ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds10": {
+					"color": [
+						{
+							"time": 0,
+							"color": "f6f4ddff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "f6f4ddff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds11": {
+					"color": [
+						{
+							"time": 0,
+							"color": "eeebc9ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"color": "eeebc9ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds12": {
+					"color": [
+						{
+							"time": 0.6,
+							"color": "fffbd8ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8,
+							"color": "fffbd8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"color": "eeebc900",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "fffbd800",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"color": "fffbd8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds13": {
+					"color": [
+						{
+							"time": 0.6,
+							"color": "fbfae8ff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8,
+							"color": "fbfae8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"color": "eeebc900",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "fbfae800",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"color": "fbfae8ff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_clouds14": {
+					"color": [
+						{
+							"time": 0.6,
+							"color": "dfddbdff",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.8,
+							"color": "dfddbdff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"color": "eeebc900",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"color": "dfddbd00",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"color": "dfddbdff",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"color": "eeebc900"
+						}
+					]
+				},
+				"gem_shovel_shadow": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff5c",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"color": "ffffff00"
+						}
+					]
+				}
+			},
+			"bones": {
+				"gem_clouds": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 4.02,
+							"y": -3.75,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -128.69,
+							"y": -50.15
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.828,
+							"y": 0.828,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds2": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -11.52,
+							"y": -8.58,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 97.39,
+							"y": 4.33
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.799,
+							"y": 0.799,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds3": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -13.4,
+							"y": -3.22,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -49.32,
+							"y": -116.65
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds4": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 2.95,
+							"y": -0.54,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 55.78,
+							"y": -94.77
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.828,
+							"y": 0.828,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds5": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -7.5,
+							"y": -4.82,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 4.29,
+							"y": 10.73,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -80.64,
+							"y": -56.16
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.713,
+							"y": 0.713,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.556,
+							"y": 1.556,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds6": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -0.27,
+							"y": -7.5,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 94.39,
+							"y": 68.25
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.063,
+							"y": 1.063,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds7": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -1.61,
+							"y": 4.82,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -27.87,
+							"y": 77.69
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.846,
+							"y": 0.846,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds8": {
+					"rotate": [
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 2.14,
+							"y": -9.92,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 66.94,
+							"y": 72.54
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.127,
+							"y": 1.127,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds9": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 23.32,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 2.68,
+							"y": -5.63,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 25.32,
+							"y": -60.02
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1.148,
+							"y": 0.528,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds10": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 32.93,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -0.8,
+							"y": -0.54,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -108.53,
+							"y": 37.37
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.728,
+							"y": 0.984,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds11": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 29.69,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -1.61,
+							"y": -8.31,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.08,
+								0.6,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 79.38,
+							"y": -64.31
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0.537,
+							"y": 0.763,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.1333,
+							"x": 1.114,
+							"y": 1.114,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0.368,
+							"y": 0.368
+						}
+					]
+				},
+				"gem_clouds12": {
+					"rotate": [
+						{
+							"time": 0.8,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"angle": 63.03,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0.6,
+							"x": 5.73,
+							"y": -54.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 7.9,
+							"y": -17.23,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 11.49,
+							"y": 14.22,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 5.73,
+							"y": -54.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": -3.66,
+							"y": -42.48,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": -48.86,
+							"y": -41.84
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 0.621,
+							"y": 0.621,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 0.156,
+							"y": 0.156,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": 0.621,
+							"y": 0.621,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": 0.156,
+							"y": 0.156
+						}
+					]
+				},
+				"gem_clouds13": {
+					"rotate": [
+						{
+							"time": 0.8,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"angle": 63.03,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0.6,
+							"x": -23.37,
+							"y": -16.83,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 7.9,
+							"y": -17.23,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 30.82,
+							"y": -40.29,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -23.37,
+							"y": -16.83,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": -10.08,
+							"y": -5.25,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": 14.56,
+							"y": 24.76
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 0.612,
+							"y": 0.612,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 0.143,
+							"y": 0.143,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": 0.612,
+							"y": 0.612,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": 0.143,
+							"y": 0.143
+						}
+					]
+				},
+				"gem_clouds14": {
+					"rotate": [
+						{
+							"time": 0.8,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"angle": 63.03,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 1.3,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"angle": 63.03
+						}
+					],
+					"translate": [
+						{
+							"time": 0.6,
+							"x": 21.61,
+							"y": -18.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 7.9,
+							"y": -17.23,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": -37.76,
+							"y": -32.71,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 21.61,
+							"y": -18.47,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": 34.43,
+							"y": -25.79,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": 59.83,
+							"y": -51.97
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0,
+							"curve": "stepped"
+						},
+						{
+							"time": 0.6,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 0.606,
+							"y": 0.606,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1333,
+							"x": 0.134,
+							"y": 0.134,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": 0,
+							"y": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.3,
+							"x": 0.606,
+							"y": 0.606,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7333,
+							"x": 0.134,
+							"y": 0.134
+						}
+					]
+				},
+				"gem_shovel_shadow": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"angle": -34.41
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 1.74,
+							"y": -12.2,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 72.36,
+							"y": 7.33
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 0.886,
+							"y": 0.886
+						}
+					]
+				},
+				"gem_shovel": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"angle": -25.17,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5333,
+							"angle": -13.05,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"angle": -30.64,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"angle": -2.34,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"angle": -7.83,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.4,
+							"angle": -20.93,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"angle": -106.94
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -96.45,
+							"y": -31.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.2,
+							"x": 4.14,
+							"y": -18.63,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.5333,
+							"x": -82.94,
+							"y": -62.39,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.7,
+							"x": -84.68,
+							"y": -58.72,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.9667,
+							"x": -45.14,
+							"y": -34.5,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.1667,
+							"x": -86.61,
+							"y": -71.56,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.4,
+							"x": -85.92,
+							"y": -69.09,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.7,
+							"x": -39.65,
+							"y": -45.84,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 2,
+							"x": -76.93,
+							"y": -172.42
+						}
+					],
+					"scale": [
+						{
+							"time": 0.5333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.4,
+							"x": 1.093,
+							"y": 1.093
+						}
+					]
+				}
+			},
+			"deform": {
+				"default": {
+					"gem_shovel": {
+						"gem_shovel": [
+							{
+								"time": 0.4333,
+								"curve": [
+									0.25,
+									0,
+									0.75,
+									1
+								]
+							},
+							{
+								"time": 0.5333,
+								"offset": 4,
+								"vertices": [
+									-21.50198,
+									0.00689
+								],
+								"curve": [
+									0.25,
+									0,
+									0.75,
+									1
+								]
+							},
+							{
+								"time": 0.8,
+								"curve": "stepped"
+							},
+							{
+								"time": 1.1,
+								"curve": [
+									0.25,
+									0,
+									0.75,
+									1
+								]
+							},
+							{
+								"time": 1.1667,
+								"offset": 4,
+								"vertices": [
+									-21.50198,
+									0.00689
+								],
+								"curve": "stepped"
+							},
+							{
+								"time": 1.3333,
+								"offset": 4,
+								"vertices": [
+									-21.50198,
+									0.00689
+								],
+								"curve": [
+									0.25,
+									0,
+									0.75,
+									1
+								]
+							},
+							{
+								"time": 1.4667
+							}
+						]
+					}
+				}
+			},
+			"drawOrder": [
+				{
+					"time": 0.6,
+					"offsets": [
+						{
+							"slot": "gem_shovel_shadow",
+							"offset": -3
+						},
+						{
+							"slot": "gem_shovel",
+							"offset": -3
+						}
+					]
+				}
+			]
+		},
+		"idle": {
+			"slots": {
+				"gem_clouds": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds2": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds3": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds4": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds5": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds6": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds7": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds8": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds9": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds10": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds11": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds12": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds13": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_clouds14": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"gem_shovel_shadow": {
+					"color": [
+						{
+							"time": 0,
+							"color": "ffffff5c",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"color": "ffffff2e",
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"color": "ffffff5c"
+						}
+					]
+				}
+			},
+			"bones": {
+				"gem_shovel_shadow": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"angle": 2.99,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": 1.74,
+							"y": -12.2
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": 0.864,
+							"y": 0.864,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": 1,
+							"y": 1
+						}
+					]
+				},
+				"gem_shovel": {
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"angle": 3.93,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"angle": 0
+						}
+					],
+					"translate": [
+						{
+							"time": 0,
+							"x": -96.45,
+							"y": -31.37,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 0.8333,
+							"x": -96.45,
+							"y": -24.98,
+							"curve": [
+								0.25,
+								0,
+								0.75,
+								1
+							]
+						},
+						{
+							"time": 1.6667,
+							"x": -96.45,
+							"y": -31.37
+						}
+					]
+				}
+			}
+		}
+	}
+}

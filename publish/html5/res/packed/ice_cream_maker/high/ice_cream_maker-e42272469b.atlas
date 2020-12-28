@@ -1,0 +1,174 @@
+
+ice_cream_maker-e42272469b.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1_oven
+  rotate: false
+  xy: 319, 1
+  size: 118, 101
+  orig: 118, 101
+  offset: 0, 0
+  index: -1
+body2_oven
+  rotate: false
+  xy: 439, 31
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+button1_0_oven
+  rotate: false
+  xy: 42, 492
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+button1_1_oven
+  rotate: false
+  xy: 439, 156
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+button2_0_oven
+  rotate: false
+  xy: 22, 492
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+button2_1_oven
+  rotate: false
+  xy: 397, 104
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+button3_0_oven
+  rotate: false
+  xy: 1, 492
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+button3_1_oven
+  rotate: false
+  xy: 127, 445
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+button4_0_oven
+  rotate: false
+  xy: 487, 31
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+button4_1_oven
+  rotate: false
+  xy: 397, 147
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+door_oven
+  rotate: false
+  xy: 319, 104
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+doorup_oven
+  rotate: false
+  xy: 439, 1
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-oven_0
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-oven_1
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-oven_2
+  rotate: false
+  xy: 1, 297
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+ice_cream_maker-images-oven_3
+  rotate: false
+  xy: 171, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+line1_oven
+  rotate: false
+  xy: 127, 488
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+line2_oven
+  rotate: false
+  xy: 439, 128
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+line3_oven
+  rotate: false
+  xy: 439, 101
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+oven_0
+  rotate: false
+  xy: 1, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+oven_1
+  rotate: false
+  xy: 1, 149
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+oven_2
+  rotate: false
+  xy: 1, 297
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+oven_3
+  rotate: false
+  xy: 171, 1
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+shadow_oven
+  rotate: false
+  xy: 1, 445
+  size: 124, 45
+  orig: 124, 45
+  offset: 0, 0
+  index: -1

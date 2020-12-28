@@ -1,0 +1,167 @@
+
+starter_pack-7173f5b97d.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_day
+  rotate: false
+  xy: 890, 526
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1
+500
+  rotate: false
+  xy: 758, 658
+  size: 103, 42
+  orig: 103, 42
+  offset: 0, 0
+  index: -1
+heroes
+  rotate: false
+  xy: 478, 1013
+  size: 99, 80
+  orig: 99, 80
+  offset: 0, 0
+  index: -1
+label
+  rotate: false
+  xy: 626, 650
+  size: 130, 76
+  orig: 130, 76
+  offset: 0, 0
+  index: -1
+life_unlim
+  rotate: false
+  xy: 858, 1
+  size: 136, 87
+  orig: 136, 87
+  offset: 0, 0
+  index: -1
+lock_light3
+  rotate: false
+  xy: 996, 1
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+moves
+  rotate: false
+  xy: 626, 386
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+multicolor
+  rotate: false
+  xy: 626, 518
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+shop_coins
+  rotate: false
+  xy: 758, 526
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+starter_discount
+  rotate: false
+  xy: 630, 222
+  size: 166, 162
+  orig: 166, 162
+  offset: 0, 0
+  index: -1
+starter_loght
+  rotate: false
+  xy: 630, 106
+  size: 185, 114
+  orig: 185, 114
+  offset: 0, 0
+  index: -1
+starter_strap1
+  rotate: false
+  xy: 587, 867
+  size: 101, 177
+  orig: 101, 177
+  offset: 0, 0
+  index: -1
+starter_strap2
+  rotate: false
+  xy: 858, 90
+  size: 131, 434
+  orig: 131, 434
+  offset: 0, 0
+  index: -1
+starter_strap3
+  rotate: false
+  xy: 758, 386
+  size: 98, 60
+  orig: 98, 60
+  offset: 0, 0
+  index: -1
+starter_strap4
+  rotate: false
+  xy: 890, 583
+  size: 114, 109
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+starter_suitcase_down
+  rotate: false
+  xy: 1, 1
+  size: 627, 362
+  orig: 627, 362
+  offset: 0, 0
+  index: -1
+starter_suitcase_handle
+  rotate: false
+  xy: 630, 1
+  size: 226, 103
+  orig: 226, 103
+  offset: 0, 0
+  index: -1
+starter_suitcase_header1
+  rotate: false
+  xy: 1, 1013
+  size: 475, 122
+  orig: 475, 122
+  offset: 0, 0
+  index: -1
+starter_suitcase_header2
+  rotate: false
+  xy: 587, 767
+  size: 407, 98
+  orig: 407, 98
+  offset: 0, 0
+  index: -1
+starter_suitcase_up1
+  rotate: false
+  xy: 1, 697
+  size: 584, 314
+  orig: 584, 314
+  offset: 0, 0
+  index: -1
+starter_suitcase_up2
+  rotate: false
+  xy: 1, 365
+  size: 623, 330
+  orig: 623, 330
+  offset: 0, 0
+  index: -1
+suitcase_stuff
+  rotate: false
+  xy: 587, 728
+  size: 431, 37
+  orig: 431, 37
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 690, 867
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1

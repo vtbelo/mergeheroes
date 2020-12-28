@@ -1,0 +1,146 @@
+
+dragon-eb226dc2c3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon-images-dragon_stable
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon-images-dragon_stable_goal
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon_stable
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+dragon_stable_goal
+  rotate: false
+  xy: 1, 1
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+el_body
+  rotate: false
+  xy: 243, 58
+  size: 195, 149
+  orig: 195, 149
+  offset: 0, 0
+  index: -1
+el_ear1
+  rotate: false
+  xy: 243, 209
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+el_ear2
+  rotate: false
+  xy: 370, 220
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+el_eye1
+  rotate: false
+  xy: 487, 119
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+el_eye2
+  rotate: false
+  xy: 473, 220
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+el_eye_down
+  rotate: false
+  xy: 485, 170
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+el_eye_up
+  rotate: false
+  xy: 473, 248
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+el_hand_1
+  rotate: false
+  xy: 445, 1
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+el_hand_2
+  rotate: false
+  xy: 440, 60
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+el_head
+  rotate: false
+  xy: 79, 243
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+el_leg_1
+  rotate: false
+  xy: 440, 170
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+el_leg_2
+  rotate: false
+  xy: 440, 119
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+el_pupil1
+  rotate: false
+  xy: 501, 12
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+el_pupil2
+  rotate: false
+  xy: 501, 1
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+el_shadow
+  rotate: false
+  xy: 243, 1
+  size: 200, 55
+  orig: 200, 55
+  offset: 0, 0
+  index: -1
+el_tusk
+  rotate: false
+  xy: 1, 324
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1

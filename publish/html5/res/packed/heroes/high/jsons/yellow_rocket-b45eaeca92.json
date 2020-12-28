@@ -1,0 +1,52 @@
+{
+"skeleton": { "hash": "0XrY0QWQ2jkds3p9CgbxFiKfEdw", "spine": "3.7.66-beta", "width": 160, "height": 202.16 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "b_r2_fireworkrocket", "parent": "root", "length": 85.68, "rotation": 89.86, "x": -0.24, "y": -45.82 },
+	{ "name": "rocket_fire_fireworkrocket", "parent": "b_r2_fireworkrocket", "length": 9.79, "rotation": -179.86, "x": -1.83, "y": -0.62 }
+],
+"slots": [
+	{ "name": "rocket_fire_fireworkrocket", "bone": "rocket_fire_fireworkrocket", "attachment": "y_rocket_fire" },
+	{ "name": "b_r2_fireworkrocket", "bone": "b_r2_fireworkrocket", "attachment": "base" }
+],
+"skins": {
+	"default": {
+		"rocket_fire_fireworkrocket": {
+			"y_rocket_fire": { "x": 28, "y": 0.38, "scaleX": 0.676, "rotation": 90, "width": 73, "height": 93 }
+		},
+		"b_r2_fireworkrocket": {
+			"base": { "name": "y_rocket", "x": 45.33, "y": -0.88, "rotation": -89.86, "width": 63, "height": 113 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"rocket_fire_fireworkrocket": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.714,
+						"y": 1.573,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.1,
+						"x": 1.66,
+						"y": 1.905,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.1667, "x": 0.714, "y": 1.573 }
+				]
+			},
+			"b_r2_fireworkrocket": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 1, "y": 1.136 },
+					{ "time": 0.1667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

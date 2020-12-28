@@ -1,0 +1,34 @@
+
+lose_window-9410a0a754.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose_heart1
+  rotate: false
+  xy: 1, 60
+  size: 140, 179
+  orig: 140, 179
+  offset: 0, 0
+  index: -1
+lose_heart2
+  rotate: false
+  xy: 1, 241
+  size: 125, 189
+  orig: 125, 189
+  offset: 0, 0
+  index: -1
+lose_shadow
+  rotate: false
+  xy: 1, 1
+  size: 214, 57
+  orig: 214, 57
+  offset: 0, 0
+  index: -1
+lose_shard
+  rotate: false
+  xy: 217, 1
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

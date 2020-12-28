@@ -1,0 +1,113 @@
+{
+  "skeleton": { "hash": "i4257pmiod+H7HRjA5tOiK2/aww", "spine": "3.5.35", "width": 174, "height": 186 },
+  "bones": [
+    { "name": "root" },
+    { "name": "thg_present_box_blue", "parent": "root", "x": 2.42, "y": 14.62 },
+    { "name": "thg_spark2", "parent": "thg_present_box_blue", "x": -0.08, "y": 1.11 }
+  ],
+  "slots": [
+    { "name": "box_colorbody", "bone": "thg_present_box_blue", "attachment": "box_colorbody" },
+    { "name": "thg_spark2", "bone": "thg_spark2", "attachment": "thg_spark" }
+  ],
+  "skins": {
+    "default": {
+      "thg_spark2": {
+        "thg_spark": { "x": 0.08, "y": -1.62, "width": 27, "height": 33 }
+      }
+    },
+    "blue": {
+      "box_colorbody": {
+        "box_colorbody": { "name": "thg_present_box_blue", "x": -7.03, "y": -8.27, "width": 174, "height": 186 }
+      }
+    },
+    "green": {
+      "box_colorbody": {
+        "box_colorbody": { "name": "thg_present_box", "x": -7.03, "y": -8.28, "width": 174, "height": 186 }
+      }
+    },
+    "pink": {
+      "box_colorbody": {
+        "box_colorbody": { "name": "thg_present_box_pink", "x": -7.03, "y": -8.28, "width": 174, "height": 186 }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "slots": {
+        "thg_spark2": {
+          "color": [
+            { "time": 0, "color": "fffffff4", "curve": "stepped" },
+            { "time": 2.6667, "color": "fffffff4" }
+          ]
+        }
+      },
+      "bones": {
+        "root": {
+          "rotate": [
+            { "time": 0, "angle": 0 }
+          ],
+          "translate": [
+            { "time": 0, "x": 0, "y": 0 }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1,
+              "curve": [ 0.25, 0, 0.75, 1 ]
+            },
+            {
+              "time": 1.3333,
+              "x": 0.99,
+              "y": 0.985,
+              "curve": [ 0.25, 0, 0.75, 1 ]
+            },
+            { "time": 2.6667, "x": 1, "y": 1 }
+          ],
+          "shear": [
+            { "time": 0, "x": 0, "y": 0 }
+          ]
+        },
+        "thg_spark2": {
+          "rotate": [
+            { "time": 0, "angle": 0 },
+            { "time": 1.3333, "angle": 179.8, "curve": "stepped" },
+            { "time": 1.8333, "angle": 179.8 },
+            { "time": 2.6667, "angle": 89.8 }
+          ],
+          "translate": [
+            { "time": 0, "x": 0, "y": 0 },
+            { "time": 1.3333, "x": -35.23, "y": 15.8 },
+            { "time": 1.8333, "x": 54.42, "y": 54.14 }
+          ],
+          "scale": [
+            { "time": 0, "x": 0, "y": 0 },
+            { "time": 0.7333, "x": 2.413, "y": 2.413 },
+            { "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+            { "time": 1.8333, "x": 0, "y": 0 },
+            { "time": 2.3333, "x": 2.413, "y": 2.413 },
+            { "time": 2.6667, "x": 0, "y": 0 }
+          ],
+          "shear": [
+            { "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+            { "time": 1.3333, "x": 0, "y": 0 }
+          ]
+        },
+        "thg_present_box_blue": {
+          "rotate": [
+            { "time": 0, "angle": 0 }
+          ],
+          "translate": [
+            { "time": 0, "x": 0, "y": 0 }
+          ],
+          "scale": [
+            { "time": 0, "x": 1, "y": 1 }
+          ],
+          "shear": [
+            { "time": 0, "x": 0, "y": 0 }
+          ]
+        }
+      }
+    }
+  }
+}

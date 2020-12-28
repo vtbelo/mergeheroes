@@ -1,0 +1,674 @@
+{
+"skeleton": { "hash": "LiBahxNN2PJpg8BhAA3Ur33mWf0", "spine": "3.6.53", "width": 134.18, "height": 103.79 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "root2", "parent": "root", "y": -3 },
+	{ "name": "banka_up_serg", "parent": "root2", "length": 37.71, "rotation": -176.42, "x": 51.24, "y": -4.02 },
+	{ "name": "banka_up_serg3", "parent": "banka_up_serg", "length": 54.76, "rotation": -9.33, "x": 40.05, "y": -0.15 },
+	{ "name": "body_serg", "parent": "root2", "length": 25.83, "rotation": -165.19, "x": 29.74, "y": -25.49 },
+	{ "name": "head_serg", "parent": "body_serg", "length": 27.65, "rotation": -56.44, "x": 27.43, "y": 0.47 },
+	{ "name": "eye2_serg", "parent": "head_serg", "x": 15.02, "y": -10.84 },
+	{ "name": "krishka_serg", "parent": "banka_up_serg3", "length": 55.25, "rotation": 110.97, "x": 42.49, "y": -22.9 },
+	{ "name": "krushka_open_serg", "parent": "root2", "length": 28.42, "rotation": 125.97, "x": -31.51, "y": 15.21 },
+	{ "name": "nose_serg", "parent": "head_serg", "length": 27.86, "rotation": 113.01, "x": 21.17, "y": 5.46 },
+	{ "name": "wing1_serg", "parent": "body_serg", "length": 16.5, "rotation": -117.88, "x": 18.35, "y": -12.57 },
+	{ "name": "wing2_serg", "parent": "body_serg", "length": 18.47, "rotation": -161.86, "x": 16.16, "y": -9.62 }
+],
+"slots": [
+	{ "name": "banka_down_serg", "bone": "root2", "attachment": "banka_down_serg" },
+	{ "name": "banka_up_serg", "bone": "banka_up_serg3", "attachment": "banka_up_serg" },
+	{ "name": "krishka_serg", "bone": "krishka_serg" },
+	{ "name": "shadow_serg", "bone": "root2", "attachment": "shadow_serg" },
+	{ "name": "body_serg", "bone": "body_serg", "attachment": "body_serg" },
+	{ "name": "wing1_serg", "bone": "wing1_serg", "attachment": "wing1_serg" },
+	{ "name": "wing2_serg", "bone": "wing2_serg", "attachment": "wing2_serg" },
+	{ "name": "head_serg", "bone": "head_serg" },
+	{ "name": "nose_serg", "bone": "nose_serg" },
+	{ "name": "eye2_serg", "bone": "eye2_serg" },
+	{ "name": "ten_serg", "bone": "root2", "attachment": "ten_serg" },
+	{ "name": "krushka_open_serg", "bone": "krushka_open_serg", "attachment": "krushka_open_serg" }
+],
+"skins": {
+	"default": {
+		"banka_down_serg": {
+			"banka_down_serg": { "x": 4, "y": -10, "width": 108, "height": 87 }
+		},
+		"banka_up_serg": {
+			"banka_up_serg": { "x": -9.06, "y": -2.29, "rotation": -174.25, "width": 73, "height": 79 }
+		},
+		"body_serg": {
+			"body_serg": {
+				"type": "mesh",
+				"uvs": [ 1, 0.44583, 1, 1, 0.50262, 1, 0, 1, 0, 0.44842, 0, 0, 1, 0, 0.52244, 0.7101 ],
+				"triangles": [ 7, 5, 6, 7, 4, 5, 6, 0, 7, 3, 4, 7, 2, 3, 7, 7, 0, 1, 2, 7, 1 ],
+				"vertices": [ -4.36, 8.01, 1.87, 31.58, 23.99, 25.73, 46.34, 19.82, 40.14, -3.64, 35.1, -22.72, -9.37, -10.96, 19.85, 13.63 ],
+				"hull": 7
+			}
+		},
+		"eye2_serg": {
+			"eye2_serg": { "x": 0.11, "y": -0.4, "rotation": -138.37, "width": 51, "height": 30 }
+		},
+		"head_serg": {
+			"head_serg": { "x": 18.61, "y": -0.12, "rotation": -138.37, "width": 47, "height": 44 }
+		},
+		"krishka_serg": {
+			"krishka_serg": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0.4686, 1, 0, 1, 0, 0, 0.74437, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 4, 1, 3, 4, 5, 0, 1, 4, 0 ],
+				"vertices": [ 72.27, 17.36, 64.87, -9.81, 58.35, -33.78, -13.05, -14.35, -2.69, 23.72, 0.86, 36.79 ],
+				"hull": 6
+			}
+		},
+		"krushka_open_serg": {
+			"krushka_open_serg": { "x": 13.08, "y": 1.97, "rotation": -124.92, "width": 70, "height": 44 }
+		},
+		"nose_serg": {
+			"nose_serg": { "x": 19.77, "y": -3.77, "rotation": 108.62, "width": 28, "height": 42 }
+		},
+		"shadow_serg": {
+			"shadow_serg": { "x": 10.5, "y": -47, "width": 31, "height": 13 }
+		},
+		"ten_serg": {
+			"ten_serg": {
+				"type": "mesh",
+				"uvs": [ 0.99999, 0.53847, 0.99835, 0.99999, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 0, 3, 4, 0, 2, 3, 1, 2, 0 ],
+				"vertices": [ 15.77, 2.13, 15.25, -20.48, -46.64, -19.31, -45.72, 29.68, 16.27, 28.51 ],
+				"hull": 5
+			}
+		},
+		"wing1_serg": {
+			"wing1_serg": { "x": 8.92, "y": -0.71, "rotation": -76.93, "width": 17, "height": 26 }
+		},
+		"wing2_serg": {
+			"wing2_serg": { "x": 9.6, "y": 1.31, "rotation": -32.95, "width": 22, "height": 19 }
+		}
+	}
+},
+"animations": {
+	"1": {
+		"slots": {
+			"body_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"eye2_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffff51" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "eye2_serg" }
+				]
+			},
+			"head_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"krishka_serg": {
+				"attachment": [
+					{ "time": 0, "name": "krishka_serg" }
+				]
+			},
+			"krushka_open_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"nose_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"shadow_serg": {
+				"attachment": [
+					{ "time": 0, "name": "shadow_serg" }
+				]
+			},
+			"wing1_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"wing2_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"krishka_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": 4.95 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0.7, "y": -1.11 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 0.555, "y": 1.347 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": -13.14, "y": 0 }
+				]
+			},
+			"eye2_serg": {
+				"rotate": [
+					{ "time": 0, "angle": -16.28 },
+					{ "time": 0.8333, "angle": 14.73 }
+				],
+				"translate": [
+					{ "time": 0, "x": 1.07, "y": 4.82 },
+					{ "time": 0.8333, "x": 6.63, "y": 7.01 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.535, "y": 0.344 },
+					{ "time": 0.8333, "x": 0.696, "y": 0.696 }
+				],
+				"shear": [
+					{ "time": 0, "x": 34.87, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"krishka_serg": {
+					"krishka_serg": [
+						{ "time": 0 },
+						{
+							"time": 0.8333,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -0.95441, -4.80243, -23.02833, -3.40384 ]
+						}
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "eye2_serg", "offset": -8 },
+					{ "slot": "ten_serg", "offset": -7 }
+				]
+			},
+			{
+				"time": 0.8333,
+				"offsets": [
+					{ "slot": "eye2_serg", "offset": -8 },
+					{ "slot": "ten_serg", "offset": -7 }
+				]
+			}
+		]
+	},
+	"2": {
+		"slots": {
+			"body_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"eye2_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffff51" },
+					{ "time": 0.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "eye2_serg" },
+					{ "time": 0.8333, "name": "eye2_serg" }
+				]
+			},
+			"head_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "head_serg" }
+				]
+			},
+			"krishka_serg": {
+				"attachment": [
+					{ "time": 0, "name": "krishka_serg" },
+					{ "time": 0.4, "name": null }
+				]
+			},
+			"krushka_open_serg": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4, "name": "krushka_open_serg" }
+				]
+			},
+			"nose_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "nose_serg" },
+					{ "time": 0.8333, "name": "nose_serg" }
+				]
+			},
+			"shadow_serg": {
+				"attachment": [
+					{ "time": 0, "name": "shadow_serg" }
+				]
+			},
+			"wing1_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"wing2_serg": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"eye2_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 2.12 },
+					{ "time": 0.8333, "angle": 0.06 }
+				],
+				"translate": [
+					{ "time": 0, "x": 9.54, "y": 7.29 },
+					{ "time": 0.8333, "x": 9.85, "y": 7.31 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.976, "y": 1.076 },
+					{ "time": 0.8333, "x": 0.983, "y": 0.999 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"krishka_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 4.95 },
+					{ "time": 0.3667, "angle": 14.03 },
+					{ "time": 0.8333, "angle": 4.95 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0.7, "y": -1.11 },
+					{ "time": 0.3667, "x": 0.03, "y": -1.32 },
+					{ "time": 0.4, "x": -0.15, "y": -1.51 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.555, "y": 1.347 },
+					{ "time": 0.3667, "x": 0.479, "y": 1.064 },
+					{ "time": 0.4, "x": 0.471, "y": 1.078 },
+					{ "time": 0.8333, "x": 0.434, "y": 1.376 }
+				],
+				"shear": [
+					{ "time": 0, "x": -13.14, "y": 0 },
+					{ "time": 0.8333, "x": -168.8, "y": 0 }
+				]
+			},
+			"krushka_open_serg": {
+				"rotate": [
+					{ "time": 0.4, "angle": -4.5 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.4, "x": -1.15, "y": 1.6 },
+					{ "time": 0.8333, "x": -1.38, "y": 4.15 }
+				],
+				"scale": [
+					{ "time": 0.4, "x": 0.165, "y": 1.052 },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"nose_serg": {
+				"rotate": [
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.8333, "x": 0.13, "y": 0.07 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.355, "y": 0.637 },
+					{ "time": 0.8333, "x": 0.996, "y": 0.996 }
+				],
+				"shear": [
+					{ "time": 0, "x": -1.08, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"head_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 12.83 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{
+						"time": 0,
+						"x": -2.16,
+						"y": -6.7,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4667,
+						"x": -4.77,
+						"y": -19.51,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 0.8333, "x": -1.77, "y": -10.93 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.735, "y": 0.645 },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"krishka_serg": {
+					"krishka_serg": [
+						{
+							"time": 0,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -0.95441, -4.80243, -23.02833, -3.40384 ]
+						},
+						{
+							"time": 0.4,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -12.90619, -14.13693, -23.02833, -3.40384 ]
+						},
+						{
+							"time": 0.8333,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -0.95441, -4.80243, -23.02833, -3.40384 ]
+						}
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "banka_up_serg", "offset": 8 },
+					{ "slot": "krishka_serg", "offset": 8 },
+					{ "slot": "nose_serg", "offset": -1 }
+				]
+			},
+			{
+				"time": 0.8333,
+				"offsets": [
+					{ "slot": "banka_up_serg", "offset": 8 },
+					{ "slot": "krishka_serg", "offset": 8 },
+					{ "slot": "nose_serg", "offset": -1 }
+				]
+			}
+		]
+	},
+	"3": {
+		"slots": {
+			"eye2_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "eye2_serg" }
+				]
+			},
+			"head_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "head_serg" }
+				]
+			},
+			"krishka_serg": {
+				"attachment": [
+					{ "time": 0.7, "name": "krishka_serg" },
+					{ "time": 0.8333, "name": "krishka_serg" }
+				]
+			},
+			"krushka_open_serg": {
+				"attachment": [
+					{ "time": 0.6667, "name": "krushka_open_serg" },
+					{ "time": 0.7, "name": null }
+				]
+			},
+			"nose_serg": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "nose_serg" }
+				]
+			},
+			"ten_serg": {
+				"attachment": [
+					{ "time": 0, "name": "ten_serg" }
+				]
+			}
+		},
+		"bones": {
+			"nose_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0.13, "y": 0.07 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.996, "y": 0.996 },
+					{ "time": 0.3333, "x": 0.753, "y": 0.996 },
+					{ "time": 0.8333, "x": 0.996, "y": 0.996 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": 10.08, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"krushka_open_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.4667, "angle": 0 },
+					{ "time": 0.6667, "angle": -4.5 }
+				],
+				"translate": [
+					{ "time": 0, "x": -1.38, "y": 4.15, "curve": "stepped" },
+					{ "time": 0.4667, "x": -1.38, "y": 4.15 },
+					{ "time": 0.6667, "x": -1.15, "y": 1.6 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4667, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 0.165, "y": 1.052 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.4667, "x": 0, "y": 0 }
+				]
+			},
+			"krishka_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 4.95 },
+					{ "time": 0.7, "angle": 14.03 },
+					{ "time": 0.8333, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.7, "x": 5.55, "y": 3 },
+					{ "time": 0.8333, "x": 0.7, "y": -1.11 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.434, "y": 1.376 },
+					{ "time": 0.7, "x": 0.066, "y": 1.417 },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": -168.8, "y": 0 },
+					{ "time": 0.7, "x": -13.14, "y": 0 },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"head_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": -1.77, "y": -10.93 },
+					{ "time": 0.8333, "x": 0.03, "y": -0.08 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1, "y": 0.912 },
+					{ "time": 0.8333, "x": 1, "y": 1 }
+				]
+			},
+			"eye2_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0.06 }
+				],
+				"translate": [
+					{ "time": 0, "x": 9.85, "y": 7.31 },
+					{ "time": 0.8333, "x": 11.91, "y": 8.51 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.983, "y": 0.999, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0.983, "y": 0.999 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.8333, "x": 0, "y": 0 }
+				]
+			},
+			"body_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -6.42, "y": 4.82 },
+					{ "time": 0.8333, "x": -0.1, "y": 0.34 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 1.055, "y": 1.055 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"wing1_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 22.78 },
+					{ "time": 0.8333, "angle": 0 }
+				]
+			},
+			"wing2_serg": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 57.14 },
+					{ "time": 0.8333, "angle": 0 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"body_serg": {
+					"body_serg": [
+						{
+							"time": 0,
+							"offset": 2,
+							"vertices": [ 2.50665, -24.22113, -8.45443, -17.699, -23.24605, -14.24161, 0, 0, 0, 0, 0, 0, -1.17787, -3.31299 ]
+						},
+						{
+							"time": 0.3333,
+							"vertices": [ 7.61412, -19.24373, 14.08842, -22.92991, -4.00581, -17.52025, -3.44006, 9.69158, 0, 0, 0, 0, 14.24784, -15.92129, -4.65407, -14.63255 ]
+						},
+						{ "time": 0.8333 }
+					]
+				},
+				"krishka_serg": {
+					"krishka_serg": [
+						{
+							"time": 0,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -0.95441, -4.80243, -23.02833, -3.40384 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 0.7,
+							"vertices": [ -23.80217, -2.18525, 0, 0, 0, 0, -0.05007, 2.93895, -0.95441, -4.80243, -23.02833, -3.40384 ]
+						},
+						{ "time": 0.8333 }
+					]
+				},
+				"ten_serg": {
+					"ten_serg": [
+						{ "time": 0 },
+						{
+							"time": 0.2,
+							"offset": 2,
+							"vertices": [ -0.25, -2.25, 13.5, 17.49998, 1.49999, -1.25 ]
+						},
+						{
+							"time": 0.3333,
+							"offset": 3,
+							"vertices": [ 4.75001, 23.50001, 18.99999, 1.49999, -1.25 ]
+						}
+					]
+				}
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "banka_up_serg", "offset": 8 },
+					{ "slot": "krishka_serg", "offset": 8 },
+					{ "slot": "nose_serg", "offset": -1 }
+				]
+			},
+			{
+				"time": 0.2,
+				"offsets": [
+					{ "slot": "banka_up_serg", "offset": 8 },
+					{ "slot": "krishka_serg", "offset": 8 },
+					{ "slot": "nose_serg", "offset": 0 },
+					{ "slot": "ten_serg", "offset": -5 }
+				]
+			},
+			{
+				"time": 0.3333,
+				"offsets": [
+					{ "slot": "banka_up_serg", "offset": 2 },
+					{ "slot": "krishka_serg", "offset": 8 },
+					{ "slot": "nose_serg", "offset": 1 },
+					{ "slot": "ten_serg", "offset": -8 }
+				]
+			},
+			{
+				"time": 0.7,
+				"offsets": [
+					{ "slot": "shadow_serg", "offset": -2 },
+					{ "slot": "nose_serg", "offset": 3 },
+					{ "slot": "ten_serg", "offset": -8 },
+					{ "slot": "krushka_open_serg", "offset": -6 }
+				]
+			},
+			{
+				"time": 0.8333,
+				"offsets": [
+					{ "slot": "eye2_serg", "offset": 2 },
+					{ "slot": "ten_serg", "offset": -8 }
+				]
+			}
+		]
+	}
+}
+}
