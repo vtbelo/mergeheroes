@@ -19,7 +19,7 @@
       "ref"  : "origin/main",
       "repo" : "git@github.com:vtbelo/mergeheroes.git",
       "path" : "/var/www/html/release/mergeheroes",
-      "post-deploy" : "cd cleverapps && git pull && cd - && node /root/cleverapps/common/bots/sendmsg.js mergeheroes"
+      "post-deploy" : "echo 'updated'"
     }
   }
 }
