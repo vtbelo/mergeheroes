@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "",
+    "database": "wordsoup",
+    "multipleStatements": true
+  },
+
+  "staging": {
+    "driver": "mysql",
+    "user": "wordsoup_user",
+    "password": "123wordsoup",
+    "database": "wordsoup",
+    "multipleStatements": true
+  },
+
+  "release": {
+    "driver": "mysql",
+    "user": "wordsoup_user",
+    "password": "ojhczz7632s",
+    "database": "wordsoup",
+    "multipleStatements": true
+  },
+
+  "sql-file" : true
+}
