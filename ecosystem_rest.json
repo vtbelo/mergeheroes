@@ -2,7 +2,7 @@
   "apps" : [
 
     {
-      "name"      : "mergehereoes",
+      "name"      : "mergeheroes",
       "script"    : "cleverapps/levels/rest/bin/www",
       "exec_mode" : "cluster",
       "merge_logs": true,
