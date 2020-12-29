@@ -1,0 +1,60 @@
+{
+"skeleton": { "hash": "VwVf0Tj7WSKLe8tWZQcaYjgpCEs", "spine": "3.7.91", "width": 300.73, "height": 232, "images": "../../Desktop/loading/images/", "audio": "C:/Users/Админ/Desktop/logo_riddles_wonder_merge" },
+"bones": [
+	{ "name": "root", "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "logo", "parent": "root" },
+	{ "name": "logo_ellipse", "parent": "logo", "x": 1.23, "y": 2.18 },
+	{ "name": "logo_word", "parent": "logo", "x": -1.62, "y": -2.18, "scaleX": 0.775, "scaleY": 0.775 }
+],
+"slots": [
+	{ "name": "logo_ellipse", "bone": "logo_ellipse", "attachment": "logo_ellipse" },
+	{ "name": "logo_word", "bone": "logo_word", "attachment": "logo_word" }
+],
+"skins": {
+	"default": {
+		"logo_ellipse": {
+			"logo_ellipse": { "x": -1.13, "y": -7.23, "width": 221, "height": 232 }
+		},
+		"logo_word": {
+			"logo_word": { "x": -1.78, "y": -2.87, "width": 388, "height": 222 }
+		}
+	}
+},
+"animations": {
+	"animation_en": {
+		"bones": {
+			"logo_word": {
+				"scale": [
+					{ "time": 0, "x": 0.055, "y": 0.055 },
+					{ "time": 0.2333, "x": 1.071, "y": 1.071 },
+					{ "time": 0.3333, "x": 0.986, "y": 0.986 },
+					{ "time": 0.4667, "x": 1.071, "y": 1.071 }
+				]
+			},
+			"logo_ellipse": {
+				"scale": [
+					{ "time": 0, "x": 0.055, "y": 0.055, "curve": "stepped" },
+					{ "time": 0.0667, "x": 0.055, "y": 0.055 },
+					{ "time": 0.3, "x": 1.071, "y": 1.071 },
+					{ "time": 0.4, "x": 0.986, "y": 0.986 },
+					{ "time": 0.5333, "x": 1.071, "y": 1.071 }
+				]
+			}
+		}
+	},
+	"animation_en_idle": {
+		"bones": {
+			"logo_word": {
+				"scale": [
+					{ "time": 0, "x": 1.071, "y": 1.071 }
+				]
+			},
+			"logo_ellipse": {
+				"scale": [
+					{ "time": 0, "x": 1.071, "y": 1.071 }
+				]
+			}
+		}
+	}
+}
+}

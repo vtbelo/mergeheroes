@@ -1,0 +1,20 @@
+
+loading_scene-ce9bdeb1d4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+logo_ellipse
+  rotate: false
+  xy: 1, 225
+  size: 221, 232
+  orig: 221, 232
+  offset: 0, 0
+  index: -1
+logo_word
+  rotate: false
+  xy: 1, 1
+  size: 388, 222
+  orig: 388, 222
+  offset: 0, 0
+  index: -1
